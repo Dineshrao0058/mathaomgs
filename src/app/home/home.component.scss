@@ -1,0 +1,74 @@
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.sidenav .mat-toolbar {
+  background: inherit;
+}
+
+.mat-toolbar.mat-primary {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background: inherit;
+}
+.img{
+ width: 20px;
+ height: 40px;
+}
+
+.main{
+  background-color: #f0efef;
+}
+.wall{
+  background:url('../../assets/images/wall-c.webp');
+  background-repeat: no-repeat;
+}
+.photocard{
+ background: url('../../assets/images/edit.png');
+ background-repeat: no-repeat;
+ background-size: cover;
+ margin: auto;
+ width: 100%;
+}
+.photocard{
+  height: 400px;
+}
+.shape1 {
+  height: 28px;
+  width: 40px;
+  background-color:rgb(197, 157, 83);
+}
+.shape2 {
+  height: 28px;
+  width: 40px;
+  background-color:rgb(197, 157, 83);
+  border-radius: 50%;
+}
+.shape3 {
+  display: block;
+  height: 28px;
+  width: 40px;
+  background-color:rgb(197, 157, 83);
+  border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+}
+.ab{
+color:purple;
+}
+.ma{
+  border-bottom: 1px dotted black ;
+}
+.ba{
+  color: green;
+}
+.ca{
+  color: red;
+}
+.sa{
+  color: green;
+}
+  
