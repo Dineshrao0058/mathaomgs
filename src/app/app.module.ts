@@ -12,13 +12,17 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { MainComponent } from './main/main.component';
 import { HomeComponent } from './home/home.component';
+import { DesignComponent } from './design/design.component';
+import { WallclockComponent } from './wallclock/wallclock.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     SidenavComponent,
     MainComponent,
-    HomeComponent
+    HomeComponent,
+    DesignComponent,
+    WallclockComponent
   ],
   imports: [
     BrowserModule,
