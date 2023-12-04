@@ -14,6 +14,7 @@ import { MainComponent } from './main/main.component';
 import { HomeComponent } from './home/home.component';
 import { DesignComponent } from './design/design.component';
 import { WallclockComponent } from './wallclock/wallclock.component';
+import { TransparentComponent } from './transparent/transparent.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { WallclockComponent } from './wallclock/wallclock.component';
     MainComponent,
     HomeComponent,
     DesignComponent,
-    WallclockComponent
+    WallclockComponent,
+    TransparentComponent
   ],
   imports: [
     BrowserModule,

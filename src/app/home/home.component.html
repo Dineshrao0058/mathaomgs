@@ -3,22 +3,22 @@
     [mode]="(isHandset$ | async) ? 'over' : 'side'">
     <mat-toolbar><i class="bi bi-house-heart-fill"></i>Menu</mat-toolbar>
     <mat-nav-list>
-      <a class="links nav-link" routerLink="home">Premium Acrylic photo</a>
+      <a mat-list-item routerLink="home">Premium Acrylic photo</a>
       <a mat-list-item routerLink="design">Acryilic Photo with Design</a>
       <a mat-list-item routerLink="clock" >Acryilic Wall Clock</a>
-      <a mat-list-item routerLink="" >Transparent Acrylic Photo</a>
+      <a mat-list-item routerLink="transparent" >Transparent Acrylic Photo</a>
       <a mat-list-item routerLink="" >Wall Photo</a>
       <a mat-list-item routerLink="" >Fridge Magnet</a>
     </mat-nav-list>
   </mat-sidenav>
   <mat-sidenav-content>
     <div class="row p-1 m-0">
-      <div class="col-sm-1">
+      <div class="col-sm-2">
         <button type="button" mat-icon-button (click)="drawer.toggle()">
           <mat-icon aria-label="Side nav toggle icon"><i class="bi bi-list"></i>menu</mat-icon>
         </button>
       </div>
-      <div class="col-sm-9">
+      <div class="col-sm-8">
         <div class= " card-header text-center ma">
           <img src="../../assets/images/download.png" alt="" width="160" height="40">
         </div>
