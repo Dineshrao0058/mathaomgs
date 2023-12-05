@@ -16,7 +16,8 @@ const routes: Routes = [
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
       { path: 'transparent', component: TransparentComponent },
-      { path: 'wallphoto', component: WallphotoComponent }
+      { path: 'wallphoto', component: WallphotoComponent },
+      {path:'nameplate',component:WallphotoComponent}
     ]
   }
 ];
