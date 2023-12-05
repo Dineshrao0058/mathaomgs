@@ -5,16 +5,18 @@ import { DesignComponent } from './design/design.component';
 import { MainComponent } from './main/main.component';
 import { WallclockComponent } from './wallclock/wallclock.component';
 import { TransparentComponent } from './transparent/transparent.component';
+import { WallphotoComponent } from './wallphoto/wallphoto.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
   {
     path: 'home', component: HomeComponent, children: [
-      {path:'', redirectTo:'main', pathMatch:'full'},
-      {path:'main',component:MainComponent},
+      { path: '', redirectTo: 'main', pathMatch: 'full' },
+      { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
-      {path: 'clock', component:WallclockComponent},
-      {path:'transparent',component:TransparentComponent}
+      { path: 'clock', component: WallclockComponent },
+      { path: 'transparent', component: TransparentComponent },
+      { path: 'wallphoto', component: WallphotoComponent }
     ]
   }
 ];

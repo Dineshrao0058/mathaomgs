@@ -15,6 +15,8 @@ import { HomeComponent } from './home/home.component';
 import { DesignComponent } from './design/design.component';
 import { WallclockComponent } from './wallclock/wallclock.component';
 import { TransparentComponent } from './transparent/transparent.component';
+import { WallphotoComponent } from './wallphoto/wallphoto.component';
+import { NameplateComponent } from './nameplate/nameplate.component';
 
 @NgModule({
   declarations: [
@@ -24,7 +26,9 @@ import { TransparentComponent } from './transparent/transparent.component';
     HomeComponent,
     DesignComponent,
     WallclockComponent,
-    TransparentComponent
+    TransparentComponent,
+    WallphotoComponent,
+    NameplateComponent
   ],
   imports: [
     BrowserModule,
