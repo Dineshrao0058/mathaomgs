@@ -6,6 +6,7 @@ import { MainComponent } from './main/main.component';
 import { WallclockComponent } from './wallclock/wallclock.component';
 import { TransparentComponent } from './transparent/transparent.component';
 import { WallphotoComponent } from './wallphoto/wallphoto.component';
+import { FrameComponent } from './frame/frame.component';
 
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
@@ -17,7 +18,8 @@ const routes: Routes = [
       { path: 'clock', component: WallclockComponent },
       { path: 'transparent', component: TransparentComponent },
       { path: 'wallphoto', component: WallphotoComponent },
-      {path:'nameplate',component:WallphotoComponent}
+      { path: 'nameplate', component: WallphotoComponent },
+      { path: 'frame', component: FrameComponent }
     ]
   }
 ];

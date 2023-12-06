@@ -1,16 +1,34 @@
 <mat-sidenav-container class="sidenav-container">
   <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
     [mode]="(isHandset$ | async) ? 'over' : 'side'">
-    <mat-toolbar><i class="bi bi-house"></i>Menu</mat-toolbar>
+    <mat-toolbar> <i class="bi bi-house"></i>Menu</mat-toolbar>
     <mat-nav-list>
-      <a mat-list-item routerLink="main">Premium Acrylic photo</a>
-      <a mat-list-item routerLink="design">Acryilic Photo with Design</a>
-      <a mat-list-item routerLink="clock">Acryilic Wall Clock</a>
-      <a mat-list-item routerLink="transparent"> Acryilic Transparent Acrylic Photo</a>
-      <a mat-list-item routerLink="wallphoto"> Acryilic Wall Photo</a>
-      <a mat-list-item routerLink=""  >Acryilic Fridge Magnet</a>
-      <a mat-list-item routerLink="">Acryilic Car Photo</a>
-      <a mat-list-item routerLink="nameplate">Acrylic Name Plate</a>
+      <hr>
+
+      <a mat-list-item routerLink="main"> <span><img src="../../assets/images/m1.png " width="50" height="50"></span>
+        Premium Acrylic photo</a>
+      <hr>
+      <!-- <a mat-list-item routerLink="design"><span><img src="../../assets/images/m2.png " width="50"
+            height="50"></span>Acryilic Photo with Design</a>
+      <hr>
+      <a class="mn" mat-list-item routerLink="clock"><span><img src="../../assets/images/m3.png " width="50"
+            height="50"></span>Acryilic Wall Clock</a>
+      <hr>
+      <a mat-list-item routerLink="transparent"><span><img src="../../assets/images/m4.png" width="50"
+            height="50"></span> Acryilic Transparent Acrylic Photo</a>
+      <hr>
+      <a mat-list-item routerLink="wallphoto"><span><img src="../../assets/images/m5.png" width="50" height="50"></span>
+        Acryilic Wall Photo</a>
+      <hr>
+      <a mat-list-item routerLink=""><span><img src="../../assets/images/m6.png" width="50" height="50"></span>Acryilic
+        Fridge Magnet</a>
+      <hr>
+      <a mat-list-item><span><img src="../../assets/images/m7.png" width="50" height="50"></span>Acryilic Car
+        Photo</a>
+      <hr>
+      <a mat-list-item routerLink="nameplate"><span><img src="../../assets/images/m8.png" width="50"
+            height="50"></span>Acrylic Name Plate</a>
+      <hr> -->
 
     </mat-nav-list>
   </mat-sidenav>
@@ -21,12 +39,12 @@
           <mat-icon aria-label="Side nav toggle icon"><i class="bi bi-list"></i>menu</mat-icon>
         </button>
       </div>
-      <div class="col-sm-8">
+      <div class="col-sm-7">
         <div class=" card-header text-center ma">
-          <img src="../../assets/images/download.png" alt="" width="160" height="40">
+          <img src="../../assets/images/download.png" alt="" width="150" height="40">
         </div>
       </div>
-      <div class="col-sm-1">
+      <div class="col-sm-2 text-end">
         <button class="btn btn-secondary mt-2"><i class="bi bi-bag mt-2"></i>Cart/₹</button>
       </div>
       <div class="col-sm-1">
