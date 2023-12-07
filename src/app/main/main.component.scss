@@ -19,25 +19,31 @@
     height: 400px;
 }
 
-.shape1 {
-    height: 28px;
+.square {
+    height: 40px;
     width: 40px;
-    background-color: rgb(197, 157, 83);
+    background-color: tan;
 }
 
-.shape2 {
-    height: 28px;
+.circle {
+    height: 40px;
     width: 40px;
-    background-color: rgb(197, 157, 83);
+    background-color: tan;
     border-radius: 50%;
 }
 
-.shape3 {
-    display: block;
-    height: 28px;
+.hexogonal {
+    height: 40px;
     width: 40px;
-    background-color: rgb(197, 157, 83);
-    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    background-color: tan;
+    border-radius: 25%;
+}
+
+.rectangle {
+    height: 40px;
+    width: 40px;
+    background-color: tan;
+    
 }
 
 .bb {

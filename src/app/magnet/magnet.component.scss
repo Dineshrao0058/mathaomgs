@@ -1,0 +1,43 @@
+.square {
+    height: 50px;
+    width: 50px;
+    background-color:tan;
+  }
+  .circle {
+    height: 50px;
+    width: 50px;
+    background-color:tan;
+    border-radius:50%;
+  }
+  .hexogonal {
+    height: 50px;
+    width: 50px;
+    background-color:tan;
+    border-radius:25%;
+  }
+.rectangle{
+    height: 50px;
+    width: 60px;
+    background-color:tan;
+    border-radius:90%;
+}
+.s{
+    background-color:#f01f10;
+    color:white;
+}
+#s1{
+    background-color:#3498DB;
+    color:white;
+}
+#s2{
+    background-color: #23bb08;
+    color:white;
+    padding:1px;
+}
+.s3{
+    color:red;
+}
+.ridge {border-style: ridge;}
+.checked {
+  color: orange;
+}

@@ -17,6 +17,7 @@ import { TransparentComponent } from './transparent/transparent.component';
 import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
 import { FrameComponent } from './frame/frame.component';
+import { MagnetComponent } from './magnet/magnet.component';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { FrameComponent } from './frame/frame.component';
     TransparentComponent,
     WallphotoComponent,
     NameplateComponent,
-    FrameComponent
+    FrameComponent,
+    MagnetComponent
   ],
   imports: [
     BrowserModule,
