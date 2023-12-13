@@ -13,7 +13,7 @@ const routes: Routes = [
   { path: '', component: HomeComponent },
   {
     path: 'home', component: HomeComponent, children: [
-      { path: 'main', component: MainComponent },
+      { path: '', component: MainComponent },
       { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
