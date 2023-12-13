@@ -10,10 +10,10 @@ import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 
 const routes: Routes = [
-  { path: '', redirectTo: 'home', pathMatch: 'full' },
+  { path: '', component: HomeComponent },
   {
     path: 'home', component: HomeComponent, children: [
-      { path: '', redirectTo: 'main', pathMatch: 'full' },
+      { path: 'main', component: MainComponent },
       { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
@@ -21,7 +21,7 @@ const routes: Routes = [
       { path: 'wallphoto', component: WallphotoComponent },
       { path: 'nameplate', component: WallphotoComponent },
       { path: 'frame', component: FrameComponent },
-      {path: 'magnet',component:MagnetComponent}
+      { path: 'magnet', component: MagnetComponent }
     ]
   }
 ];
