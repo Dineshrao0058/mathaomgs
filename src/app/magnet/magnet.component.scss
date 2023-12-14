@@ -1,28 +1,37 @@
+.bg-pic {
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  height: 300px;
+  background-color: rgb(212, 208, 208);
+  width: 70%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 .square {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     background-color:tan;
   }
   .circle {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     background-color:tan;
     border-radius:50%;
   }
   .hexogonal {
-    height: 50px;
-    width: 50px;
+    height: 30px;
+    width: 30px;
     background-color:tan;
     border-radius:25%;
   }
 .rectangle{
-    height: 50px;
-    width: 60px;
+    height: 30px;
+    width: 30px;
     background-color:tan;
     border-radius:90%;
 }
 .s{
-    background-color:#f01f10;
+    background-color:orangered;
     color:white;
 }
 #s1{
