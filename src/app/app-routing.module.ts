@@ -10,11 +10,9 @@ import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 
 const routes: Routes = [
-
-  { path: '', redirectTo: 'home', pathMatch: 'full' },
   {
-    path: 'home', component: HomeComponent, children: [
-      { path: '', redirectTo: 'main', pathMatch: 'full' },
+    path: '', component: HomeComponent, children: [
+      { path: '', component: MainComponent },
       { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
