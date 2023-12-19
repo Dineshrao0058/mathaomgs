@@ -1,17 +1,46 @@
-h3{
-    font-weight: bold;
-}
-.main{
+// h3 {
+//     font-weight:600;
+// }
+
+.main {
     background-color: rgb(245, 246, 246);
 }
+
 .card-body {
     background-color: rgb(245, 246, 246);
 }
-.ca{
+
+.ca {
+    background-color: rgb(245, 246, 246);
+    font-size: small;
+}
+
+.bv {
+    background-color: rgb(90, 73, 73);
+    height: 600px;
+}
+.vb {
+    background-color: rgb(173, 169, 169);
+    height: 600px;
+    
+}
+.cd{
+    background-color: white;
+    height: 450px;
+}
+
+.cc {
+    background-color: white;
+}
+.cb{
     background-color: rgb(245, 246, 246);
 }
-.bv{
-    background-color:black;
-    margin-top: 60px;
-    margin-left: 60px;
+
+.a {
+    font-weight: bold;
+}
+
+.s {
+    padding: 40px;
+    color: #f1f1f1
 }
