@@ -70,3 +70,67 @@
 .b {
     border: 1px solid rgb(63, 59, 59);
 }
+.p5{
+    font-size: larger;
+ font-family:    SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.p6{
+    font-size: xx-large;
+}
+.p7{
+    font-size: large;
+    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.p8{
+    font-size: medium;
+    font-family:  SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.f1{
+    font-family: Roboto, sans-serif;
+}
+.f2{
+    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;;
+}
+#clockContainer {
+	position: relative;
+	margin: auto;
+	height: 40vw;
+	/*to make the height and width responsive*/
+	width: 40vw;
+    /*setting our background image*/
+	background-size: 100%;
+}
+
+#hour,
+#minute,
+#second {
+	position: absolute;
+	background: black;
+	border-radius: 10px;
+	transform-origin: bottom;
+}
+
+#hour {
+	width: 1.8%;
+	height: 20%;
+	top: 25%;
+	left: 48.85%;
+	opacity: 0.8;
+}
+
+#minute {
+	width: 1.6%;
+	height: 25%;
+	top: 19%;
+	left: 48.9%;
+	opacity: 0.8;
+}
+
+#second {
+	width: 1%;
+	height: 35%;
+	top: 9%;
+	left: 49.25%;
+	opacity: 0.8;
+}
