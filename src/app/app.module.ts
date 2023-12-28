@@ -18,6 +18,7 @@ import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
 import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
+import { UploadComponent } from './upload/upload.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { MagnetComponent } from './magnet/magnet.component';
     WallphotoComponent,
     NameplateComponent,
     FrameComponent,
-    MagnetComponent
+    MagnetComponent,
+    UploadComponent
   ],
   imports: [
     BrowserModule,
