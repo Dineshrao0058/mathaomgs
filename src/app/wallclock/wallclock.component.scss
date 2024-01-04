@@ -39,9 +39,11 @@
     background-color: rgb(197, 157, 83);
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
 }
-.bb{
+
+.bb {
     background-color: orangered;
 }
+
 .ab {
     color: purple;
 }
@@ -58,7 +60,8 @@
 .ca {
     color: red;
 }
-.a{
+
+.a {
     font-weight: bold;
 }
 
@@ -66,6 +69,75 @@
     color: green;
 }
 
+.drag-image {
+    border: 1px dashed #fff;
+    height: 350px;
+    width: 600px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.drag-image.active {
+    border: 2px solid #fff;
+}
+
+.drag-image .icon {
+    font-size: 30px;
+    color: #fff;
+}
+
+.drag-image h6 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
+}
+
+.drag-image span {
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    margin: 10px 0 15px 0;
+}
+
+.drag-image button {
+    padding: 10px 25px;
+    font-size: 14px;
+    font-weight: 300;
+    border: none;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.drag-image button:hover {
+    background-color: #fff;
+    color: red;
+}
+
+.image {
+    height: 350px;
+    width: 600px;
+}
+
+input[type="file"] {
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+}
+
+.upload {
+    font-size: 100px;
+    color: black;
+    cursor: pointer;
+
+}
 .ac {
     background-color: green;
 }
@@ -73,67 +145,74 @@
 .b {
     border: 1px solid rgb(63, 59, 59);
 }
-.p5{
+
+.p5 {
     font-size: larger;
- font-family:    SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
-}
-.p6{
-    font-size: xx-large;
-}
-.p7{
-    font-size: large;
-    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
-}
-.p8{
-    font-size: medium;
-    font-family:  SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-family: SF Pro Text, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
-.f1{
+.p6 {
+    font-size: xx-large;
+}
+
+.p7 {
+    font-size: large;
+    font-family: SF Pro Text, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.p8 {
+    font-size: medium;
+    font-family: SF Pro Text, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.f1 {
     font-family: Roboto, sans-serif;
 }
-.f2{
-    font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;;
+
+.f2 {
+    font-family: SF Pro Text, Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    ;
 }
+
 #clockContainer {
-	position: relative;
-	margin: auto;
-	height: 40vw;
-	/*to make the height and width responsive*/
-	width: 40vw;
+    position: relative;
+    margin: auto;
+    height: 40vw;
+    /*to make the height and width responsive*/
+    width: 40vw;
     /*setting our background image*/
-	background-size: 100%;
+    background-size: 100%;
 }
 
 #hour,
 #minute,
 #second {
-	position: absolute;
-	background: black;
-	border-radius: 10px;
-	transform-origin: bottom;
+    position: absolute;
+    background: black;
+    border-radius: 10px;
+    transform-origin: bottom;
 }
 
 #hour {
-	width: 1.8%;
-	height: 20%;
-	top: 25%;
-	left: 48.85%;
-	opacity: 0.8;
+    width: 1.8%;
+    height: 20%;
+    top: 25%;
+    left: 48.85%;
+    opacity: 0.8;
 }
 
 #minute {
-	width: 1.6%;
-	height: 25%;
-	top: 19%;
-	left: 48.9%;
-	opacity: 0.8;
+    width: 1.6%;
+    height: 25%;
+    top: 19%;
+    left: 48.9%;
+    opacity: 0.8;
 }
 
 #second {
-	width: 1%;
-	height: 35%;
-	top: 9%;
-	left: 49.25%;
-	opacity: 0.8;
+    width: 1%;
+    height: 35%;
+    top: 9%;
+    left: 49.25%;
+    opacity: 0.8;
 }
