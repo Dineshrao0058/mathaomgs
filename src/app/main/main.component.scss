@@ -8,16 +8,18 @@
 }
 
 .bg-pic {
-    background: url('../../assets/images/edit.png');
+    // background: url('../../assets/images/image.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
     width: 70%;
 }
-
-.photocard {
-    height: 400px;
+.upload-icon{
+    font-size: 100px;
+    text-align: center;
+    padding-top: 150px;
 }
+
 
 .square {
     height: 40px;
@@ -48,6 +50,7 @@
 
 .bb {
     background-color: orangered;
+    cursor: pointer;
 }
 
 .ab {
@@ -80,3 +83,67 @@
 .ac {
     background-color: green;
 }
+
+.drag-image{
+    border: 1px dashed #fff;
+    height: 350px;
+    width: 100%;
+    font-weight:400;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+  .drag-image.active{
+    border: 2px solid #fff;
+  }
+  .drag-image .icon{
+    font-size: 30px;
+    color: #fff;
+  }
+  .drag-image h6{
+    font-size: 20px;
+    font-weight: 300;
+    color: #fff;
+  }
+  .drag-image span{
+    font-size: 14px;
+    font-weight: 300;
+    color: #fff;
+    margin: 10px 0 15px 0;
+  }
+  .drag-image button{
+    padding: 10px 25px;
+    font-size: 14px; 
+    font-weight: 300;
+    border: none;
+    outline: none;
+    background:transparent;
+    color: #fff;
+    border:1px solid #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition:all 0.5s;
+  }
+  
+  .drag-image button:hover{
+      background-color:#fff;
+      color:red;
+  }
+  
+  .image{
+    height: 350px;
+    width: 600px;
+  }
+  input[type="file"]{
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+  }
+  .upload{
+    font-size: 100px;
+    color: black;
+    cursor: pointer;
+
+  }
+    
