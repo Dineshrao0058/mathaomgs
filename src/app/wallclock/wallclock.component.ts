@@ -9,6 +9,10 @@ export class WallclockComponent {
   uploadFile: any;
   showImg: boolean = false;
   hideFile: boolean = true;
+  btns: boolean = false;
+  btn: boolean = false;
+  bntStyle: any;
+
   viewfile(event: any) {
     if (event.target.files && event.target.files[0]) {
       var image1 = new FileReader();
@@ -22,5 +26,19 @@ export class WallclockComponent {
         console.log(this.uploadFile);
       }
     }
+  }
+
+
+
+  applyShape(){
+    this.bntStyle = 'rectangle'
+  }
+
+
+  disabledbutton() {
+    this.btns = true
+  }
+  disablebutton(){
+    this.btn = true
   }
 }
