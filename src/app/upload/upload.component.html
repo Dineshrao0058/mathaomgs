@@ -1,4 +1,15 @@
-<div class="drag-image">
-    <img id="i1">
+<!-- card.component.html -->
+<div class="card">
+    <div [ngSwitch]="currentShape">
+      <div *ngSwitchCase="'circle'" class="circle">Circle</div>
+      <div *ngSwitchCase="'square'" class="square">Square</div>
+      <div *ngSwitchCase="'triangle'" class="triangle">Triangle</div>
+    </div>
   
-</div>
+    <div class="button-container">
+      <button (click)="changeShape('circle')">Circle</button>
+      <button (click)="changeShape('square')">Square</button>
+      <button (click)="changeShape('triangle')">Triangle</button>
+    </div>
+  </div>
+  

@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./main.component.scss']
 })
 export class MainComponent {
+  ngSwitch!:any;
   uploadFile: any;
   showImg: boolean = false;
   hideFile: boolean = true;
