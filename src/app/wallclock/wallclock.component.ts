@@ -28,9 +28,7 @@ export class WallclockComponent {
     }
   }
 
-
-
-  applyShape(){
+  applyShape() {
     this.bntStyle = 'rectangle'
   }
 
@@ -38,7 +36,7 @@ export class WallclockComponent {
   disabledbutton() {
     this.btns = true
   }
-  disablebutton(){
+  disablebutton() {
     this.btn = true
   }
 }

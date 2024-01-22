@@ -138,6 +138,7 @@ input[type="file"] {
     cursor: pointer;
 
 }
+
 .square {
     height: 40px;
     width: 40px;
@@ -163,7 +164,7 @@ input[type="file"] {
     height: 40px;
     width: 40px;
     background-color: tan;
- clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
+    clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
 
 }
 
@@ -171,7 +172,7 @@ input[type="file"] {
     height: 40px;
     width: 40px;
     background-color: tan;
-clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+    clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
 
 .ac {

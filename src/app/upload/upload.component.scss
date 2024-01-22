@@ -1,36 +1,35 @@
 /* card.component.css */
 .card {
-    width: 200px;
-    height: 200px;
-    border: 2px solid #333;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 20px;
-  }
-  
-  .circle {
-    background-color: lightblue;
-    border-radius: 50%;
-  }
-  
-  .square {
-    background-color: lightgreen;
-  }
-  
-  .triangle {
-    width: 0;
-    height: 0;
-    border-left: 40px solid transparent;
-    border-right: 40px solid transparent;
-    border-bottom: 70px solid red;
-  }
-  
-  .button-container {
-    margin-top: 10px;
-  }
-  
-  button {
-    margin-right: 10px;
-  }
-  
+  width: 200px;
+  height: 200px;
+  border: 2px solid #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px;
+}
+
+.circle {
+  background-color: lightblue;
+  border-radius: 50%;
+}
+
+.square {
+  background-color: lightgreen;
+}
+
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 40px solid transparent;
+  border-right: 40px solid transparent;
+  border-bottom: 70px solid red;
+}
+
+.button-container {
+  margin-top: 10px;
+}
+
+button {
+  margin-right: 10px;
+}

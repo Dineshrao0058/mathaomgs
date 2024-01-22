@@ -11,46 +11,58 @@
   width: 70%;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
+
 .square {
-    height: 30px;
-    width: 30px;
-    background-color:tan;
-  }
-  .circle {
-    height: 30px;
-    width: 30px;
-    background-color:tan;
-    border-radius:50%;
-  }
-  .hexogonal {
-    height: 30px;
-    width: 30px;
-    background-color:tan;
-    border-radius:25%;
-  }
-.rectangle{
-    height: 30px;
-    width: 30px;
-    background-color:tan;
-    border-radius:90%;
+  height: 30px;
+  width: 30px;
+  background-color: tan;
 }
-.s{
-    background-color:orangered;
-    color:white;
+
+.circle {
+  height: 30px;
+  width: 30px;
+  background-color: tan;
+  border-radius: 50%;
 }
-#s1{
-    background-color:#3498DB;
-    color:white;
+
+.hexogonal {
+  height: 30px;
+  width: 30px;
+  background-color: tan;
+  border-radius: 25%;
 }
-#s2{
-    background-color: #23bb08;
-    color:white;
-    padding:1px;
+
+.rectangle {
+  height: 30px;
+  width: 30px;
+  background-color: tan;
+  border-radius: 90%;
 }
-.s3{
-    color:red;
+
+.s {
+  background-color: orangered;
+  color: white;
 }
-.ridge {border-style: ridge;}
+
+#s1 {
+  background-color: #3498DB;
+  color: white;
+}
+
+#s2 {
+  background-color: #23bb08;
+  color: white;
+  padding: 1px;
+}
+
+.s3 {
+  color: red;
+}
+
+.ridge {
+  border-style: ridge;
+}
+
 .checked {
   color: orange;
 }

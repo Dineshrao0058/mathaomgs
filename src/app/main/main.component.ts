@@ -6,12 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./main.component.scss']
 })
 export class MainComponent {
-  ngSwitch!:any;
+  ngSwitch!: any;
   uploadFile: any;
   showImg: boolean = false;
   hideFile: boolean = true;
   btns: boolean = false;
-  btn:boolean = false;
+  btn: boolean = false;
   viewfile(event: any) {
     if (event.target.files && event.target.files[0]) {
       var image1 = new FileReader();
