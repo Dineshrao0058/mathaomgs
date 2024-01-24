@@ -1,0 +1,78 @@
+/*
+Theme Name: Flatsome Child
+Description: This is a child theme for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.0
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+
+
+
+
+/* page-customisex.php */
+.pgrid {
+  padding: 20px 0;
+}
+
+/* clear fix */
+.pgrid:after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+/* ---- .grid-item ---- */
+
+.pgrid-sizer,
+.pgrid-item {
+	width: 30%;
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+.pgrid-item {
+	  display: inline-block;
+	border: 1px solid #d9d6d6;
+	text-align: center;
+	background: #f7f7f7;
+}
+.pgrid-item p {
+		margin: 10px;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: 600;
+}
+.pgrid-item img {
+  display: block;
+  width: 100%;
+}
+@media only screen and (max-width: 600px) {
+	.pgrid-sizer,
+	.pgrid-item {
+		width: 100%;
+		margin-bottom: 20px;
+	}
+}
+
+.page-numbers {
+	max-width: 300px;
+	display: block;
+	margin: 20px auto;
+}
+ul.page-numbers li {
+	display: inline-block;
+	list-style: none;
+}
+ul.page-numbers li a {
+}
+.border-list li {
+	margin: 4px;
+}
+select option {
+	background: #fff;
+}
+/* END page-customisex.php */
+
+

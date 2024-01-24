@@ -1,0 +1,3696 @@
+<!DOCTYPE html>
+<!-- saved from url=(0016)https://omgs.in/ -->
+<html lang="en-US" class="js" style="--flatsome--header--sticky-height: 56px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://omgs.in/xmlrpc.php">
+
+	<script src="./mainimg_files/205523787182641" async=""></script><script src="./mainimg_files/2604027799832949" async=""></script><script async="" src="./mainimg_files/fbevents.js.download"></script><script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>OMGs – Online Merchandised Goods Store</title>
+<meta name="robots" content="max-image-preview:large">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><link rel="dns-prefetch" href="https://www.googletagmanager.com/">
+<link rel="prefetch" href="./mainimg_files/flatsome.js.download">
+<link rel="prefetch" href="https://omgs.in/wp-content/themes/flatsome/assets/js/chunk.slider.js?ver=3.18.2">
+<link rel="prefetch" href="https://omgs.in/wp-content/themes/flatsome/assets/js/chunk.popups.js?ver=3.18.2">
+<link rel="prefetch" href="https://omgs.in/wp-content/themes/flatsome/assets/js/chunk.tooltips.js?ver=3.18.2">
+<link rel="prefetch" href="./mainimg_files/woocommerce.js.download">
+<link rel="alternate" type="application/rss+xml" title="OMGs » Feed" href="https://omgs.in/feed/">
+<link rel="alternate" type="application/rss+xml" title="OMGs » Comments Feed" href="https://omgs.in/comments/feed/">
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/omgs.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id="wp-emoji-styles-inline-css" type="text/css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="woocommerce-inline-inline-css" type="text/css">
+.woocommerce form .form-row .required { visibility: visible; }
+</style>
+<link rel="stylesheet" id="flatsome-main-css" href="./mainimg_files/flatsome.css" type="text/css" media="all">
+<style id="flatsome-main-inline-css" type="text/css">
+@font-face {
+				font-family: "fl-icons";
+				font-display: block;
+				src: url(https://omgs.in/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot?v=3.18.2);
+				src:
+					url(https://omgs.in/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot#iefix?v=3.18.2) format("embedded-opentype"),
+					url(https://omgs.in/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2?v=3.18.2) format("woff2"),
+					url(https://omgs.in/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf?v=3.18.2) format("truetype"),
+					url(https://omgs.in/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff?v=3.18.2) format("woff"),
+					url(https://omgs.in/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg?v=3.18.2#fl-icons) format("svg");
+			}
+</style>
+<link rel="stylesheet" id="flatsome-shop-css" href="./mainimg_files/flatsome-shop.css" type="text/css" media="all">
+<link rel="stylesheet" id="flatsome-style-css" href="./mainimg_files/style.css" type="text/css" media="all">
+<script type="text/javascript" id="google-analytics-opt-out-js-after">
+/* <![CDATA[ */
+			var gaProperty = 'G-8SW0FXKZ98';
+			var disableStr = 'ga-disable-' + gaProperty;
+			if ( document.cookie.indexOf( disableStr + '=true' ) > -1 ) {
+				window[disableStr] = true;
+			}
+			function gaOptout() {
+				document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+				window[disableStr] = true;
+			}
+/* ]]> */
+</script>
+<script type="text/javascript" async="" src="./mainimg_files/js" id="google-tag-manager-js"></script>
+<script type="text/javascript" id="google-tag-manager-js-after">
+/* <![CDATA[ */
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('set', 'developer_id.dOGY3NW', true);
+
+		gtag('config', 'G-8SW0FXKZ98', {
+			'allow_google_signals': true,
+			'link_attribution': true,
+			'anonymize_ip': true,
+			'linker':{
+				'domains': [],
+				'allow_incoming': false,
+			},
+			'custom_map': {
+				'dimension1': 'logged_in'
+			},
+			'logged_in': 'no'
+		} );
+
+		
+		
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mainimg_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./mainimg_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="./mainimg_files/jquery.blockUI.min.js.download" id="jquery-blockui-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="wc-add-to-cart-js-extra">
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/omgs.in\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mainimg_files/add-to-cart.min.js.download" id="wc-add-to-cart-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="./mainimg_files/js.cookie.min.js.download" id="js-cookie-js" data-wp-strategy="defer"></script>
+<link rel="https://api.w.org/" href="https://omgs.in/wp-json/"><link rel="alternate" type="application/json" href="https://omgs.in/wp-json/wp/v2/pages/270695"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://omgs.in/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.2">
+<meta name="generator" content="WooCommerce 8.4.0">
+<link rel="canonical" href="https://omgs.in/">
+<link rel="shortlink" href="https://omgs.in/">
+<link rel="alternate" type="application/json+oembed" href="https://omgs.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fomgs.in%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://omgs.in/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fomgs.in%2F&amp;format=xml">
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s)
+	{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+	if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+	n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];
+	s.parentNode.insertBefore(t,s)}(window, document,'script',
+	'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2604027799832949');
+fbq('init', '205523787182641');
+	</script>
+	<!-- End Facebook Pixel Code -->	
+	<script>
+// Track source 
+function getCookies(name) {
+    var nameEQ = name + "=", ca = document.cookie.split(';'), i = 0, c;
+    for(;i < ca.length;i++) {
+        c = ca[i];
+        while (c[0]==' ') c = c.substring(1);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length);
+    }
+    return null;
+}
+function setGetParameters(paramName, paramValue) {
+    var url = window.location.href;
+    var hash = location.hash;
+    url = url.replace(hash, '');
+    if (url.indexOf(paramName + "=") >= 0)   {
+        var prefix = url.substring(0, url.indexOf(paramName + "=")); 
+        var suffix = url.substring(url.indexOf(paramName + "="));
+        suffix = suffix.substring(suffix.indexOf("=") + 1);
+        suffix = (suffix.indexOf("&") >= 0) ? suffix.substring(suffix.indexOf("&")) : "";
+        url = prefix + paramName + "=" + paramValue + suffix;
+    }   else   {
+		if (url.indexOf("?") < 0){
+			//  url += "?" + paramName + "=" + paramValue;
+		} else {
+			// url += "&" + paramName + "=" + paramValue;
+		}       
+    }
+    return url;
+}
+function setcookies(cookieName,cookieValue) {
+    var today = new Date();
+    var expire = new Date();
+    expire.setTime(today.getTime() + 3600000*24*7); // 7 Days
+    document.cookie = cookieName+"="+encodeURI(cookieValue) + ";expires="+expire.toGMTString()+";path=/;"
+}
+
+  var ckN = setGetParameters("lp", "true");
+  // console.log( ckN );
+  var LpCookie = getCookies("_lpckk");
+  var field = 'utm_medium';
+  if ( LpCookie == null ) {
+      // do cookie doesn't exist stuff;
+      console.log( LpCookie );
+      setcookies("_lpckk", ckN);
+	  console.log( '1');
+  } else {
+	  
+      // do cookie exists stuff
+    var url = ckN;
+    if( url.indexOf('?' + field + '=') != -1 && LpCookie.indexOf('?' + field + '=') != -1 ||
+      url.indexOf('&' + field + '=') != -1 && LpCookie.indexOf('&' + field + '=') != -1 ) {
+		
+        var newMM = new URL( ckN );
+        var newM = newMM.searchParams.get('utm_medium');
+        var oldMM = new URL( LpCookie )
+        var oldM = oldMM.searchParams.get('utm_medium');
+        if( newM != oldM  ) {
+			console.log( '2');
+          console.log(newM, oldM);		
+          setcookies("_lpckk", ckN);
+        }
+    } else if( url.indexOf('?' + field + '=') == -1 || url.indexOf('&' + field + '=') == -1 ) {
+		 
+      var newMM = new URL( ckN );
+      var newM = newMM.searchParams.get('utm_medium');
+      if( newM ) {
+		console.log( '3');
+        console.log( url.indexOf('?' + field + '='), 'do not exists', newM);
+        setcookies("_lpckk", ckN);
+      }
+    }      
+  }
+
+// End Track source 
+</script>
+<link rel="dns-prefetch" href="https://s.omgs.in/"><link rel="dns-prefetch" href="https://bg.omgs.in/">        <style>
+            .paytm_response{padding:15px; margin-bottom: 20px; border: 1px solid transparent; border-radius: 4px; text-align: center;}
+            .paytm_response.error-box{color: #a94442; background-color: #f2dede; border-color: #ebccd1;}
+            .paytm_response.success-box{color: #155724; background-color: #d4edda; border-color: #c3e6cb;}
+        </style>
+        <script>
+jQuery(document).ready(function() {
+//         jQuery('.videobtnc').click(function() {
+	jQuery(document).on("click", '.videobtnc', function(event) { 
+		jQuery( this ).hide();
+		let width = jQuery(this).innerWidth();
+		var vid =   document.getElementById( jQuery(this).siblings('video').attr("id") );
+			jQuery(this).siblings('video').show();
+// 			vid.width =  width;
+// 			vid.height = width;
+// 			  vid.play(); 
+			jQuery(this).siblings('video').attr("width", width);
+			jQuery(this).siblings('video').attr("height", width);
+			jQuery(this).siblings('video').get(0).play();
+			console.log( width );
+	});
+
+	// ms clarity
+// 	(function(c,l,a,r,i,t,y){
+// 		c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+// 		t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+// 		y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+// 	})(window, document, "clarity", "script", "8trzo9nbwe");
+	// end ms clarity
+});
+</script>
+<meta name="google" content="notranslate"><meta property="og:image" content="https://omgs.in/wp-content/uploads/2021/07/OMGS-1200x627-1.png"><style>.bg{opacity: 0; transition: opacity 1s; -webkit-transition: opacity 1s;} .bg-loaded{opacity: 1;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	<link rel="icon" href="https://omgs.in/wp-content/uploads/2021/02/fav-min-100x100.png" sizes="32x32">
+<link rel="icon" href="https://omgs.in/wp-content/uploads/2021/02/fav-min-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://omgs.in/wp-content/uploads/2021/02/fav-min-300x300.png">
+<meta name="msapplication-TileImage" content="https://omgs.in/wp-content/uploads/2021/02/fav-min-300x300.png">
+<style id="custom-css" type="text/css">:root {--primary-color: #1d1d1f;--fs-color-primary: #1d1d1f;--fs-color-secondary: #1d1d1f;--fs-color-success: #7a9c59;--fs-color-alert: #b20000;--fs-experimental-link-color: #0f0f11;--fs-experimental-link-color-hover: #111;}.tooltipster-base {--tooltip-color: #fff;--tooltip-bg-color: #000;}.off-canvas-right .mfp-content, .off-canvas-left .mfp-content {--drawer-width: 300px;}.off-canvas .mfp-content.off-canvas-cart {--drawer-width: 360px;}.sticky-add-to-cart--active, #wrapper,#main,#main.dark{background-color: #f5f5f7}.header-main{height: 72px}#logo img{max-height: 72px}#logo{width:130px;}#logo a{max-width:130px;}.stuck #logo img{padding:1px 0;}.header-bottom{min-height: 10px}.header-top{min-height: 20px}.transparent .header-main{height: 265px}.transparent #logo img{max-height: 265px}.has-transparent + .page-title:first-of-type,.has-transparent + #main > .page-title,.has-transparent + #main > div > .page-title,.has-transparent + #main .page-header-wrapper:first-of-type .page-title{padding-top: 265px;}.header.show-on-scroll,.stuck .header-main{height:56px!important}.stuck #logo img{max-height: 56px!important}.search-form{ width: 60%;}.header-bg-color {background-color: #fcfcfd}.header-bottom {background-color: #f1f1f1}.top-bar-nav > li > a{line-height: 16px }.header-main .nav > li > a{line-height: 33px }.stuck .header-main .nav > li > a{line-height: 35px }@media (max-width: 549px) {.header-main{height: 70px}#logo img{max-height: 70px}}.main-menu-overlay{background-color: #fcfcfd}.nav-dropdown{font-size:100%}body{color: #1d1d1f}h1,h2,h3,h4,h5,h6,.heading-font{color: #1d1d1f;}body{font-size: 100%;}@media screen and (max-width: 549px){body{font-size: 100%;}}body{font-family: Roboto, sans-serif;}body {font-weight: 400;font-style: normal;}.nav > li > a {font-family: Roboto, sans-serif;}.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-family: Roboto, sans-serif;}.nav > li > a,.mobile-sidebar-levels-2 .nav > li > ul > li > a {font-weight: 400;font-style: normal;}h1,h2,h3,h4,h5,h6,.heading-font, .off-canvas-center .nav-sidebar.nav-vertical > li > a{font-family: Roboto, sans-serif;}h1,h2,h3,h4,h5,h6,.heading-font,.banner h1,.banner h2 {font-weight: 400;font-style: normal;}.alt-font{font-family: Roboto, sans-serif;}.alt-font {font-weight: 400!important;font-style: normal!important;}button,.button{text-transform: none;}.header:not(.transparent) .header-nav-main.nav > li > a {color: #1f1d1d;}.current .breadcrumb-step, [data-icon-label]:after, .button#place_order,.button.checkout,.checkout-button,.single_add_to_cart_button.button, .sticky-add-to-cart-select-options-button{background-color: #1caf00!important }.badge-inner.on-sale{background-color: #000000}.star-rating span:before,.star-rating:before, .woocommerce-page .star-rating:before, .stars a:hover:after, .stars a.active:after{color: #ff5913}.price del, .product_list_widget del, del .woocommerce-Price-amount { color: #565959; }ins .woocommerce-Price-amount { color: #0f0f11; }@media screen and (min-width: 550px){.products .box-vertical .box-image{min-width: 500px!important;width: 500px!important;}}.header-main .social-icons,.header-main .cart-icon strong,.header-main .menu-title,.header-main .header-button > .button.is-outline,.header-main .nav > li > a > i:not(.icon-angle-down){color: #1f1d1d!important;}.header-main .header-button > .button.is-outline,.header-main .cart-icon strong:after,.header-main .cart-icon strong{border-color: #1f1d1d!important;}.header-main .header-button > .button:not(.is-outline){background-color: #1f1d1d!important;}.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover,.header-main .header-button > .button:hover i,.header-main .header-button > .button:hover span{color:#FFF!important;}.header-main .menu-title:hover,.header-main .social-icons a:hover,.header-main .header-button > .button.is-outline:hover,.header-main .nav > li > a:hover > i:not(.icon-angle-down){color: #1f1d1d!important;}.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover{background-color: #1f1d1d!important;}.header-main .current-dropdown .cart-icon strong:after,.header-main .current-dropdown .cart-icon strong,.header-main .header-button > .button:hover{border-color: #1f1d1d!important;}.footer-1{background-color: #000080}.footer-2{background-color: #222222}.absolute-footer, html{background-color: #1e1e1e}button[name='update_cart'] { display: none; }.nav-vertical-fly-out > li + li {border-top-width: 1px; border-top-style: solid;}.label-new.menu-item > a:after{content:"New";}.label-hot.menu-item > a:after{content:"Hot";}.label-sale.menu-item > a:after{content:"Sale";}.label-popular.menu-item > a:after{content:"Popular";}</style>		<style type="text/css" id="wp-custom-css">
+			body {
+	font-family: SF Pro Text, Roboto, Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+.variations td.label {
+    min-width: 65px;
+    vertical-align: top;
+} 
+.demo_store {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+} 
+.single_add_to_cart_button {
+	width: 100%;
+	max-width: 380px;
+}
+.woocommerce-store-notice__dismiss-link {
+	color: #FF5722;
+}
+.payment_box {
+	margin-left: 33px;
+}
+
+.single-product .quantity.form-minimal {
+	display: none !Important;
+}
+
+#place_order {
+	width: 100%;
+	max-width: 380px;
+	margin: auto;
+	display: block; 
+}
+
+.product-section {
+    border-top: 0;
+    max-width: 700px;
+    display: block;
+    margin: auto;
+}
+.product-section .large-2 > h5 {
+	display: none;
+}
+@media screen and (max-width: 667px) {
+	.woocommerce-cart #main-content, .woocommerce-checkout #main-content {
+		margin-top: 0 !important;
+	}
+	.product-main {
+		padding-bottom: 0;
+		
+	}
+	.product-info.summary {
+/* 		padding-bottom: 0; */
+	}
+	form.cart {
+		margin-bottom: 0;
+	}
+	.woocommerce-checkout .sm-touch-scroll #order_review_heading, .woocommerce-checkout .sm-touch-scroll thead, .woocommerce-checkout .sm-touch-scroll tbody, .woocommerce-checkout .sm-touch-scroll .cart-subtotal {
+/* 		display: none; */
+	}
+	.product-main {
+		padding-top: 10px;
+	}
+	.product-main .product_title {
+		font-size: 18px;
+	}
+	
+}
+#billing_country_field {
+	display: none;
+}
+.woocommerce-additional-fields {
+	display:none;
+}
+.wc_payment_methods.payment_methods li {
+	list-style: none;
+}
+		.payment_method_offline_gateway  {
+			display: none;
+		}
+
+#btn-razorpay {
+	    background: #23c736;
+    color: #f9f5f5;
+}
+.overflow-visible {
+	overflow: visible;
+}
+
+.nav-uppercase>li>a {
+    text-transform: inherit;
+}
+.continue-shopping {
+	display: none;
+}
+.searchform:after {
+	   content: "";
+    position: absolute;
+    width: 50px;
+    right: 0;
+    height: 50px;
+    top: 0;
+}
+
+
+table.variations {
+    position: relative;
+    max-width: 480px;
+    margin: auto;
+}
+
+.accordion-inner {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.cartp-162024  .product-remove  a, .cartp-162024  .quantity {
+	display: none;
+}
+ {
+	background: #ececec;
+}
+.cartp-173090  .product-remove  a, .cartp-173090  .quantity {
+	display: none;
+}
+.cartp-173530  .product-remove  a, .cartp-173530  .quantity {
+	display: none;
+}
+
+.cartp-173090 , .cartp-162024, .cartp-173530 {
+	background: #ececec;
+}
+
+
+.autocomplete-suggestion img {
+    width: auto;
+    border-radius: 0;
+    height: 65px;
+    display: inline-block;
+    margin-right: 2px;
+}
+ul.product_list_widget li img {
+	width: auto;
+}
+.autocomplete-suggestion .search-price  .amount {
+	color: #000;
+}
+
+.wp-caption.aligncenter, .aligncenter {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+#billing_fbclid {
+	display: none;
+}
+
+
+	.woocommerce-order-pay .shop_table {
+		display: none;
+	}
+
+.product-summary .woocommerce-Price-currencySymbol {
+    font-weight: lighter;
+    margin-right: 4px;
+}
+
+
+#progressBarC {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+		width: 300px;
+}
+#progressBarC::-webkit-progress-bar {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+}
+#progressBarC::-webkit-progress-value {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+		color: #31d411;
+}
+#progressBarC::-moz-progress-bar {
+    border: 0;
+    height: 20px;
+    border-radius: 20px;
+}
+
+a.remove, a.icon-remove {
+	color: #f11f1f;
+}
+.tdm {
+	font-size: 8px;    
+	position: absolute;
+}
+
+.cbk-order-cashback-notice {
+	  padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin: 20px 0;
+	    background: #ecf6ff;
+}
+#btn-razorpay-cancel {
+	display: none;
+}
+
+
+/* contlo control */
+.single-product #cntl-placeholder-form-fixed-item, .woocommerce-cart  #cntl-placeholder-form-fixed-item, .woocommerce-checkout #cntl-placeholder-form-fixed-item {
+	display: none;
+}
+
+.select-resize-ghost, .select2-container .select2-choice, .select2-container .select2-selection, input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea {
+    background-color: transparent;
+}
+
+.postid-1097420 .wallbg {
+	background: none;
+}
+.woocommerce-product-rating {
+display: none;
+}
+		</style>
+		<style id="kirki-inline-styles">/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu72xMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0460-052F, U+1C80-1C88, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu5mxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7mxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4WxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0370-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7WxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu7GxMKTU1Kvnz.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://omgs.in/wp-content/fonts/roboto/KFOmCnqEu92Fr1Mu4mxMKTU1Kg.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style><script type="text/javascript" async="" src="./mainimg_files/f.txt"></script><script type="text/javascript" async="" src="./mainimg_files/f(1).txt"></script><script type="text/javascript" async="" src="./mainimg_files/f(2).txt"></script><script src="./mainimg_files/wp-emoji-release.min.js.download" defer=""></script></head>
+
+<body class="home page-template page-template-page-blank page-template-page-blank-php page page-id-270695 theme-flatsome woocommerce-js full-width box-shadow lightbox nav-dropdown-has-arrow nav-dropdown-has-shadow nav-dropdown-has-border mobile-submenu-slide mobile-submenu-slide-levels-1">
+
+
+<a class="skip-link screen-reader-text" href="https://omgs.in/#main">Skip to content</a>
+
+<div id="wrapper">
+
+	
+	<header id="header" class="header header-full-width has-sticky sticky-jump" style="">
+		<div class="header-wrapper">
+			<div id="masthead" class="header-main show-logo-center">
+      <div class="header-inner flex-row container logo-center medium-logo-center" role="navigation">
+
+          <!-- Logo -->
+          <div id="logo" class="flex-col logo">
+            
+<!-- Header logo -->
+<a href="https://omgs.in/" title="OMGs - Online Merchandised Goods Store" rel="home">
+		<img width="778" height="220" src="./mainimg_files/omgs-logo-min.png" class="header_logo header-logo" alt="OMGs"><img width="778" height="220" src="./mainimg_files/omgs-logo-min.png" class="header-logo-dark" alt="OMGs"></a>
+          </div>
+
+          <!-- Mobile Left Elements -->
+          <div class="flex-col show-for-medium flex-left">
+            <ul class="mobile-nav nav nav-left ">
+              <li class="nav-icon has-icon">
+  <div class="header-button">		<a href="https://omgs.in/#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="icon button circle is-outline is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu"></i>
+		  <span class="menu-title uppercase hide-for-small">Menu</span>		</a>
+	 </div> </li>
+<li class="account-item has-icon">
+<div class="header-button">	<a href="https://omgs.in/my-account/" class="account-link-mobile icon button circle is-outline is-small" title="My account">
+	  <i class="icon-user"></i>	</a>
+</div></li>
+            </ul>
+          </div>
+
+          <!-- Left Elements -->
+          <div class="flex-col hide-for-medium flex-left
+            ">
+            <ul class="header-nav header-nav-main nav nav-left  nav-spacing-small nav-uppercase">
+              <li class="nav-icon has-icon">
+  <div class="header-button">		<a href="https://omgs.in/#" data-open="#main-menu" data-pos="left" data-bg="main-menu-overlay" data-color="" class="icon button circle is-outline is-small" aria-label="Menu" aria-controls="main-menu" aria-expanded="false">
+
+		  <i class="icon-menu"></i>
+		  <span class="menu-title uppercase hide-for-small">Menu</span>		</a>
+	 </div> </li>
+            </ul>
+          </div>
+
+          <!-- Right Elements -->
+          <div class="flex-col hide-for-medium flex-right">
+            <ul class="header-nav header-nav-main nav nav-right  nav-spacing-small nav-uppercase">
+              <li class="cart-item has-icon has-dropdown">
+
+<a href="https://omgs.in/cart/" class="header-cart-link is-small" title="Cart">
+
+<span class="header-cart-title">
+   Cart   /       <span class="cart-price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">₹</span>0</bdi></span></span>
+  </span>
+
+    		<span class="cart-icon image-icon">
+			<strong>0</strong>
+		</span>
+		
+  </a>
+
+ <ul class="nav-dropdown nav-dropdown-default" style="">
+    <li class="html widget_shopping_cart">
+      <div class="widget_shopping_cart_content">
+
+	<div class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
+				<div class="ux-mini-cart-empty-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" style="opacity:.1;height:80px;">
+				<path d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z" fill-rule="evenodd" clip-rule="evenodd" fill="currentColor"></path>
+			</svg>
+		</div>
+				<p class="woocommerce-mini-cart__empty-message empty">No products in the cart.</p>
+					<p class="return-to-shop">
+				<a class="button primary wc-backward" href="https://omgs.in/">
+					Return to shop				</a>
+			</p>
+				</div>
+
+
+</div>
+    </li>
+    <li class="html"><hr><img style="max-width: 320px; margin: auto; display: block; width: 100%; border: 1px solid #dddd; padding: 10px; }" src="./mainimg_files/trust_v20-2-min.png"></li> </ul>
+
+</li>
+<li class="account-item has-icon
+    ">
+<div class="header-button">
+<a href="https://omgs.in/my-account/" class="nav-top-link nav-top-not-logged-in icon button circle is-outline is-small" data-open="#login-form-popup">
+    <span>
+    Login      </span>
+  
+</a>
+
+</div>
+
+</li>
+            </ul>
+          </div>
+
+          <!-- Mobile Right Elements -->
+          <div class="flex-col show-for-medium flex-right">
+            <ul class="mobile-nav nav nav-right ">
+              <li class="cart-item has-icon">
+
+
+		<a href="https://omgs.in/cart/" class="header-cart-link is-small off-canvas-toggle nav-top-link" title="Cart" data-open="#cart-popup" data-class="off-canvas-cart" data-pos="right">
+
+    		<span class="cart-icon image-icon">
+			<strong>0</strong>
+		</span>
+		
+  </a>
+
+
+  <!-- Cart Sidebar Popup -->
+  <div id="cart-popup" class="mfp-hide">
+  <div class="cart-popup-inner inner-padding cart-popup-inner--sticky" "="">
+      <div class="cart-popup-title text-center">
+          <span class="heading-font uppercase">Cart</span>
+          <div class="is-divider"></div>
+      </div>
+      <div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content">
+
+	<div class="ux-mini-cart-empty flex flex-row-col text-center pt pb">
+				<div class="ux-mini-cart-empty-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" style="opacity:.1;height:80px;">
+				<path d="M8.5 0C6.7 0 5.3 1.2 5.3 2.7v2H2.1c-.3 0-.6.3-.7.7L0 18.2c0 .4.2.8.6.8h15.7c.4 0 .7-.3.7-.7v-.1L15.6 5.4c0-.3-.3-.6-.7-.6h-3.2v-2c0-1.6-1.4-2.8-3.2-2.8zM6.7 2.7c0-.8.8-1.4 1.8-1.4s1.8.6 1.8 1.4v2H6.7v-2zm7.5 3.4 1.3 11.5h-14L2.8 6.1h2.5v1.4c0 .4.3.7.7.7.4 0 .7-.3.7-.7V6.1h3.5v1.4c0 .4.3.7.7.7s.7-.3.7-.7V6.1h2.6z" fill-rule="evenodd" clip-rule="evenodd" fill="currentColor"></path>
+			</svg>
+		</div>
+				<p class="woocommerce-mini-cart__empty-message empty">No products in the cart.</p>
+					<p class="return-to-shop">
+				<a class="button primary wc-backward" href="https://omgs.in/">
+					Return to shop				</a>
+			</p>
+				</div>
+
+
+</div></div>      <div class="header-cart-content"><hr><img style="max-width: 320px; margin: auto; display: block; width: 100%; border: 1px solid #dddd; padding: 10px; }" src="./mainimg_files/trust_v20-2-min.png"></div>         </div>
+  </div>
+
+</li>
+            </ul>
+          </div>
+
+      </div>
+
+            <div class="container"><div class="top-divider full-width"></div></div>
+      </div>
+
+<div class="header-bg-container fill"><div class="header-bg-image fill"></div><div class="header-bg-color fill"></div></div>		</div>
+	</header>
+
+	
+	<main id="main" class="">
+
+
+<div id="content" role="main" class="content-area">
+
+		
+			
+	<section class="section hide-for-small" id="section_80471045">
+		<div class="bg section-bg fill bg-fill bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+
+  <div class="banner has-hover is-full-height" id="banner-1365475653">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1875936215" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Photo</strong></h3>
+<h3>SUPERIOR QUALITY</h3>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<div class="video-button-wrapper" style="font-size:106%"><a href="https://v.omgs.in/1440/OMGs-Acrylic-Wall-Photo-optimized.mp4" class="button open-video icon circle is-outline is-xlarge"><i class="icon-play" style="font-size:1.5em;"></i></a></div>
+
+<a href="https://omgs.in/product/wall-photo/" class="button alert is-outline is-large">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline is-large">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1875936215 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1875936215 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1875936215 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1875936215 {
+    width: 48%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1365475653 {
+  padding-top: 100%;
+}
+#banner-1365475653 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/1-min.jpg);
+}
+#banner-1365475653 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1365475653 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-764057023">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1374619722" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup>Clear Acrylic</strong></h3>
+<h4>Framed Object</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<div class="video-button-wrapper" style="font-size:106%"><a href="https://v.omgs.in/1440/transparent-framed-acrylic.mp4" class="button open-video icon circle is-outline is-xlarge"><i class="icon-play" style="font-size:1.5em;"></i></a></div>
+
+<a href="https://omgs.in/product/transparent-framed-photo-acrylic-decor/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/product/transparent-framed-photo-acrylic-decor/" class="button primary is-outline hidden">
+    <span>Instant Previews</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1374619722 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1374619722 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1374619722 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1374619722 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-764057023 {
+  padding-top: 100%;
+}
+#banner-764057023 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/2-min.jpg);
+}
+#banner-764057023 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-764057023 .bg {
+  background-position: 30%;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-190629761">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-2067546335" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Clock</strong></h3>
+<h4>Timeless Memories</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<a href="https://omgs.in/product/customised-premium-acrylic-wall-clock/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-2067546335 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-2067546335 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-2067546335 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-2067546335 {
+    width: 46%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-190629761 {
+  padding-top: 100%;
+}
+#banner-190629761 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/3-min.jpg);
+}
+#banner-190629761 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-190629761 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-839105407">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-873326346" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Framed Acrylic</strong></h3>
+<h4>Glossy Framed</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<a href="https://omgs.in/product/customised-premium-framed-acrylic-photo/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-873326346 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-873326346 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-873326346 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-873326346 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-839105407 {
+  padding-top: 100%;
+}
+#banner-839105407 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/4-min.jpg);
+}
+#banner-839105407 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-839105407 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-1111111410">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1226626835" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Collage Acrylic</strong></h3>
+<h4>Multiple Photos</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<a href="https://omgs.in/customise/collage-acrylic-wall-photo/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline expand hidden">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1226626835 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1226626835 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1226626835 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1226626835 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1111111410 {
+  padding-top: 100%;
+}
+#banner-1111111410 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/collage-acrylic-photo-frames-min.jpg);
+}
+#banner-1111111410 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1111111410 .bg {
+  background-position: 30%;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-1976684610">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill bg-loaded"></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1576875812" class="text-box banner-layer x10 md-x10 lg-x10 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Cutouts</strong></h3>
+<h4>The Beloved’s Essence</h4>
+<a href="https://omgs.in/product/omgs-acrylic-cutouts/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline expand hidden">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1576875812 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1576875812 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1576875812 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1576875812 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1976684610 {
+  padding-top: 100%;
+}
+#banner-1976684610 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/10/OMGs-Cutout-Acrylic-1.jpg);
+}
+#banner-1976684610 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1976684610 .bg {
+  background-position: 80%;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-1210689177">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1729426838" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Desk</strong></h3>
+<h4>LONG LASTING MASTERPIECE</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<a href="https://omgs.in/product/omgs-acrylic-photo-stand/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline expand hidden">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1729426838 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1729426838 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1729426838 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1729426838 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1210689177 {
+  padding-top: 100%;
+}
+#banner-1210689177 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/06/acrylic-stand-banner-HD.jpeg);
+}
+#banner-1210689177 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1210689177 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-1964398309">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1668835733" class="text-box banner-layer x100 md-x100 lg-x100 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Name Plate</strong></h3>
+<h4>Identity to your Home</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<a href="https://omgs.in/customise/acrylic-name-plate/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline expand hidden">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1668835733 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1668835733 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1668835733 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1668835733 {
+    width: 49%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1964398309 {
+  padding-top: 100%;
+}
+#banner-1964398309 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1.jpg);
+}
+#banner-1964398309 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1964398309 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-1413898810">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1497777570" class="text-box banner-layer x5 md-x5 lg-x5 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Monogram</strong></h3>
+<h4>LONG LASTING MASTERPIECE</h4>
+<p>Experience the brilliance and vibrancy of our acrylic prints, expertly crafted to bring your images to life. Create a captivating visual display that truly reflects your style and creates a lasting impression.</p>
+<a href="https://omgs.in/customise/acrylic-monogram-nameplate/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline expand hidden">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1497777570 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-1497777570 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1497777570 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1497777570 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1413898810 {
+  padding-top: 100%;
+}
+#banner-1413898810 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/monogram-min.jpg);
+}
+#banner-1413898810 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1413898810 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+		</div>
+
+		
+<style>
+#section_80471045 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+</style>
+	</section>
+	
+	<section class="section show-for-medium" id="section_124083981">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+
+  <div class="banner has-hover" id="banner-1106938265">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(4, 4, 4);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1891658984" class="text-box banner-layer x4 md-x4 lg-x4 y90 md-y90 lg-y90 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Photo</strong></h3>
+<h3>SUPERIOR QUALITY</h3>
+<div class="video-button-wrapper" style="font-size:106%"><a href="https://v.omgs.in/1440/OMGs-Acrylic-Wall-Photo-optimized.mp4" class="button open-video icon circle is-outline is-xlarge"><i class="icon-play" style="font-size:1.5em;"></i></a></div>
+
+<a href="https://omgs.in/product/wall-photo/" class="button alert is-outline is-larger">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline is-larger">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1891658984 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.75);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-1891658984 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1891658984 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1891658984 {
+    width: 100%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1106938265 {
+  padding-top: 99.99%;
+}
+#banner-1106938265 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/acrylic-wall-photo-square-1024x895.jpg);
+}
+#banner-1106938265 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1106938265 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-1519746612">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(6, 6, 6);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-2062703233" class="text-box banner-layer x95 md-x95 lg-x95 y90 md-y90 lg-y90 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup>Clear Acrylic</strong></h3>
+<h4>Framed Object</h4>
+<div class="video-button-wrapper" style="font-size:106%"><a href="https://v.omgs.in/1440/transparent-framed-acrylic.mp4" class="button open-video icon circle is-outline is-xlarge"><i class="icon-play" style="font-size:1.5em;"></i></a></div>
+
+<a href="https://omgs.in/product/transparent-framed-photo-acrylic-decor/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-2062703233 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-2062703233 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-2062703233 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-2062703233 {
+    width: 100%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1519746612 {
+  padding-top: 99.99%;
+}
+#banner-1519746612 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/actylic-clear-frame-1-min.jpg);
+}
+#banner-1519746612 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1519746612 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-342083363">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(6, 6, 6);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-184522726" class="text-box banner-layer x5 md-x5 lg-x5 y90 md-y90 lg-y90 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Clock</strong></h3>
+<h4>Timeless Memories</h4>
+<a href="https://omgs.in/product/customised-premium-acrylic-wall-clock/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-184522726 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-184522726 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-184522726 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-184522726 {
+    width: 100%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-342083363 {
+  padding-top: 99.99%;
+}
+#banner-342083363 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min.jpg);
+}
+#banner-342083363 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-342083363 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-1469138698">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(6, 6, 6);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-145956287" class="text-box banner-layer x5 md-x5 lg-x5 y90 md-y90 lg-y90 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Framed Acrylic</strong></h3>
+<h4>Glossy Framed</h4>
+<a href="https://omgs.in/product/customised-premium-framed-acrylic-photo/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-145956287 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-145956287 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-145956287 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-145956287 {
+    width: 100%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1469138698 {
+  padding-top: 99.99%;
+}
+#banner-1469138698 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/frame-outline-1-min.jpg);
+}
+#banner-1469138698 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1469138698 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-1316959442">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(6, 6, 6);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1744193167" class="text-box banner-layer x95 md-x95 lg-x95 y95 md-y95 lg-y95 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Collage Acrylic</strong></h3>
+<h4>Multiple Photos</h4>
+<a href="https://omgs.in/customise/collage-acrylic-wall-photo/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1744193167 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-1744193167 .text-inner {
+  padding: 1px 1px 1px 1px;
+}
+#text-box-1744193167 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1744193167 {
+    width: 100%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1316959442 {
+  padding-top: 99.99%;
+}
+#banner-1316959442 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/collage-1-min.jpg);
+}
+#banner-1316959442 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1316959442 .bg {
+  background-position: 30%;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover is-full-height" id="banner-1106422228">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-281328366" class="text-box banner-layer x10 md-x10 lg-x10 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Cutouts</strong></h3>
+<h4>The Beloved’s Essence</h4>
+<a href="https://omgs.in/product/omgs-acrylic-cutouts/" class="button alert is-outline">
+    <span>Shop Now</span>
+  </a>
+
+
+<a href="https://omgs.in/customise/acrylic-print/" class="button primary is-outline expand hidden">
+    <span>View Designs</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-281328366 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 100%;
+}
+#text-box-281328366 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-281328366 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-281328366 {
+    width: 40%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1106422228 {
+  padding-top: 100%;
+}
+#banner-1106422228 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/10/OMGs-Cutout-Acrylic-1.jpg);
+}
+#banner-1106422228 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1106422228 .bg {
+  background-position: 40%;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-122541450">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(7, 7, 7);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1638616921" class="text-box banner-layer x95 md-x95 lg-x95 y50 md-y50 lg-y50 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Desk</strong></h3>
+<h4>LONG LASTING MASTERPIECE</h4>
+<a href="https://omgs.in/product/omgs-acrylic-photo-stand/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1638616921 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-1638616921 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1638616921 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1638616921 {
+    width: 97%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-122541450 {
+  padding-top: 99.99%;
+}
+#banner-122541450 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/06/acrylic-stand-banner-HD.jpeg);
+}
+#banner-122541450 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-122541450 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-73187266">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(5, 5, 5);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-2054205123" class="text-box banner-layer x95 md-x95 lg-x95 y90 md-y90 lg-y90 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Name Plate</strong></h3>
+<h4>Identity to your Home</h4>
+<a href="https://omgs.in/customise/acrylic-name-plate/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-2054205123 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-2054205123 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-2054205123 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-2054205123 {
+    width: 97%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-73187266 {
+  padding-top: 99.99%;
+}
+#banner-73187266 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1.jpg);
+}
+#banner-73187266 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-73187266 .bg {
+  background-position: 0;
+}
+</style>
+  </div>
+
+
+
+  <div class="banner has-hover" id="banner-1312292405">
+          <div class="banner-inner fill">
+        <div class="banner-bg fill">
+            <div class="bg fill bg-fill "></div>
+                        <div class="overlay"></div>            
+	<div class="is-border" style="border-color:rgb(5, 5, 5);border-width:0px 0px 5px 0px;">
+	</div>
+                    </div>
+		
+        <div class="banner-layers container">
+            <div class="fill banner-link"></div>            
+
+   <div id="text-box-1280747053" class="text-box banner-layer x5 md-x5 lg-x5 y90 md-y90 lg-y90 res-text">
+                                <div class="text-box-content text box-shadow-3">
+              
+              <div class="text-inner text-center">
+                  
+
+<h3 class="uppercase"><strong>OMGs<sup>®</sup> Acrylic Monogram</strong></h3>
+<h4>LONG LASTING MASTERPIECE</h4>
+<a href="https://omgs.in/customise/acrylic-monogram-nameplate/" class="button alert is-outline is-xlarge">
+    <span>Shop Now</span>
+  </a>
+
+
+
+              </div>
+           </div>
+                            
+<style>
+#text-box-1280747053 .text-box-content {
+  background-color: rgba(255, 255, 255, 0.86);
+  border-radius: 10px;
+  font-size: 75%;
+}
+#text-box-1280747053 .text-inner {
+  padding: 5% 5% 5% 5%;
+}
+#text-box-1280747053 {
+  width: 60%;
+}
+@media (min-width:550px) {
+  #text-box-1280747053 {
+    width: 97%;
+  }
+}
+</style>
+    </div>
+ 
+
+        </div>
+      </div>
+
+            
+<style>
+#banner-1312292405 {
+  padding-top: 99.99%;
+}
+#banner-1312292405 .bg.bg-loaded {
+  background-image: url(https://omgs.in/wp-content/uploads/2023/05/monogram-min.jpg);
+}
+#banner-1312292405 .overlay {
+  background-color: rgba(0, 0, 0, 0.2);
+}
+#banner-1312292405 .bg {
+  background-position: -30;
+}
+</style>
+  </div>
+
+
+
+		</div>
+
+		
+<style>
+#section_124083981 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+</style>
+	</section>
+	
+	<section class="section dark" id="section_594608895">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row" id="row-1187690950">
+
+
+	<div id="col-1127805303" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+	<div id="gap-1483472645" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-1483472645 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+	<div id="stack-3704666180" class="stack stack-row justify-start items-stretch">
+		
+
+	<div id="text-2543659495" class="text">
+		
+
+<h3>Experience Sparkling Perfection</h3>
+		
+<style>
+#text-2543659495 {
+  font-size: 2rem;
+  line-height: 1;
+}
+</style>
+	</div>
+	
+
+		
+<style>
+#stack-3704666180 > * {
+  --stack-gap: 0rem;
+}
+</style>
+	</div>
+	
+<div class="is-divider divider clearfix" style="max-width:60%;background-color:rgb(243, 228, 228);"></div>
+
+
+		</div>
+					</div>
+
+	
+
+</div>
+<div class="row row-large" id="row-1828629560">
+
+
+	<div id="col-1612091853" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+<p>In today’s digital age, capturing memories has become effortless. We take countless photos with our smartphones and cameras, preserving precious moments in digital form. But what if you could elevate those memories and turn them into stunning pieces of art that you can proudly display on your walls? This is where acrylic photo prints come into play, offering a unique and captivating way to showcase your most cherished images.</p>
+
+		</div>
+					</div>
+
+	
+
+</div>
+<div class="row row-small" id="row-1156828960">
+
+
+	<div id="col-603251760" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/product/wall-photo/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img fetchpriority="high" decoding="async" width="1200" height="1200" src="./mainimg_files/OMGS-wall-acryllic-min.jpg" class="attachment- size-" alt="" srcset="https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min.jpg 1200w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-300x300.jpg 300w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-1024x1024.jpg 1024w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-150x150.jpg 150w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-768x768.jpg 768w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-500x500.jpg 500w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-800x800.jpg 800w, https://omgs.in/wp-content/uploads/2023/05/OMGS-wall-acryllic-min-100x100.jpg 100w" sizes="(max-width: 1200px) 100vw, 1200px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-211045761" class="text">
+		
+
+<h4>OMGs<sup>®</sup> Acrylic Wall Photo</h4>
+		
+<style>
+#text-211045761 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-211045761 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1497718080" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/product/transparent-framed-photo-acrylic-decor/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="1200" height="1200" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201200%201200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2023/05/ezgif.com-gif-maker-min.gif" class="lazy-load attachment- size-" alt="">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-3726329627" class="text">
+		
+
+<h4>Clear Framed OMGs<sup>®</sup> Acrylic Photo</h4>
+		
+<style>
+#text-3726329627 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-3726329627 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1350127663" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/product/customised-premium-acrylic-wall-clock/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="2000" height="2000" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%202000%202000%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1.jpg 2000w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-300x300.jpg 300w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-1024x1024.jpg 1024w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-150x150.jpg 150w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-768x768.jpg 768w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-1536x1536.jpg 1536w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-500x500.jpg 500w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-800x800.jpg 800w, https://omgs.in/wp-content/uploads/2023/05/wall-clock-1-min-1-100x100.jpg 100w" sizes="(max-width: 2000px) 100vw, 2000px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-3162953735" class="text">
+		
+
+<h4>OMGs<sup>®</sup> Acrylic Wall Clock</h4>
+		
+<style>
+#text-3162953735 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-3162953735 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-939120080" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/product/omgs-car-acrylic-picture/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="2000" height="2000" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%202000%202000%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2023/05/cart-hanging.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2023/05/cart-hanging.jpg 2000w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-300x300.jpg 300w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-1024x1024.jpg 1024w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-150x150.jpg 150w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-768x768.jpg 768w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-1536x1536.jpg 1536w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-500x500.jpg 500w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-800x800.jpg 800w, https://omgs.in/wp-content/uploads/2023/05/cart-hanging-100x100.jpg 100w" sizes="(max-width: 2000px) 100vw, 2000px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-2764309646" class="text">
+		
+
+<h4>OMGs<sup>®</sup>Car Face Acrylic (Beta)</h4>
+		
+<style>
+#text-2764309646 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-2764309646 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-424988154" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/product/customised-premium-framed-acrylic-photo/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="2000" height="2000" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%202000%202000%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min.jpg 2000w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-300x300.jpg 300w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-1024x1024.jpg 1024w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-150x150.jpg 150w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-768x768.jpg 768w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-1536x1536.jpg 1536w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-500x500.jpg 500w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-800x800.jpg 800w, https://omgs.in/wp-content/uploads/2022/10/frame-outline-1-min-100x100.jpg 100w" sizes="(max-width: 2000px) 100vw, 2000px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-1695160400" class="text">
+		
+
+<h4>Framed OMGs<sup>®</sup> Acrylic Wall Photo</h4>
+		
+<style>
+#text-1695160400 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-1695160400 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1658267266" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/customise/collage-acrylic-wall-photo/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="2000" height="2000" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%202000%202000%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1.jpg 2000w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-300x300.jpg 300w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-1024x1024.jpg 1024w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-150x150.jpg 150w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-768x768.jpg 768w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-1536x1536.jpg 1536w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-500x500.jpg 500w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-800x800.jpg 800w, https://omgs.in/wp-content/uploads/2023/05/collage-1-min-1-100x100.jpg 100w" sizes="(max-width: 2000px) 100vw, 2000px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-2699225631" class="text">
+		
+
+<h4>Collage OMGs<sup>®</sup> Acrylic Photo</h4>
+		
+<style>
+#text-2699225631 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-2699225631 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1781486171" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/customise/acrylic-name-plate/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201920%201080%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1.jpg 1920w, https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1-300x169.jpg 300w, https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1-1024x576.jpg 1024w, https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1-768x432.jpg 768w, https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1-1536x864.jpg 1536w, https://omgs.in/wp-content/uploads/2023/05/name-plate-min-1-800x450.jpg 800w" sizes="(max-width: 1920px) 100vw, 1920px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-3100310970" class="text">
+		
+
+<h4>OMGs<sup>®</sup> Acrylic Name Plates</h4>
+		
+<style>
+#text-3100310970 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-3100310970 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-1344475603" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image">
+			<a href="https://omgs.in/customise/acrylic-monogram-nameplate/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="3840" height="2160" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%203840%202160%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2023/05/monogram-min.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2023/05/monogram-min.jpg 3840w, https://omgs.in/wp-content/uploads/2023/05/monogram-min-300x169.jpg 300w, https://omgs.in/wp-content/uploads/2023/05/monogram-min-1024x576.jpg 1024w, https://omgs.in/wp-content/uploads/2023/05/monogram-min-768x432.jpg 768w, https://omgs.in/wp-content/uploads/2023/05/monogram-min-1536x864.jpg 1536w, https://omgs.in/wp-content/uploads/2023/05/monogram-min-2048x1152.jpg 2048w, https://omgs.in/wp-content/uploads/2023/05/monogram-min-800x450.jpg 800w" sizes="(max-width: 3840px) 100vw, 3840px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-2781815647" class="text">
+		
+
+<h4>OMGs<sup>®</sup> Acrylic Monogram Name Plate</h4>
+		
+<style>
+#text-2781815647 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-2781815647 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+	<div id="col-700044438" class="col medium-4 small-12 large-4">
+				<div class="col-inner">
+			
+	<div class="is-border is-dashed" style="border-color:rgb(103, 103, 103);border-width:0px 0px 0px 0px;">
+	</div>
+			
+
+	<div class="box has-hover   has-hover box-bounce box-text-bottom">
+
+		<div class="box-image" style="width:90%;">
+			<a href="https://omgs.in/phone-cases/">			<div class="image-zoom-long image-cover" style="padding-top:100%;">
+				<img decoding="async" width="1200" height="1200" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201200%201200%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2021/10/phone-case.jpg" class="lazy-load attachment- size-" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2021/10/phone-case.jpg 1200w, https://omgs.in/wp-content/uploads/2021/10/phone-case-500x500.jpg 500w, https://omgs.in/wp-content/uploads/2021/10/phone-case-100x100.jpg 100w, https://omgs.in/wp-content/uploads/2021/10/phone-case-800x800.jpg 800w, https://omgs.in/wp-content/uploads/2021/10/phone-case-300x300.jpg 300w, https://omgs.in/wp-content/uploads/2021/10/phone-case-1024x1024.jpg 1024w, https://omgs.in/wp-content/uploads/2021/10/phone-case-150x150.jpg 150w, https://omgs.in/wp-content/uploads/2021/10/phone-case-768x768.jpg 768w" sizes="(max-width: 1200px) 100vw, 1200px">											</div>
+			</a>		</div>
+
+		<div class="box-text text-center">
+			<div class="box-text-inner">
+				
+
+	<div id="text-373848944" class="text">
+		
+
+<h4>Custom Phone Cases</h4>
+		
+<style>
+#text-373848944 {
+  font-size: 1.25rem;
+}
+@media (min-width:550px) {
+  #text-373848944 {
+    font-size: 1rem;
+  }
+}
+</style>
+	</div>
+	
+
+			</div>
+		</div>
+	</div>
+	
+
+		</div>
+				
+<style>
+#col-700044438 > .col-inner {
+  padding: 0px 0px 0px 0px;
+}
+</style>
+	</div>
+
+	
+
+
+
+<style>
+#row-1156828960 > .col > .col-inner {
+  padding: 10px 0px 0px 0px;
+}
+</style>
+</div>
+
+		</div>
+
+		
+<style>
+#section_594608895 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #273647;
+}
+</style>
+	</section>
+	
+
+
+	<section class="section" id="section_588859426">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row" id="row-1470047862">
+
+
+	<div id="col-1395857874" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+<div class="container section-title-container" style="margin-top:40px;"><h3 class="section-title section-title-normal"><b></b><span class="section-title-main">Personalize Your Space</span><b></b></h3></div>
+
+	<div id="text-1049985585" class="text">
+		
+
+<p><span style="font-weight: 400">Define your style with a personally designed product from our store. It is time to change the trend and elevate your style quotient. With our customization tools, you can design your own products. From selecting the picture for printing to adding personal messages on phone covers, we give you the opportunity to personalize your order to the last inch.</span></p>
+		
+<style>
+#text-1049985585 {
+  font-size: 0.9rem;
+  text-align: left;
+}
+</style>
+	</div>
+	
+	<div id="text-473143281" class="text">
+		
+
+<p><span style="font-weight: 400">It’s never been easier to shop online from the comfort of your own home. Trends may be brought to your home with a few simple actions. Begin by selecting your phone model, since this will direct you to the appropriate template. After that, upload the photo you wish to be printed on the back of your phone case. Try out a few different backgrounds and pick your favorite. To complete the customization, add text, emoticons, quotes, and so on. Examine your completed work and place your order by entering your information. That wraps up the shopping.</span></p>
+		
+<style>
+#text-473143281 {
+  font-size: 0.9rem;
+  text-align: left;
+}
+</style>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+<div class="row" id="row-1422300085">
+
+
+	<div id="col-976311960" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+	<div id="text-3665523130" class="text">
+		
+
+<p><span style="font-weight: 400"><a href="https://omgs.in/customise/acrylic-print/">Acrylic photo prints</a> in landscape, portrait, square-shaped orientations. Our innovative UV printing technology distinguishes us as the top online retailer for acrylic photo prints in India. UV printing is a sort of digital printing that uses ultraviolet (UV) light to almost rapidly dry or cure the ink, adhesives, and varnishes once they’ve been put to the paper. Your image is printed directly under the acrylic layer to give it a bright and sparkling appearance. With our designing tool, it only takes a few clicks to order your customized product. We will take care of the rest!</span></p>
+		
+<style>
+#text-3665523130 {
+  font-size: 0.9rem;
+  text-align: left;
+}
+</style>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_588859426 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+</style>
+	</section>
+	
+	<section class="section dark" id="section_126714159">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row" id="row-590875495">
+
+
+	<div id="col-216853414" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+	<div id="gap-111367315" class="gap-element clearfix" style="display:block; height:auto;">
+		
+<style>
+#gap-111367315 {
+  padding-top: 30px;
+}
+</style>
+	</div>
+	
+
+	<div id="stack-1203483130" class="stack stack-row justify-between items-stretch">
+		
+
+	<div id="text-4217969020" class="text">
+		
+
+<h3>Why choose OMGS<sup>®</sup></h3>
+		
+<style>
+#text-4217969020 {
+  font-size: 2rem;
+  line-height: 0.75;
+}
+</style>
+	</div>
+	
+
+		
+<style>
+#stack-1203483130 > * {
+  --stack-gap: 0rem;
+}
+</style>
+	</div>
+	
+
+		</div>
+					</div>
+
+	
+
+</div>
+<div class="row row-large" id="row-2108588183">
+
+
+	<div id="col-302569015" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+<p>Whether it’s photo paper, photo frames, matting-free picture frames, or photo canvas, OMGs the premier photo printing service, only uses materials from carefully selected partners to ensure the greatest quality. Our staff in our online photo lab handles each step, from order to production, with the highest care.</p>
+<p>We ensure that your orders are delivered to your home as quickly as possible thanks to our nationwide presence. We’ve worked with some of India’s leading courier service companies, including Bluedart and Delhivery, to ensure that your items arrive on time. The average delivery time for metro cities is 1-3 days, while delivery time for smaller locations might range from 3 to 7 days following dispatch. More than 10000 evaluations and recommendations attest to OMGs photo goods’ perfect quality. You can find these in our reviews section where our ever-increasing family narrates their experience.</p>
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_126714159 {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #273647;
+}
+</style>
+	</section>
+	
+	<section class="section" id="section_229732609">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="row" id="row-841945107">
+
+
+	<div id="col-1064132950" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+<div class="container section-title-container" style="margin-top:40px;"><h3 class="section-title section-title-center"><b></b><span class="section-title-main">Frequently Asked Questions</span><b></b></h3></div>
+
+<div class="accordion">
+
+	<div id="accordion-1416184811" class="accordion-item">
+		<a id="accordion-1416184811-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-what-payment-methods-do-you-offer?" aria-expanded="false" aria-controls="accordion-1416184811-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>What payment methods do you offer?</span>
+		</a>
+		<div id="accordion-1416184811-content" class="accordion-inner" aria-labelledby="accordion-1416184811-label">
+			
+
+<p><span style="font-weight: 400">We offer all modes of online payment such as credit card, debit card, net banking, phone pe,&nbsp; G pay, UPI, Paytm via Razorpay.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-1261403597" class="accordion-item">
+		<a id="accordion-1261403597-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-how-much-does-delivery-cost?" aria-expanded="false" aria-controls="accordion-1261403597-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>How much does delivery cost?</span>
+		</a>
+		<div id="accordion-1261403597-content" class="accordion-inner" aria-labelledby="accordion-1261403597-label">
+			
+
+<p><span style="font-weight: 400">There is no minimum amount required to avail of free shipping on your order. We offer free shipping on all orders made through our website.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-1916043987" class="accordion-item">
+		<a id="accordion-1916043987-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-do-i-have-gift-wrap-options?" aria-expanded="false" aria-controls="accordion-1916043987-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>Do I have gift wrap options?</span>
+		</a>
+		<div id="accordion-1916043987-content" class="accordion-inner" aria-labelledby="accordion-1916043987-label">
+			
+
+<p><span style="font-weight: 400">Yes. you have the option to get your order gift wrapped if you are buying it for someone else. There is a 50 rupees extra charge for gift wrapping.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-2509777791" class="accordion-item">
+		<a id="accordion-2509777791-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-what-kind-of-canvas-do-you-use?" aria-expanded="false" aria-controls="accordion-2509777791-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>What kind of canvas do you use?</span>
+		</a>
+		<div id="accordion-2509777791-content" class="accordion-inner" aria-labelledby="accordion-2509777791-label">
+			
+
+<p><span style="font-weight: 400">We source from the best producers to provide you with premium quality prints. Our partners are one of the best in the country.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-740313444" class="accordion-item">
+		<a id="accordion-740313444-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-what-finish-does-your-acrylic-product-have?" aria-expanded="false" aria-controls="accordion-740313444-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>What finish does your acrylic product have?</span>
+		</a>
+		<div id="accordion-740313444-content" class="accordion-inner" aria-labelledby="accordion-740313444-label">
+			
+
+<p><span style="font-weight: 400"><a href="https://omgs.in/customise/acrylic-print/">Acrylic photo prints</a> come with a gloss finish that looks exactly like q glass. However, acrylic is scratch-resistant and does not break like glass.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-3303084329" class="accordion-item">
+		<a id="accordion-3303084329-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-what-file-formats-can-i-upload?" aria-expanded="false" aria-controls="accordion-3303084329-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>What file formats can I upload?</span>
+		</a>
+		<div id="accordion-3303084329-content" class="accordion-inner" aria-labelledby="accordion-3303084329-label">
+			
+
+<p><span style="font-weight: 400">You can upload your images in jpeg, jpg, or png formats. Make sure they are of high resolution as the prints might get blurred with low-quality pictures.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-3305091585" class="accordion-item">
+		<a id="accordion-3305091585-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-how-can-i-customize-my-phone-cover?" aria-expanded="false" aria-controls="accordion-3305091585-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>How can I customize my phone cover?</span>
+		</a>
+		<div id="accordion-3305091585-content" class="accordion-inner" aria-labelledby="accordion-3305091585-label">
+			
+
+<p><span style="font-weight: 400">You can select custom font, text, background, and color for your phone covers. Our preview tool will show you how your finished product will look like and we will deliver exactly what you see on the screen.</span></p>
+
+		</div>
+	</div>
+	
+	<div id="accordion-4282978491" class="accordion-item">
+		<a id="accordion-4282978491-label" class="accordion-title plain" href="https://omgs.in/#accordion-item-are-your-phone-covers-shockproof?" aria-expanded="false" aria-controls="accordion-4282978491-content">
+			<button class="toggle" aria-label="Toggle"><i class="icon-angle-down"></i></button>
+			<span>Are your phone covers shockproof?</span>
+		</a>
+		<div id="accordion-4282978491-content" class="accordion-inner" aria-labelledby="accordion-4282978491-label">
+			
+
+<p><span style="font-weight: 400">Yes. we have shockproof covers available on our site for all the latest models of smartphones.</span></p>
+
+		</div>
+	</div>
+	
+
+</div>
+
+		</div>
+					</div>
+
+	
+
+</div>
+<div class="row" id="row-884117104">
+
+
+	<div id="col-1481387984" class="col small-12 large-12">
+				<div class="col-inner">
+			
+			
+
+<div class="container section-title-container" style="margin-top:40px;"><h3 class="section-title section-title-center"><b></b><span class="section-title-main">Our Blog</span><b></b></h3></div>
+
+
+  
+    <div class="row large-columns-3 medium-columns-1 small-columns-1 has-shadow row-box-shadow-2">
+  <div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="width:55%;">
+  						<div class="image-cover" style="padding-top:100%;">
+							<a href="https://omgs.in/transform-your-bathroom-with-these-print-ideas/" class="plain" aria-label="Transform Your Bathroom with These Print Ideas">
+								<img loading="lazy" decoding="async" width="300" height="225" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2022/11/bathroom-acrylic-frame-decoration-300x225.jpg" class="lazy-load attachment-medium size-medium wp-post-image" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2022/11/bathroom-acrylic-frame-decoration-300x225.jpg 300w, https://omgs.in/wp-content/uploads/2022/11/bathroom-acrylic-frame-decoration-1024x768.jpg 1024w, https://omgs.in/wp-content/uploads/2022/11/bathroom-acrylic-frame-decoration-768x576.jpg 768w, https://omgs.in/wp-content/uploads/2022/11/bathroom-acrylic-frame-decoration-800x600.jpg 800w, https://omgs.in/wp-content/uploads/2022/11/bathroom-acrylic-frame-decoration.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center">
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label tag-label is-xxsmall op-7 uppercase">
+					Blog 					</p>
+										<h5 class="post-title is-large ">
+						<a href="https://omgs.in/transform-your-bathroom-with-these-print-ideas/" class="plain">Transform Your Bathroom with These Print Ideas</a>
+					</h5>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">
+						A bathroom is often the easily neglected space in any household even when it is used by all family members. [...]					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="width:55%;">
+  						<div class="image-cover" style="padding-top:100%;">
+							<a href="https://omgs.in/use-your-pets-photographs-as-art/" class="plain" aria-label="Use your pet’s photographs as art">
+								<img loading="lazy" decoding="async" width="300" height="225" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20225%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2022/09/BLOG-Pets-300x225.jpg" class="lazy-load attachment-medium size-medium wp-post-image" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2022/09/BLOG-Pets-300x225.jpg 300w, https://omgs.in/wp-content/uploads/2022/09/BLOG-Pets-1024x768.jpg 1024w, https://omgs.in/wp-content/uploads/2022/09/BLOG-Pets-768x576.jpg 768w, https://omgs.in/wp-content/uploads/2022/09/BLOG-Pets-800x600.jpg 800w, https://omgs.in/wp-content/uploads/2022/09/BLOG-Pets.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px">							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center">
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label tag-label is-xxsmall op-7 uppercase">
+					Blog 					</p>
+										<h5 class="post-title is-large ">
+						<a href="https://omgs.in/use-your-pets-photographs-as-art/" class="plain">Use your pet’s photographs as art</a>
+					</h5>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">
+						Some of the most loyal and best friends are furry or scaly. They are the little creatures we are fond [...]					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div><div class="col post-item">
+			<div class="col-inner">
+				<div class="box box-normal box-text-bottom box-blog-post has-hover">
+            					<div class="box-image" style="width:55%;">
+  						<div class="image-cover" style="padding-top:100%;">
+							<a href="https://omgs.in/5-masterpieces-you-can-print-for-free/" class="plain" aria-label="5 Masterpieces you can print for free">
+								<img loading="lazy" decoding="async" width="247" height="300" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20247%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-247x300.jpg" class="lazy-load attachment-medium size-medium wp-post-image" alt="" srcset="" data-srcset="https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-247x300.jpg 247w, https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-844x1024.jpg 844w, https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-768x932.jpg 768w, https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-1266x1536.jpg 1266w, https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-1688x2048.jpg 1688w, https://omgs.in/wp-content/uploads/2022/08/free-to-print-photos-800x971.jpg 800w" sizes="(max-width: 247px) 100vw, 247px">							</a>
+  							  							  						</div>
+  						  					</div>
+          					<div class="box-text text-center">
+					<div class="box-text-inner blog-post-inner">
+
+					
+											<p class="cat-label tag-label is-xxsmall op-7 uppercase">
+					Blog 					</p>
+										<h5 class="post-title is-large ">
+						<a href="https://omgs.in/5-masterpieces-you-can-print-for-free/" class="plain">5 Masterpieces you can print for free</a>
+					</h5>
+										<div class="is-divider"></div>
+										<p class="from_the_blog_excerpt ">
+						When it comes to printing famous art, or images on any medium to decorate your house you can find many [...]					</p>
+					                    
+					
+					
+					</div>
+					</div>
+									</div>
+			</div>
+		</div></div>
+
+
+		</div>
+					</div>
+
+	
+
+</div>
+
+		</div>
+
+		
+<style>
+#section_229732609 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+</style>
+	</section>
+	
+	<section class="section dark" id="section_1557159302">
+		<div class="bg section-bg fill bg-fill  bg-loaded">
+
+			
+			
+			
+
+		</div>
+
+		
+
+		<div class="section-content relative">
+			
+
+<div class="container section-title-container"><h3 class="section-title section-title-normal"><b></b><span class="section-title-main">Our Instagram Feed</span><b></b></h3></div>
+
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-collapse row-full-width" data-flatsome-instagram="a6089750b7:eyJ1c2VybmFtZSI6Im9tZ3NhY3J5bGljIiwid2lkdGgiOiJmdWxsLXdpZHRoIiwiX2lkIjoiaW5zdGFncmFtLTEifQ==">
+  <div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--placeholder">
+						<a href="https://omgs.in/#" target="_blank" rel="noopener" class="plain">
+							<img decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20300%20300%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" alt="">																				</a>
+					</div>
+				</div></div></div></div>
+
+
+  
+    <div class="row large-columns-5 medium-columns-3 small-columns-2 row-collapse row-full-width">
+  <div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--image">
+						<a href="https://www.instagram.com/p/C2Yvd1aq949/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t39.30808-6/421369130_17977979828647195_6014366350761654183_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=k66J-CPLzOQAX-KUhRa&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfBDZW2mA7sOxXdXnVOQl77jBwJYfAhoY9Mocf_ABe8Zzw&amp;oe=65B412E0" alt="🕉️ OMGS Acrylics India 🕉️ is overjoyed to extend heartfelt wishes on the auspicious occasion of Shree Ram Mandir Pran Pratishtha! 🚀✨
+
+🎉🤝 May the divine blessings of Lord Ram fill your lives with love, peace, and prosperity. 🌺🌈 
+
+#ShreeRamMandir #PranPratishtha #Inauguration #OMGSAcrylicsIndia #JaiShreeRam 🙏✨">																						<div class="caption"><img draggable="false" role="img" class="emoji" alt="🕉️" src="./mainimg_files/1f549.svg"> OMGS Acrylics India <img draggable="false" role="img" class="emoji" alt="🕉️" src="./mainimg_files/1f549.svg"> is overjoyed to extend heartfelt wishes on the auspicious occasion of Shree Ram Mandir Pran Pratishtha! <img draggable="false" role="img" class="emoji" alt="🚀" src="./mainimg_files/1f680.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg">
+
+<img draggable="false" role="img" class="emoji" alt="🎉" src="./mainimg_files/1f389.svg"><img draggable="false" role="img" class="emoji" alt="🤝" src="./mainimg_files/1f91d.svg"> May the divine blessings of Lord Ram fill your lives with love, peace, and prosperity. <img draggable="false" role="img" class="emoji" alt="🌺" src="./mainimg_files/1f33a.svg"><img draggable="false" role="img" class="emoji" alt="🌈" src="./mainimg_files/1f308.svg"> 
+
+#ShreeRamMandir #PranPratishtha #Inauguration #OMGSAcrylicsIndia #JaiShreeRam <img draggable="false" role="img" class="emoji" alt="🙏" src="./mainimg_files/1f64f.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"></div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--image">
+						<a href="https://www.instagram.com/p/C2Gr84nyOoN/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t51.29350-15/419384302_888812329558238_8086538072331025926_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=6P0OxVx0zf8AX-YyPGq&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfCEPtYBP7YAyUc74VVj2fIOsDC7-7WaCgFyBCH92_si7A&amp;oe=65B3B525" alt="“OMGS Acrylic India wishes you a joyous Pongal celebration! May this harvest festival bring prosperity and happiness to your home. 🌾✨ #PongalFestival #HarvestJoy #OMGSPongalGreetings #FestiveVibes #TraditionRevived #AcrylicArtistry #CelebrationTime #WishingYouProsperity #PongalWishes #OMGSAcrylicIndia”">																						<div class="caption">“OMGS Acrylic India wishes you a joyous Pongal celebration! May this harvest festival bring prosperity and happiness to your home. <img draggable="false" role="img" class="emoji" alt="🌾" src="./mainimg_files/1f33e.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> #PongalFestival #HarvestJoy #OMGSPongalGreetings #FestiveVibes #TraditionRevived #AcrylicArtistry #CelebrationTime #WishingYouProsperity #PongalWishes #OMGSAcrylicIndia”</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--image">
+						<a href="https://www.instagram.com/p/C2EJN_Pr26Q/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t39.30808-6/419504855_17976922388647195_4371651609525187907_n.jpg?_nc_cat=100&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=4xCrTLv9CPIAX-Ybb1I&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDdjKNL8lI2JMsldxv8MzLN7UZYxmLLzriqg7KH8tNC8Q&amp;oe=65B3C021" alt="" 🌾="" wishing="" you="" a="" joyous="" makar="" sankranthi="" filled="" with="" vibrant="" strokes="" of="" happiness!="" may="" your="" canvas="" life="" be="" painted="" the="" colors="" prosperity="" and="" creativity.="" #makarsankranthijoy="" #omgsacrylics="" #festiveart="" #harvesthues="" #artisticcelebration="" #sankranthivibes="" #creativeharvest="" #joyfulcanvas="" #artfulwishes="" #colorfulharvest="" #artandfestivity="" 🎨✨""="">																						<div class="caption">"<img draggable="false" role="img" class="emoji" alt="🌾" src="./mainimg_files/1f33e.svg"> Wishing you a joyous Makar Sankranthi filled with vibrant strokes of happiness! May your canvas of life be painted with the colors of prosperity and creativity. #MakarSankranthiJoy #OMGSAcrylics #FestiveArt #HarvestHues #ArtisticCelebration #SankranthiVibes #CreativeHarvest #JoyfulCanvas #ArtfulWishes #ColorfulHarvest #ArtAndFestivity <img draggable="false" role="img" class="emoji" alt="🎨" src="./mainimg_files/1f3a8.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg">"</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--video">
+						<a href="https://www.instagram.com/reel/C1q9O6Soas3/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom2-1.cdninstagram.com/v/t51.29350-15/416306118_673271228220373_5377991353859557013_n.jpg?_nc_cat=105&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=E6Cxv1UjmT0AX_5JPPI&amp;_nc_ht=scontent-bom2-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDcByap5CkO1Kb8bahjvwanW16mPJBo2vV35Q_8lmNnNg&amp;oe=65B530CB" alt="“Transform your memories into art with OMGS Acrylics India! 🎨✨ Our Customized Glossy acrylics photo prints bring your photos to life like never before. Elevate your space with personalized elegance. #OMGSAcrylics #PhotoPrints #CustomArtwork #GlossyAcrylics #MemoriesInColor”">																						<div class="caption">“Transform your memories into art with OMGS Acrylics India! <img draggable="false" role="img" class="emoji" alt="🎨" src="./mainimg_files/1f3a8.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> Our Customized Glossy acrylics photo prints bring your photos to life like never before. Elevate your space with personalized elegance. #OMGSAcrylics #PhotoPrints #CustomArtwork #GlossyAcrylics #MemoriesInColor”</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--video">
+						<a href="https://www.instagram.com/reel/C1ogfJQIlvU/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t51.29350-15/416463172_1019362032497715_2747080586345044659_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=CtjEcqrFEVUAX8QJTbF&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfAy-eYNdv5ZjOjRZ2ift1IEglsoG7GOrcXmgv04O__pjw&amp;oe=65B45C32" alt="“Timeless memories on display! ⏰✨ Introducing OMGS Acrylics India’s Customized Glossy Acrylics Photo Wall Clock Prints – a fusion of functionality and personalized art. Adorn your space with moments that tick to the beat of your heart. #OMGSAcrylics #PhotoWallClock #CustomArtPrints #TimelessMemories #WallDecor”">																						<div class="caption">“Timeless memories on display! <img draggable="false" role="img" class="emoji" alt="⏰" src="./mainimg_files/23f0.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> Introducing OMGS Acrylics India’s Customized Glossy Acrylics Photo Wall Clock Prints – a fusion of functionality and personalized art. Adorn your space with moments that tick to the beat of your heart. #OMGSAcrylics #PhotoWallClock #CustomArtPrints #TimelessMemories #WallDecor”</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--video">
+						<a href="https://www.instagram.com/reel/C1ogVfjo0xM/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t51.29350-15/416565892_1081236376628798_3013935897465028207_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=gOEzeLg6LRYAX_JFQuj&amp;_nc_oc=AQnhMzf-RAQAGXPRrnal_WL15g30ptvZpRBeODyaQ6f3sSVlwR6PWUH0PyeZl2GNEPcr4I0HEpppk3kZEbL9ilGm&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfCZ4RvDMyo_q5AYjCzP79cd56poK_6dOB5WNZXxCk2_Qw&amp;oe=65B486C2" alt="“Timeless memories meet contemporary design! ⏰✨ Introducing our Customized Glossy acrylics photo wall clock prints at OMGS Acrylics India. Turn every hour into a moment to cherish. #OMGSAcrylics #PhotoWallClock #CustomizedPrints #TimelessMemories #WallDecorInspo”">																						<div class="caption">“Timeless memories meet contemporary design! <img draggable="false" role="img" class="emoji" alt="⏰" src="./mainimg_files/23f0.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> Introducing our Customized Glossy acrylics photo wall clock prints at OMGS Acrylics India. Turn every hour into a moment to cherish. #OMGSAcrylics #PhotoWallClock #CustomizedPrints #TimelessMemories #WallDecorInspo”</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--video">
+						<a href="https://www.instagram.com/reel/C1ogA2FouA5/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-1.cdninstagram.com/v/t51.29350-15/416595715_689029126395118_3655886190259967544_n.jpg?_nc_cat=102&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=6aUdwqxuDTQAX-bF7US&amp;_nc_oc=AQkSTNJG2EGFr1HLYzOrtiXqGgmuLtd7h1f4qdMoJhEfDAYD9gDvr6d0S9-oFT-7FJpBbFKE2lvttCmj4u3M4F9Q&amp;_nc_ht=scontent-bom1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfDy_-zW02cZoi2QnCuA3UKD0pJhm-JrEpcInToSBMU85g&amp;oe=65B4D48F" alt="“Transform your memories into art with OMGS Acrylics India! 🎨✨ Our Customized Glossy acrylics photo prints bring your photos to life like never before. Elevate your space with personalized elegance. #OMGSAcrylics #PhotoPrints #CustomArtwork #GlossyAcrylics #MemoriesInColor”">																						<div class="caption">“Transform your memories into art with OMGS Acrylics India! <img draggable="false" role="img" class="emoji" alt="🎨" src="./mainimg_files/1f3a8.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> Our Customized Glossy acrylics photo prints bring your photos to life like never before. Elevate your space with personalized elegance. #OMGSAcrylics #PhotoPrints #CustomArtwork #GlossyAcrylics #MemoriesInColor”</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--video">
+						<a href="https://www.instagram.com/reel/C1of2YeI735/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t51.29350-15/415995802_273338529081321_8993611985980258513_n.jpg?_nc_cat=109&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=YJlULe0NGxcAX8woLsM&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfB4EFT4zVGLVZ28JnZ_xDu8LEHaKNV7EuKrq5QiIZkDDw&amp;oe=65B49E52" alt="“Transform your memories into art with our Customized Glossy Acrylics Photo Prints! 📸✨ Elevate your space with stunning, personalized decor. #AcrylicPrints #CustomArt #MemoriesInColor #PhotoPrints #OMGSAcrylicsIndia”">																						<div class="caption">“Transform your memories into art with our Customized Glossy Acrylics Photo Prints! <img draggable="false" role="img" class="emoji" alt="📸" src="./mainimg_files/1f4f8.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> Elevate your space with stunning, personalized decor. #AcrylicPrints #CustomArt #MemoriesInColor #PhotoPrints #OMGSAcrylicsIndia”</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--image">
+						<a href="https://www.instagram.com/p/C1ilyz1yZZ0/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-2.cdninstagram.com/v/t39.30808-6/415728406_17975180069647195_8307973643694201640_n.jpg?_nc_cat=107&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=_WO5fWkEhyEAX-WNUMP&amp;_nc_oc=AQmdr6W3GimRznCqZ32jjtZpEAbqX--NEQtcWRyYuk8COmauJy5MBFxPMWmRwrGa-cP3m1izUe90b-hvfWlfHAc8&amp;_nc_ht=scontent-bom1-2.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfCg2lx9DibNzuAQsLgjypRktXKbglV74TsjSq4bEpy7YQ&amp;oe=65B3CB2F" alt="" cheers="" to="" a="" canvas="" of="" possibilities="" in="" 2024!="" 🎨✨="" wishing="" you="" vibrant="" new="" year="" filled="" with="" colorful="" moments="" and="" creative="" masterpieces.="" let="" omgs="" acrylic="" india="" be="" your="" partner="" turning="" imagination="" into="" reality.="" 🌟🎉="" #newyearnewcanvas="" #omgsacrylicmagic""="">																						<div class="caption">"Cheers to a canvas of possibilities in 2024! <img draggable="false" role="img" class="emoji" alt="🎨" src="./mainimg_files/1f3a8.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> Wishing you a vibrant New Year filled with colorful moments and creative masterpieces. Let OMGS Acrylic India be your partner in turning imagination into reality. <img draggable="false" role="img" class="emoji" alt="🌟" src="./mainimg_files/1f31f.svg"><img draggable="false" role="img" class="emoji" alt="🎉" src="./mainimg_files/1f389.svg"> #NewYearNewCanvas #OMGSAcrylicMagic"</div>
+													</a>
+					</div>
+				</div></div></div><div class="col"><div class="col-inner"><div class="img has-hover no-overflow">
+					<div class="dark instagram-image-container image-overlay-remove instagram-image-type--image">
+						<a href="https://www.instagram.com/p/C1Ql7cmSpvf/" target="_blank" rel="noopener" class="plain">
+							<img class="lazy-load" decoding="async" src="data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%20100%20100%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E" data-src="https://scontent-bom1-1.cdninstagram.com/v/t51.29350-15/412614098_367744645946697_2997496264025267623_n.jpg?_nc_cat=104&amp;ccb=1-7&amp;_nc_sid=384e48&amp;_nc_ohc=YScsx3b43nUAX-yNS52&amp;_nc_ht=scontent-bom1-1.cdninstagram.com&amp;edm=ANo9K5cEAAAA&amp;oh=00_AfCDhP1MEaOi5TSVMgayjjUAdGOV4aKZwrCksW8JN2zOUg&amp;oe=65B3B075" alt="Wishing you a Merry Christmas filled with joy and warmth from OMGS Acrylic India! 🎄✨ May your celebrations be as vibrant as our acrylic creations. #OMGSAcrylic #ChristmasWishes #JoyfulCelebrations #AcrylicMagic">																						<div class="caption">Wishing you a Merry Christmas filled with joy and warmth from OMGS Acrylic India! <img draggable="false" role="img" class="emoji" alt="🎄" src="./mainimg_files/1f384.svg"><img draggable="false" role="img" class="emoji" alt="✨" src="./mainimg_files/2728.svg"> May your celebrations be as vibrant as our acrylic creations. #OMGSAcrylic #ChristmasWishes #JoyfulCelebrations #AcrylicMagic</div>
+													</a>
+					</div>
+				</div></div></div></div>
+
+
+		</div>
+
+		
+<style>
+#section_1557159302 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgb(40, 40, 40);
+}
+</style>
+	</section>
+	
+
+
+
+			
+		
+</div>
+
+
+
+</main>
+
+<footer id="footer" class="footer-wrapper">
+
+	<!--<img src="https://s.omgs.in/wp-content/uploads/2021/03/trust.jpg" style="width: 100%; max-width: 620px; display: block; margin: 30px auto;" ><img src="https://s.omgs.in/wp-content/uploads/2021/02/courier-icons-1-min.png" style="max-width: 320px; display: block; margin: 10px auto;" > -->
+<!-- FOOTER 1 -->
+
+<!-- FOOTER 2 -->
+<div class="footer-widgets footer footer-2 dark">
+		<div class="row dark large-columns-3 mb-0">
+	   		<div id="custom_html-2" class="widget_text col pb-0 widget widget_custom_html"><span class="widget-title">Need Help?</span><div class="is-divider small"></div><div class="textwidget custom-html-widget"><a href="https://wa.me/919653941887?text=Hello" target="_new" rel="noopener noreferrer"><img class="no-lazy" style="max-width: 55px; display: inline-block; margin-right: 10px; vertical-align: middle;" src="./mainimg_files/whatsapp-min-min.png"></a><br><br>
+<p>
+Email: <a href="mailto:support@omgs.in">support@omgs.in</a><br>
+</p>
+<p>
+<a class="tooltip tooltipstered" href="tel:+919653941887"> <i class="icon-phone" style="font-size: 16px;"></i> 9653941887 </a>
+</p></div></div><div id="nav_menu-2" class="col pb-0 widget widget_nav_menu"><span class="widget-title">Quick Links</span><div class="is-divider small"></div><div class="menu-footer-menu-1-container"><ul id="menu-footer-menu-1" class="menu"><li id="menu-item-96904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96904"><a href="https://omgs.in/terms-conditions/">Terms &amp; Conditions</a></li>
+<li id="menu-item-96907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96907"><a href="https://omgs.in/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-96905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96905"><a href="https://omgs.in/return-policy/">Refund or Return Policy</a></li>
+<li id="menu-item-96908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96908"><a href="https://omgs.in/orders-tracking/">Track Your Order</a></li>
+<li id="menu-item-96906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-96906"><a href="https://omgs.in/contact-us/">Contact Us</a></li>
+<li id="menu-item-275922" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-275922"><a href="https://omgs.in/category/blog/">Blog</a></li>
+</ul></div></div><div id="custom_html-4" class="widget_text col pb-0 widget widget_custom_html"><span class="widget-title">We PRINT and SHIP from <img draggable="false" role="img" class="emoji" alt="❤️" src="./mainimg_files/2764.svg"> INDIA&nbsp;</span><div class="is-divider small"></div><div class="textwidget custom-html-widget"><h3>DUAL PROCESSING FACILITIES</h3>
+<hr>
+1/57, Kanakpura RIICO Industrial Area,<br> Sirsi Road, Jaipur, 302034 Rajasthan
+<br>
+<hr>
+
+Shed NO. C-1 ANNEX,<br>
+KSSIDC Industrial Area,<br>
+Yelahanka, (Opp. Rail Wheel Factory)<br>
+Bengaluru-560064. KARNATAKA<br>
+<br>
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAd8AAAB9CAYAAADjo2kJAAAACXBIWXMAABYlAAAWJQFJUiTwAAAF6WlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNi4wLWMwMDYgNzkuMTY0NjQ4LCAyMDIxLzAxLzEyLTE1OjUyOjI5ICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RFdnQ9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZUV2ZW50IyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgMjIuMSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjEtMDItMTFUMTI6MDM6MTkrMDU6MzAiIHhtcDpNb2RpZnlEYXRlPSIyMDIxLTAzLTA5VDE4OjMxOjA1KzA1OjMwIiB4bXA6TWV0YWRhdGFEYXRlPSIyMDIxLTAzLTA5VDE4OjMxOjA1KzA1OjMwIiBkYzpmb3JtYXQ9ImltYWdlL3BuZyIgcGhvdG9zaG9wOkNvbG9yTW9kZT0iMyIgcGhvdG9zaG9wOklDQ1Byb2ZpbGU9InNSR0IgSUVDNjE5NjYtMi4xIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmI5NWQyZmM3LWY5ZTQtNGY3Zi05MDNjLWRlNzdlNTBhYjQ4ZiIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDplYzNiM2UzOS03MmQwLTQ2MDQtYWU2NC05Yzg2ODlhMmNmZTciIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDplYzNiM2UzOS03MmQwLTQ2MDQtYWU2NC05Yzg2ODlhMmNmZTciPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmVjM2IzZTM5LTcyZDAtNDYwNC1hZTY0LTljODY4OWEyY2ZlNyIgc3RFdnQ6d2hlbj0iMjAyMS0wMi0xMVQxMjowMzoxOSswNTozMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIDIyLjEgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmI5NWQyZmM3LWY5ZTQtNGY3Zi05MDNjLWRlNzdlNTBhYjQ4ZiIgc3RFdnQ6d2hlbj0iMjAyMS0wMy0wOVQxODozMTowNSswNTozMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIDIyLjIgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+OPsqvgAAIABJREFUeJzt3X1QVPe9P/A3u3v2ARZ2N7DBAOKKKBJJEDX2OmY0Kf5ApEkltzbG3qZJJrW12mr+aIxN2o5t08bcTEanbRJ77VO8traZBvwRH3CkKjfG+hB8wlCgXFYDGATC08I+L/cPBHlUdjnf8z1n9/OacWJg95zPjrv7Puf7GLV8+fK9TqdzntvtjgHgACGEEEm4PJ7+57s+j3vqRovhplbr510PYStKrbb0+/0d6jjjnzXnzp2b5fV6c7xeL++6CCEkcqiioIpSoTbgh64fCLg9vCsijPUD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" srcx="https://s.omgs.in/wp-content/uploads/2021/03/logo-compress-min.png" id="logo_canvas" crossorigin="anonymous" class="no-lazy" width="97" height="43"></div></div>		</div>
+</div>
+
+
+
+<div class="absolute-footer dark medium-text-center small-text-center">
+  <div class="container clearfix">
+
+          <div class="footer-secondary pull-right">
+                <div class="payment-icons inline-block"><div class="payment-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32">
+	<path d="M30.479 16.275v7.365h-2.337V5.452h6.197a5.603 5.603 0 014.012 1.574 5.062 5.062 0 011.676 3.839 5.037 5.037 0 01-1.676 3.86c-1.083 1.033-2.42 1.55-4.012 1.548h-3.86v.002zm0-8.584v6.35h3.918a3.089 3.089 0 002.312-.941 3.098 3.098 0 000-4.445 3.047 3.047 0 00-2.312-.965h-3.918v.001zM45.41 10.79c1.727 0 3.09.462 4.09 1.385s1.498 2.188 1.498 3.796v7.67h-2.235v-1.727h-.102c-.968 1.422-2.254 2.133-3.86 2.133-1.371 0-2.518-.406-3.441-1.219a3.895 3.895 0 01-1.384-3.047c0-1.288.486-2.312 1.46-3.073.973-.76 2.272-1.141 3.897-1.143 1.388 0 2.53.254 3.428.762v-.534a2.662 2.662 0 00-.965-2.068 3.31 3.31 0 00-2.255-.852c-1.305 0-2.338.55-3.098 1.651l-2.058-1.296c1.132-1.625 2.807-2.438 5.025-2.438zm-3.023 9.041a1.864 1.864 0 00.775 1.524 2.85 2.85 0 001.816.61 3.725 3.725 0 002.628-1.092c.774-.728 1.161-1.583 1.161-2.564-.729-.58-1.744-.87-3.048-.87-.949 0-1.74.228-2.374.686-.64.464-.957 1.029-.957 1.706zm21.439-8.634l-7.802 17.93h-2.411l2.895-6.274-5.13-11.656h2.54l3.707 8.94h.05l3.607-8.94h2.544zM11.003 8.137a5.673 5.673 0 014.009 1.567l2.982-2.982A10.04 10.04 0 0011.004 4a10.449 10.449 0 000 20.897c2.82 0 5.193-.926 6.925-2.522l-.002-.002h.002c1.972-1.818 3.108-4.507 3.108-7.687 0-.712-.06-1.422-.18-2.124h-9.854v4.024h5.644a4.834 4.834 0 01-2.087 3.175v.002c-.937.635-2.145.998-3.557.998-2.725 0-5.038-1.837-5.865-4.313a6.26 6.26 0 010-4c.827-2.475 3.14-4.312 5.865-4.312z"></path>
+</svg>
+</div><div class="payment-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32">
+	<path d="M32.18 12.33c-.49 1.38-1.851 1.21-1.851 1.21h-1.852l.73-2.722s1.172.01 1.953.01c.95 0 1.29.75 1.02 1.501zm3.894-1.272c.3-2.381-1.521-3.382-3.783-3.382h-5.966l-3.523 12.828h3.793l1.071-3.953 3.023.02s4.675.2 5.395-5.513h-.01zM14.412 11.178h3.454l-1.422 5.473s-.35 1.221.791 1.311c.9.07 1.572-1 1.792-1.73.29-.961 1.411-5.063 1.411-5.063h3.564l-2.713 9.325h-3.113l.38-1.331s-1.591 1.931-3.944 1.7c-2.091-.21-2.272-1.72-1.911-3.621.18-.93 1.701-6.074 1.701-6.074l.01.01z"></path>
+	<path d="M39.268 18.603c-.59.15-1.311.23-1.452-.31-.39-1.471 3.063-1.902 3.063-1.902.02 1.341-1.15 2.102-1.611 2.212zm5.225-2.702c.46-1.55 1.03-3.021.57-3.832-.71-1.24-1.992-1.35-3.873-1.35-2.072 0-4.635.39-5.465 3.151h3.453s.31-1.04 1.611-.97c1.151.06 1.081.85.661 1.28-.74.76-2.793.34-5.055 1.13-1.982.691-2.672 3.293-2.242 4.333.42 1.01 1.191 1.14 2.242 1.24 1.682.171 2.973-.77 3.574-1.32 0 .61.02.95.02.95h3.633l-.01-.34s-.32-.09-.29-.54c.03-.33.65-1.93 1.18-3.712l-.01-.02zM9.54 12.3c-.491 1.13-2.013 1.01-2.013 1.01l-1.772-.01.651-2.402s1.582.01 2.362.01c.831 0 1.091.67.771 1.401v-.01zm4.023-1.642c.3-2.381-1.802-2.991-4.074-2.991H3.523L0 20.494h3.794l1.18-4.353 2.123.02s.88-.05.89.77c.02.881-.65 2.492-.61 3.563h3.894l-.01-.34s-.32-.09-.29-.54c.01-.19.22-.791.5-1.591.16-.36.41-1.201.39-1.892-.03-.86-.57-1.26-1.341-1.53 2.422-.57 3.023-3.943 3.023-3.943h.02zM46.134 11.179h3.523v5.593l3.043-5.593h3.233l-6.516 11.306s-.6.95-1.351 1.451c-.62.41-1.372.39-1.602.41-1.29-.01-2.842-.01-2.842-.01l.75-2.691h1.211s.551-.06.771-.33c.2-.26.31-.52.31-.901 0-.57-.52-9.225-.52-9.225l-.01-.01z"></path>
+	<path fill-opacity=".7" d="M60.447 9.028l-4.064 14.137L64 16.102l-3.553-7.074z"></path>
+	<path d="M57.846 9.028l-4.064 14.137 7.608-7.063-3.544-7.074z"></path>
+</svg>
+</div><div class="payment-icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32">
+	<path fill-opacity=".6" d="M63.713 10.66a4.26 4.26 0 00-4.02-2.85h-.038a4.242 4.242 0 00-3.07 1.309 4.247 4.247 0 00-3.071-1.31h-.039a4.234 4.234 0 00-2.777 1.032v-.327a.627.627 0 00-.624-.581h-2.85a.63.63 0 00-.63.631v15.472c0 .35.282.631.63.631h2.85a.627.627 0 00.62-.544l-.001-11.107c0-.037.002-.074.005-.111.046-.496.41-.903.983-.954h.525c.24.021.442.105.602.233.248.197.386.5.386.832l.01 11.052c0 .35.283.633.63.633h2.85a.63.63 0 00.625-.602l-.001-11.098a1.046 1.046 0 01.464-.89 1.16 1.16 0 01.524-.175h.525c.617.053.99.521.988 1.065l.01 11.038c0 .35.283.631.63.631h2.85a.63.63 0 00.63-.631V12.168c0-.81-.092-1.154-.216-1.508zM44.424 7.973h-1.63V5.325a.575.575 0 00-.683-.563c-1.806.496-1.445 2.998-4.743 3.211h-.32a.66.66 0 00-.138.016h-.003l.003.002a.63.63 0 00-.493.612v2.85c0 .346.282.629.63.629h1.72l-.002 12.082c0 .344.279.623.623.623h2.817a.623.623 0 00.622-.623l.001-12.082h1.596a.63.63 0 00.63-.63V8.603a.63.63 0 00-.63-.63"></path>
+	<path d="M34.173 7.973h-2.849a.63.63 0 00-.629.63v5.891a.667.667 0 01-.667.657h-1.193a.667.667 0 01-.668-.667l-.011-5.881a.63.63 0 00-.63-.63h-2.85a.63.63 0 00-.63.63v6.457c0 2.452 1.75 4.201 4.204 4.201 0 0 1.841 0 1.897.011a.664.664 0 01.01 1.317l-.049.01-4.166.015a.63.63 0 00-.63.63v2.847c0 .349.281.63.63.63H30.6c2.456 0 4.203-1.747 4.203-4.201V8.603a.63.63 0 00-.63-.63zm-27.578 5.22v1.76a.669.669 0 01-.667.668l-1.808.001V12.1h1.808c.368 0 .667.297.667.667v.428zm.25-5.22H.619A.618.618 0 000 8.59v2.792l.001.016-.001.039v12.635c0 .343.257.623.576.631H3.48a.63.63 0 00.63-.63l.01-4.33h2.727c2.28 0 3.87-1.583 3.87-3.873v-4.02c0-2.29-1.59-3.878-3.87-3.878zm11.572 11.91v.445a.652.652 0 01-.038.197.666.666 0 01-.634.43H16.56c-.37 0-.671-.281-.671-.627v-.538l-.002-.02.002-1.43v-.447l.001-.004c.002-.345.3-.624.67-.624h1.186c.371 0 .672.28.672.628v1.99zm-.453-11.894H14.01c-.35 0-.632.265-.632.59v1.11l.001.02-.001.025v1.518c0 .345.3.626.67.626h3.764a.655.655 0 01.567.603v.367c-.033.323-.266.559-.55.586h-1.865c-2.479 0-4.245 1.647-4.245 3.96v3.313c0 2.3 1.518 3.936 3.98 3.936h5.166c.928 0 1.68-.702 1.68-1.567v-10.81c0-2.622-1.351-4.277-4.581-4.277z"></path>
+</svg>
+</div><div class="payment-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 32">
+<path d="M10.781 7.688c-0.251-1.283-1.219-1.688-2.344-1.688h-8.376l-0.061 0.405c5.749 1.469 10.469 4.595 12.595 10.501l-1.813-9.219zM13.125 19.688l-0.531-2.781c-1.096-2.907-3.752-5.594-6.752-6.813l4.219 15.939h5.469l8.157-20.032h-5.501l-5.062 13.688zM27.72 26.061l3.248-20.061h-5.187l-3.251 20.061h5.189zM41.875 5.656c-5.125 0-8.717 2.72-8.749 6.624-0.032 2.877 2.563 4.469 4.531 5.439 2.032 0.968 2.688 1.624 2.688 2.499 0 1.344-1.624 1.939-3.093 1.939-2.093 0-3.219-0.251-4.875-1.032l-0.688-0.344-0.719 4.499c1.219 0.563 3.437 1.064 5.781 1.064 5.437 0.032 8.97-2.688 9.032-6.843 0-2.282-1.405-4-4.376-5.439-1.811-0.904-2.904-1.563-2.904-2.499 0-0.843 0.936-1.72 2.968-1.72 1.688-0.029 2.936 0.314 3.875 0.752l0.469 0.248 0.717-4.344c-1.032-0.406-2.656-0.844-4.656-0.844zM55.813 6c-1.251 0-2.189 0.376-2.72 1.688l-7.688 18.374h5.437c0.877-2.467 1.096-3 1.096-3 0.592 0 5.875 0 6.624 0 0 0 0.157 0.688 0.624 3h4.813l-4.187-20.061h-4zM53.405 18.938c0 0 0.437-1.157 2.064-5.594-0.032 0.032 0.437-1.157 0.688-1.907l0.374 1.72c0.968 4.781 1.189 5.781 1.189 5.781-0.813 0-3.283 0-4.315 0z"></path>
+</svg>
+</div><div class="payment-icon"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 64 32">
+<path d="M42.667-0c-4.099 0-7.836 1.543-10.667 4.077-2.831-2.534-6.568-4.077-10.667-4.077-8.836 0-16 7.163-16 16s7.164 16 16 16c4.099 0 7.835-1.543 10.667-4.077 2.831 2.534 6.568 4.077 10.667 4.077 8.837 0 16-7.163 16-16s-7.163-16-16-16zM11.934 19.828l0.924-5.809-2.112 5.809h-1.188v-5.809l-1.056 5.809h-1.584l1.32-7.657h2.376v4.753l1.716-4.753h2.508l-1.32 7.657h-1.585zM19.327 18.244c-0.088 0.528-0.178 0.924-0.264 1.188v0.396h-1.32v-0.66c-0.353 0.528-0.924 0.792-1.716 0.792-0.442 0-0.792-0.132-1.056-0.396-0.264-0.351-0.396-0.792-0.396-1.32 0-0.792 0.218-1.364 0.66-1.716 0.614-0.44 1.364-0.66 2.244-0.66h0.66v-0.396c0-0.351-0.353-0.528-1.056-0.528-0.442 0-1.012 0.088-1.716 0.264 0.086-0.351 0.175-0.792 0.264-1.32 0.703-0.264 1.32-0.396 1.848-0.396 1.496 0 2.244 0.616 2.244 1.848 0 0.353-0.046 0.749-0.132 1.188-0.089 0.616-0.179 1.188-0.264 1.716zM24.079 15.076c-0.264-0.086-0.66-0.132-1.188-0.132s-0.792 0.177-0.792 0.528c0 0.177 0.044 0.31 0.132 0.396l0.528 0.264c0.792 0.442 1.188 1.012 1.188 1.716 0 1.409-0.838 2.112-2.508 2.112-0.792 0-1.366-0.044-1.716-0.132 0.086-0.351 0.175-0.836 0.264-1.452 0.703 0.177 1.188 0.264 1.452 0.264 0.614 0 0.924-0.175 0.924-0.528 0-0.175-0.046-0.308-0.132-0.396-0.178-0.175-0.396-0.308-0.66-0.396-0.792-0.351-1.188-0.924-1.188-1.716 0-1.407 0.792-2.112 2.376-2.112 0.792 0 1.32 0.045 1.584 0.132l-0.265 1.451zM27.512 15.208h-0.924c0 0.442-0.046 0.838-0.132 1.188 0 0.088-0.022 0.264-0.066 0.528-0.046 0.264-0.112 0.442-0.198 0.528v0.528c0 0.353 0.175 0.528 0.528 0.528 0.175 0 0.35-0.044 0.528-0.132l-0.264 1.452c-0.264 0.088-0.66 0.132-1.188 0.132-0.881 0-1.32-0.44-1.32-1.32 0-0.528 0.086-1.099 0.264-1.716l0.66-4.225h1.584l-0.132 0.924h0.792l-0.132 1.585zM32.66 17.32h-3.3c0 0.442 0.086 0.749 0.264 0.924 0.264 0.264 0.66 0.396 1.188 0.396s1.1-0.175 1.716-0.528l-0.264 1.584c-0.442 0.177-1.012 0.264-1.716 0.264-1.848 0-2.772-0.924-2.772-2.773 0-1.142 0.264-2.024 0.792-2.64 0.528-0.703 1.188-1.056 1.98-1.056 0.703 0 1.274 0.22 1.716 0.66 0.35 0.353 0.528 0.881 0.528 1.584 0.001 0.617-0.046 1.145-0.132 1.585zM35.3 16.132c-0.264 0.97-0.484 2.201-0.66 3.697h-1.716l0.132-0.396c0.35-2.463 0.614-4.4 0.792-5.809h1.584l-0.132 0.924c0.264-0.44 0.528-0.703 0.792-0.792 0.264-0.264 0.528-0.308 0.792-0.132-0.088 0.088-0.31 0.706-0.66 1.848-0.353-0.086-0.661 0.132-0.925 0.66zM41.241 19.697c-0.353 0.177-0.838 0.264-1.452 0.264-0.881 0-1.584-0.308-2.112-0.924-0.528-0.528-0.792-1.32-0.792-2.376 0-1.32 0.35-2.42 1.056-3.3 0.614-0.879 1.496-1.32 2.64-1.32 0.44 0 1.056 0.132 1.848 0.396l-0.264 1.584c-0.528-0.264-1.012-0.396-1.452-0.396-0.707 0-1.235 0.264-1.584 0.792-0.353 0.442-0.528 1.144-0.528 2.112 0 0.616 0.132 1.056 0.396 1.32 0.264 0.353 0.614 0.528 1.056 0.528 0.44 0 0.924-0.132 1.452-0.396l-0.264 1.717zM47.115 15.868c-0.046 0.264-0.066 0.484-0.066 0.66-0.088 0.442-0.178 1.035-0.264 1.782-0.088 0.749-0.178 1.254-0.264 1.518h-1.32v-0.66c-0.353 0.528-0.924 0.792-1.716 0.792-0.442 0-0.792-0.132-1.056-0.396-0.264-0.351-0.396-0.792-0.396-1.32 0-0.792 0.218-1.364 0.66-1.716 0.614-0.44 1.32-0.66 2.112-0.66h0.66c0.086-0.086 0.132-0.218 0.132-0.396 0-0.351-0.353-0.528-1.056-0.528-0.442 0-1.012 0.088-1.716 0.264 0-0.351 0.086-0.792 0.264-1.32 0.703-0.264 1.32-0.396 1.848-0.396 1.496 0 2.245 0.616 2.245 1.848 0.001 0.089-0.021 0.264-0.065 0.529zM49.69 16.132c-0.178 0.528-0.396 1.762-0.66 3.697h-1.716l0.132-0.396c0.35-1.935 0.614-3.872 0.792-5.809h1.584c0 0.353-0.046 0.66-0.132 0.924 0.264-0.44 0.528-0.703 0.792-0.792 0.35-0.175 0.614-0.218 0.792-0.132-0.353 0.442-0.574 1.056-0.66 1.848-0.353-0.086-0.66 0.132-0.925 0.66zM54.178 19.828l0.132-0.528c-0.353 0.442-0.838 0.66-1.452 0.66-0.707 0-1.188-0.218-1.452-0.66-0.442-0.614-0.66-1.232-0.66-1.848 0-1.142 0.308-2.067 0.924-2.773 0.44-0.703 1.056-1.056 1.848-1.056 0.528 0 1.056 0.264 1.584 0.792l0.264-2.244h1.716l-1.32 7.657h-1.585zM16.159 17.98c0 0.442 0.175 0.66 0.528 0.66 0.35 0 0.614-0.132 0.792-0.396 0.264-0.264 0.396-0.66 0.396-1.188h-0.397c-0.881 0-1.32 0.31-1.32 0.924zM31.076 15.076c-0.088 0-0.178-0.043-0.264-0.132h-0.264c-0.528 0-0.881 0.353-1.056 1.056h1.848v-0.396l-0.132-0.264c-0.001-0.086-0.047-0.175-0.133-0.264zM43.617 17.98c0 0.442 0.175 0.66 0.528 0.66 0.35 0 0.614-0.132 0.792-0.396 0.264-0.264 0.396-0.66 0.396-1.188h-0.396c-0.881 0-1.32 0.31-1.32 0.924zM53.782 15.076c-0.353 0-0.66 0.22-0.924 0.66-0.178 0.264-0.264 0.749-0.264 1.452 0 0.792 0.264 1.188 0.792 1.188 0.35 0 0.66-0.175 0.924-0.528 0.264-0.351 0.396-0.879 0.396-1.584-0.001-0.792-0.311-1.188-0.925-1.188z"></path>
+</svg>
+</div></div>      </div>
+    
+    <div class="footer-primary pull-left">
+            <div class="copyright-footer">
+        Copyright 2016-2024 © <strong>OMGS.in </strong>      </div>
+          </div>
+  </div>
+</div>
+
+<a href="https://omgs.in/#top" class="back-to-top button icon invert plain fixed bottom z-1 is-outline circle" id="top-link" aria-label="Go to top"><i class="icon-angle-up"></i></a>
+
+</footer>
+
+</div>
+
+<script>
+
+jQuery( document ).ready(function() {
+	// unique name
+	function makeidUnq(length) {
+		var result           = [];
+		var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+		var charactersLength = characters.length;
+		for ( var i = 0; i < length; i++ ) {
+		  result.push(characters.charAt(Math.floor(Math.random() * 
+	 charactersLength)));
+	   }
+	   return result.join('');
+	}
+	var name = '';
+	var u_a = navigator.userAgent;
+		name = u_a.match(/iPhone(\d+)([0-9]{0,1}),([0-9]+)/g);
+
+	var event_id = Date.now().toString(36) + Math.random().toString(36).substr(2);
+		event_id = event_id +'_'+ makeidUnq(20)+'_'+name;	
+	
+	
+	// Server Side tracking
+	function send_server_events( jsonData ) {
+		// jQuery.post('/?wc-ajax=fcapi_ads',jsonData).done(function(result){
+		// 	// console.log('ajax request completed. result=',result);
+		// }).fail(function(){
+		// 	console.log('ajax request failed. check network log.');
+		// });
+		var formData = Object.keys(jsonData).map(function(key) {
+			return encodeURIComponent(key) + '=' + encodeURIComponent(jsonData[key]);
+		}).join('&');
+		
+		let url = '/?wc-ajax=fcapi_ads';
+		let xhr = new XMLHttpRequest();
+		xhr.open('POST', url, true);
+		xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+		xhr.onload = function() {
+			if (xhr.status === 200) {
+				// console.log('done');
+			} else {
+				console.log('ajax request failed. check network log.');
+			}
+		};
+
+		xhr.onerror = function() {
+			console.log('ajax request failed. check network log.');
+		};
+		xhr.send(formData);
+	}
+	
+	var seconds = 1;
+	setTimeout(function() {
+		let ev = event_id+'_PageView'; // different for pageViewo
+		fbq('track', 'PageView', {}, {eventID: ev});
+		// server side
+		var data={
+			event_source_url: window.location.href,
+			event_id: ev,
+			event_name: "PageView",	
+		}
+		send_server_events( data );
+		// end server side
+	}, seconds * 1000);
+	// fb view content 	
+	
+
+	 
+
+
+
+
+		
+});
+</script>
+
+<div id="main-menu" class="mobile-sidebar no-scrollbar mfp-hide mobile-sidebar-slide mobile-sidebar-levels-1" data-levels="1">
+
+	
+	<div class="sidebar-menu no-scrollbar ">
+
+		
+					<ul class="nav nav-sidebar nav-vertical nav-uppercase nav-slide" data-tab="1">
+				<li id="menu-item-679689" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-679689 has-icon-left"><a href="https://omgs.in/" aria-current="page"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/home-150x150.png" alt="">Home</a></li>
+<li id="menu-item-139214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139214 has-icon-left"><a href="https://omgs.in/product/wall-photo/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/Premium-acrylic-wall-photo-compressed-150x150.jpg" alt="">Premium Acrylic Photo</a></li>
+<li id="menu-item-279894" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-279894 has-icon-left"><a href="https://omgs.in/customise/acrylic-print/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/2-Photo-Collage-Acrylic-Wall-Photo-150x150.jpg" alt="">Acrylic Photo with Design</a></li>
+<li id="menu-item-355440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-355440 has-icon-left"><a href="https://omgs.in/product/customised-premium-acrylic-wall-clock/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/Acrylic-Wall-Clock-150x150.jpg" alt="">Acrylic Wall Clock</a></li>
+<li id="menu-item-529649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-529649 has-icon-left"><a href="https://omgs.in/product/transparent-framed-photo-acrylic-decor/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/framed-min-150x150.gif" alt="">Transparent Acrylic Photo</a></li>
+<li id="menu-item-482028" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-482028 has-icon-left"><a href="https://omgs.in/product/customised-premium-framed-acrylic-photo/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/Framed-Acrylic-min-e1669283512299-150x150.jpg" alt="">Framed Acrylic Wall Photo</a></li>
+<li id="menu-item-1382111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1382111 has-icon-left"><a href="https://omgs.in/product/omgs-acrylic-fridge-magnets/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/3-150x150.jpg" alt="">Acrylic Fridge Magnet</a></li>
+<li id="menu-item-1382118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1382118 has-icon-left"><a href="https://omgs.in/product/omgs-car-acrylic-picture/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/car-hanging-acrylic-omgs-150x150.jpg" alt="">Acrylic Car Photo</a></li>
+<li id="menu-item-296054" class="menu-item menu-item-type-taxonomy menu-item-object-customise menu-item-296054 has-icon-left"><a href="https://omgs.in/customise/acrylic-name-plate/"><img class="ux-sidebar-menu-icon" width="50" height="50" src="./mainimg_files/home-name-plate-150x150.jpg" alt="">Acrylic Name Plate</a></li>
+<li id="menu-item-324980" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-324980 has-icon-left has-child" aria-expanded="false"><a href="https://omgs.in/#"><img class="ux-sidebar-menu-icon" width="30" height="30" src="./mainimg_files/apple-iphone-mobile-phone-smartphone-x-icon-886599-150x150.png" alt="">Custom Phone Cases</a>
+<button class="toggle" aria-label="Toggle"><i class="icon-angle-right"></i></button><ul class="sub-menu nav-sidebar-ul children" aria-hidden="true"><li class="nav-slide-header pt-half pb-half">
+              <button class="toggle" tabindex="-1">
+                <i class="icon-angle-left"></i>
+                Custom Phone Cases
+              </button>
+            </li>
+	<li id="menu-item-241375" class="label-sale menu-item menu-item-type-custom menu-item-object-custom menu-item-241375"><a href="https://omgs.in/phone-cases/" tabindex="-1">Name Phone Cases</a></li>
+	<li id="menu-item-315801" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-315801"><a href="https://omgs.in/customise/photo-phone-case/" tabindex="-1">Photo Phone Cases</a></li>
+</ul>
+</li>
+<li id="menu-item-129310" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129310"><a href="https://omgs.in/orders-tracking/">Track Your Order</a></li>
+<li id="menu-item-241378" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241378"><a href="https://omgs.in/contact-us/">Contact Us</a></li>
+<li id="menu-item-281120" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-281120"><a href="https://omgs.in/category/blog/">Blog</a></li>
+<li id="menu-item-129311" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129311"><a href="https://omgs.in/about-us/">About Us</a></li>
+<li class="html custom html_top_right_text"> </li>			</ul>
+		
+		
+	</div>
+
+	
+</div>
+<script>
+window.addEventListener( "pageshow", function ( event ) {
+  var historyTraversal = event.persisted || 
+                         ( typeof window.performance != "undefined" && 
+                              window.performance.navigation.type === 2 );
+  if ( historyTraversal ) {
+    // Handle page restore.
+    window.location.reload();
+    console.log( 'reload it' );
+  }
+});
+	
+	
+
+	
+	
+// save async selected image
+var FileSelectdIMG;
+var AsyncURLIMG = false;
+(function () {
+	/*
+	// unique name
+	function makeid(length) {
+		var result           = [];
+		var characters       = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+		var charactersLength = characters.length;
+		for ( var i = 0; i < length; i++ ) {
+		  result.push(characters.charAt(Math.floor(Math.random() * 
+	 charactersLength)));
+	   }
+	   return result.join('');
+	}
+	let timestamp = new Date().toISOString().replace(/[-:.]/g,"");  
+	let random = ("" + Math.random()).substring(2, 50); 
+	
+	let random_number = timestamp +'-'+ makeid(8) + '-'+ random; 
+	let agent = navigator.userAgent;
+	let fileUnque = random_number+'_'+agent.length+'_'+location.href.length;
+	
+	function setCookie(name,value,days) {
+		var expires = "";
+		if (days) {
+			var date = new Date();
+			date.setTime(date.getTime() + (days*24*60*60*1000));
+			expires = "; expires=" + date.toUTCString();
+		}
+		document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+	}
+	function getCookie(cname) {
+	  let name = cname + "=";
+	  let decodedCookie = decodeURIComponent(document.cookie);
+	  let ca = decodedCookie.split(';');
+	  for(let i = 0; i <ca.length; i++) {
+		let c = ca[i];
+		while (c.charAt(0) == ' ') {
+		  c = c.substring(1);
+		}
+		if (c.indexOf(name) == 0) {
+		  return c.substring(name.length, c.length);
+		}
+	  }
+	  return "";
+	}
+	if( getCookie("UImgs") == "" ) {
+		let UnqGA = getCookie('_fbp');
+		UnqGA = UnqGA + fileUnque;
+		setCookie('UImgs', UnqGA , 365);
+	}
+	
+ 	let buckets = [ "mg-uploaddata3", "mg-uploaddata", "mg-uploaddata2",  "mg-uploaddata4"];
+	let rn = Math.floor(Math.random() * buckets.length);
+	var imageToRead = document.getElementById("upload_photo");
+	if( imageToRead ) {
+		imageToRead.addEventListener("change", async function(event) {
+			// let buckets = [ "mg-uploaddata3", "mg-uploaddata", "mg-uploaddata2",  "mg-uploaddata4"];		
+			var images = imageToRead.files;
+			if (images.length) {
+				AsyncURLIMG = false;
+				FileSelectdIMG = images;
+				let fname = images[0].name;
+				let ext = fname.split('.').pop()
+					fname = fname.replace(ext, '');
+				fname = fname.replace(/(\W+)/gi, '-');
+
+				console.log("Filename: " + fname );
+				console.log("Type: " + images[0].type);
+				console.log("Size: " + images[0].size + " bytes");
+				
+				let UnqGA = getCookie('UImgs');
+				if( UnqGA ) {
+					var d = new Date();	
+					let uplodURI = "https://"+buckets[rn]+".s3.ap-south-1.amazonaws.com/asyncupload/"+location.hostname+"/"+d.getFullYear()+"/"+(d.getMonth() + 1)+"/"+UnqGA+"/_"+new Date().valueOf()+"_"+fname+"_printfile."+ext;
+				uplodURI = uplodURI.trim();
+					let data = images[0];
+					let xhr = new XMLHttpRequest();
+					xhr.withCredentials = true;
+					xhr.addEventListener("readystatechange", function() {
+					  if(this.readyState === 4) {
+						console.log('uploaded');
+						  AsyncURLIMG = uplodURI;
+					  }
+					});
+
+					xhr.open("PUT", uplodURI);
+					xhr.setRequestHeader("Content-Type", "image/jpeg");
+
+					xhr.send(data);
+				}
+				
+			}
+		}, false);
+	} */
+})();
+// end save async selected image
+</script>
+<script>
+	jQuery(document).on("click", '.value-minus', function(event) {
+        setTimeout(function () { 
+            jQuery('.woocommerce-cart-form .actions > .button').click();
+        } , 500);    
+	});
+    jQuery(document).on("click", '.value-plus', function(event) {
+        setTimeout(function () { 
+            jQuery('.woocommerce-cart-form .actions > .button').click();
+        } , 500);    
+	});
+</script>
+    <div id="login-form-popup" class="lightbox-content mfp-hide">
+            	<div class="woocommerce">
+      		<div class="woocommerce-notices-wrapper"></div>
+<div class="account-container lightbox-inner">
+
+	
+	<div class="col2-set row row-divided row-large" id="customer_login">
+
+		<div class="col-1 large-6 col pb-0">
+
+			
+			<div class="account-login-inner">
+
+				<h3 class="uppercase">Login</h3>
+
+				<form class="woocommerce-form woocommerce-form-login login" method="post">
+
+					
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="username">Username or email address&nbsp;<span class="required">*</span></label>
+						<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" autocomplete="username" value="">					</p>
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="password">Password&nbsp;<span class="required">*</span></label>
+						<span class="password-input"><input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password"><span class="show-password-input"></span></span>
+					</p>
+
+					
+					<p class="form-row">
+						<label class="woocommerce-form__label woocommerce-form__label-for-checkbox woocommerce-form-login__rememberme">
+							<input class="woocommerce-form__input woocommerce-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever"> <span>Remember me</span>
+						</label>
+						<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="da67df7a72"><input type="hidden" name="_wp_http_referer" value="/">						<button type="submit" class="woocommerce-button button woocommerce-form-login__submit" name="login" value="Log in">Log in</button>
+					</p>
+					<p class="woocommerce-LostPassword lost_password">
+						<a href="https://omgs.in/my-account/lost-password/">Lost your password?</a>
+					</p>
+
+					
+				</form>
+			</div>
+
+			
+		</div>
+
+		<div class="col-2 large-6 col pb-0">
+
+			<div class="account-register-inner">
+
+				<h3 class="uppercase">Register</h3>
+
+				<form method="post" class="woocommerce-form woocommerce-form-register register">
+
+					
+					
+					<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+						<label for="reg_email">Email address&nbsp;<span class="required">*</span></label>
+						<input type="email" class="woocommerce-Input woocommerce-Input--text input-text" name="email" id="reg_email" autocomplete="email" value="">					</p>
+
+					
+						<p class="woocommerce-form-row woocommerce-form-row--wide form-row form-row-wide">
+							<label for="reg_password">Password&nbsp;<span class="required">*</span></label>
+							<span class="password-input"><input type="password" class="woocommerce-Input woocommerce-Input--text input-text" name="password" id="reg_password" autocomplete="new-password"><span class="show-password-input"></span></span>
+						</p>
+
+					
+					<div class="woocommerce-privacy-policy-text"></div>
+					<p class="woocommerce-form-row form-row">
+						<input type="hidden" id="woocommerce-register-nonce" name="woocommerce-register-nonce" value="a7d3dd4e09"><input type="hidden" name="_wp_http_referer" value="/">						<button type="submit" class="woocommerce-Button woocommerce-button button woocommerce-form-register__submit" name="register" value="Register">Register</button>
+					</p>
+
+					
+				</form>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+		</div>
+      	    </div>
+  	<script type="text/javascript">
+		(function () {
+			var c = document.body.className;
+			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+			document.body.className = c;
+		})();
+	</script>
+	<style id="wp-block-paragraph-inline-css" type="text/css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}p.has-background{padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+</style>
+<style id="wp-block-heading-inline-css" type="text/css">
+h1.has-background,h2.has-background,h3.has-background,h4.has-background,h5.has-background,h6.has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+</style>
+<style id="wp-block-list-inline-css" type="text/css">
+ol,ul{box-sizing:border-box}ol.has-background,ul.has-background{padding:1.25em 2.375em}
+</style>
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--primary: #1d1d1f;--wp--preset--color--secondary: #1d1d1f;--wp--preset--color--success: #7a9c59;--wp--preset--color--alert: #b20000;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-success-color{color: var(--wp--preset--color--success) !important;}.has-alert-color{color: var(--wp--preset--color--alert) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-success-background-color{background-color: var(--wp--preset--color--success) !important;}.has-alert-background-color{background-color: var(--wp--preset--color--alert) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-success-border-color{border-color: var(--wp--preset--color--success) !important;}.has-alert-border-color{border-color: var(--wp--preset--color--alert) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<script type="text/javascript" id="woocommerce-js-extra">
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mainimg_files/woocommerce.min.js.download" id="woocommerce-js" data-wp-strategy="defer"></script>
+<script type="text/javascript" src="./mainimg_files/wp-polyfill-inert.min.js.download" id="wp-polyfill-inert-js"></script>
+<script type="text/javascript" src="./mainimg_files/regenerator-runtime.min.js.download" id="regenerator-runtime-js"></script><iframe allow="join-ad-interest-group" data-tagging-id="AW-972228409" data-load-time="1705991733291" height="0" width="0" style="display: none; visibility: hidden;" src="./mainimg_files/972228409.html"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-11426077301" data-load-time="1705991733467" height="0" width="0" style="display: none; visibility: hidden;" src="./mainimg_files/11426077301.html"></iframe><iframe allow="join-ad-interest-group" data-tagging-id="AW-11427167349" data-load-time="1705991733493" height="0" width="0" style="display: none; visibility: hidden;" src="./mainimg_files/11427167349.html"></iframe>
+<script type="text/javascript" src="./mainimg_files/wp-polyfill.min.js.download" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="./mainimg_files/hooks.min.js.download" id="wp-hooks-js"></script>
+<script type="text/javascript" src="./mainimg_files/i18n.min.js.download" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mainimg_files/wc-blocks-google-analytics.js.download" id="wc-blocks-google-analytics-js"></script>
+<script type="text/javascript" src="./mainimg_files/flatsome-live-search.js.download" id="flatsome-live-search-js"></script>
+<script type="text/javascript" src="./mainimg_files/actions.js.download" id="woocommerce-google-analytics-integration-actions-js"></script>
+<script type="text/javascript" src="./mainimg_files/hoverIntent.min.js.download" id="hoverIntent-js"></script>
+<script type="text/javascript" id="flatsome-js-js-extra">
+/* <![CDATA[ */
+var flatsomeVars = {"theme":{"version":"3.18.2"},"ajaxurl":"https:\/\/omgs.in\/wp-admin\/admin-ajax.php","rtl":"","sticky_height":"56","stickyHeaderHeight":"0","scrollPaddingTop":"0","assets_url":"https:\/\/omgs.in\/wp-content\/themes\/flatsome\/assets\/","lightbox":{"close_markup":"<button title=\"%title%\" type=\"button\" class=\"mfp-close\"><svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"28\" height=\"28\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"feather feather-x\"><line x1=\"18\" y1=\"6\" x2=\"6\" y2=\"18\"><\/line><line x1=\"6\" y1=\"6\" x2=\"18\" y2=\"18\"><\/line><\/svg><\/button>","close_btn_inside":false},"user":{"can_edit_pages":false},"i18n":{"mainMenu":"Main Menu","toggleButton":"Toggle"},"options":{"cookie_notice_version":"1","swatches_layout":false,"swatches_disable_deselect":false,"swatches_box_select_event":false,"swatches_box_behavior_selected":false,"swatches_box_update_urls":"1","swatches_box_reset":false,"swatches_box_reset_limited":false,"swatches_box_reset_extent":false,"swatches_box_reset_time":300,"search_result_latency":"0"},"is_mini_cart_reveal":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mainimg_files/flatsome.js.download" id="flatsome-js-js"></script>
+<script type="text/javascript" src="./mainimg_files/flatsome-lazy-load.js.download" id="flatsome-lazy-js"></script>
+<script type="text/javascript" src="./mainimg_files/woocommerce.js.download" id="flatsome-theme-woocommerce-js-js"></script>
+<script type="text/javascript" id="wc-cart-fragments-js-extra">
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_d39974831db0190b0adf0fa0c5c2ace6","fragment_name":"wc_fragments_d39974831db0190b0adf0fa0c5c2ace6","request_timeout":"5000"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./mainimg_files/cart-fragments.min.js.download" id="wc-cart-fragments-js" defer="defer" data-wp-strategy="defer"></script>
+
+
+
+
+
+
+
+</body></html>
