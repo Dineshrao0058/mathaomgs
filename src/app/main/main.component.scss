@@ -1,10 +1,11 @@
 .main {
-    background-color: #f0efef;
+    background-color: #f0efefc4;
 }
 
 .wall {
     background: url('../../assets/images/wall-c.webp');
     background-repeat: no-repeat;
+    margin-left: 10px;
 }
 
 .upload-icon {
@@ -14,37 +15,37 @@
 }
 
 .square {
-    height: 40px;
-    width: 40px;
+    height: 60px;
+    width: 90px;
     background-color: tan;
 }
 
 .circle {
-    height: 40px;
-    width: 40px;
+    height:60px;
+    width:90px;
     background-color: tan;
     border-radius: 50%;
 }
 
 .hexogonal {
-    height: 40px;
-    width: 40px;
+    height:50px;
+    width:90px;
     background-color: tan;
     border-radius: 25%;
 
 }
 
 .rectangle {
-    height: 40px;
-    width: 40px;
+    height:60px;
+    width:90px;
     background-color: tan;
     clip-path: polygon(50% 0%, 80% 10%, 100% 35%, 100% 70%, 80% 90%, 50% 100%, 20% 90%, 0% 70%, 0% 35%, 20% 10%);
 
 }
 
 .hexagon {
-    height: 40px;
-    width: 40px;
+    height:60px;
+    width:90px;
     background-color: tan;
     clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
@@ -52,7 +53,7 @@
 .heart {
     position: relative;
     width: 50px;
-    height: 40px;
+    height:90px;
 }
 
 .heart:before,
@@ -96,7 +97,7 @@
 }
 
 .bb {
-    background-color: orangered;
+    background-color: rgb(162, 168, 80);
     cursor: pointer;
 }
 
@@ -106,6 +107,7 @@
 
 .ma {
     border-bottom: 1px dotted black;
+    margin-top: 15px;
 }
 
 .ba {
@@ -126,17 +128,18 @@
 
 .b {
     border: 1px solid rgb(63, 59, 59);
+    margin-right: 5px;
 }
 
 .ac {
-    background-color: green;
+    background-color: rgb(201, 55, 6);
 }
 
 .drag-image {
     border: 1px dashed #fff;
     height: 350px;
     width: 100%;
-    font-weight: 400;
+    font-weight:1000;
     display: flex;
     align-items: center;
     justify-content: center;

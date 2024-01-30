@@ -1,28 +1,123 @@
 <div class="container-fluid main">
-    <div class="container mt-4 ">
+    <div class="container">
+        <div>
+            <h5 class="text-center">Home / Premium Acrylic Photo</h5>
+        </div>
+        <div>
+            <h1 class="text-center">Customised Premium MATHA's Acrylic Picture</h1>
+        </div>
         <div class="row">
-            <div>
-                <h5 class="text-center">Home / Premium Acrylic Photo</h5>
-            </div>
-            <div>
-                <h1 class="text-center">Customised Premium OMGs® Acrylic Picture</h1>
-            </div>
-            <div class="container wall">
-                <div class="row">
-                    <div class="col-sm-6 m-auto p-4">
-                        <div class="card drag-image">
-                            <div class="imgs" *ngIf="showImg">
-                                <img id="i1" class="image" src="{{uploadFile}}">
-                            </div>
-                            <div class="file" *ngIf="hideFile">
-                                <div class=""><i class="fas fa-cloud-upload-alt icon"></i></div>
-                                <label for="upload-file" id="i2"><i class="bi bi-upload upload"></i></label>
-                                <input type="file" id="upload-file" accept="image/*" (change)="viewfile($event)">
+            <div class="col-sm-1">
+                <div>
+                    <span class="card-header">
+                        <p class=" fw-bold">Available Shapes</p>
+                    </span>
+                    <div class="card-body text-center ">
+                        <div class="row">
+                            <div class="">
+                                <p class="square"></p>
+                            </div><br>
+                            <div class="">
+                                <p class="circle"></p>
+                            </div><br>
+                            <div class="">
+                                <p class="hexogonal"></p>
+                            </div><br>
+                            <div class="">
+                                <p class="rectangle"></p>
+                            </div><br>
+                            <div class="">
+                                <p class="hexagon"></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="col-sm-9">
+                <div class="container wall">
+                    <div class="row">
+                        <div class="col-sm-6 m-auto p-4">
+                            <div class="card drag-image">
+                                <div class="imgs" *ngIf="showImg">
+                                    <img id="i1" class="image" src="{{uploadFile}}">
+                                </div>
+                                <div class="file" *ngIf="hideFile">
+                                    <div class=""><i class="fas fa-cloud-upload-alt icon"></i></div>
+                                    <label for="upload-file" id="i2"><i class="bi bi-upload upload"></i></label>
+                                    <input type="file" id="upload-file" accept="image/*" (change)="viewfile($event)">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-1">
+                <div class="row ">
+                    <div class="col-sm-6 m-auto">
+                        <div class="">
+                            <div class="row">
+                                <span class="card-header">
+                                    <p class="text-center">Size(Inches):</p>
+                                </span>
+                                <div class="col-sm-12">
+                                    <div>
+                                        <div class="card-body text-center ">
+                                            <div class="row">
+                                                <div class="d-flex mb-1">
+                                                    <button class="btn b" [disabled]="btns"
+                                                        (click)="disabledbutton()">12"x9"</button>
+                                                    <button class="btn b">11"x11"</button>
+                                                    <button class="btn b">16"x12"</button>
+                                                </div>
+                                            </div>
+                                            <div class="d-flex mb-1">
+                                                <button class="btn b">18"x12"</button>
+                                                <button class="btn b">16"x16"</button>
+                                                <button class="btn b">21"x15"</button>
+                                            </div>
+                                            <div class="d-flex ">
+                                                <button class="btn b">30"x20"</button>
+                                                <button class="btn b">35"x23"</button>
+                                                <button class="btn b">25"x33"</button>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div><br>
+                <div class="row mb-3">
+                    <div class="col-sm-6 m-auto">
+                        <div class="">
+                            <div class="row">
+                                <span class="card-header">
+                                    <p class="text-center fw-bold">(Thickness)Inches:</p>
+                                </span>
+                                <div class="col-sm-12">
+                                    <div>
+                                        <div class="card-body text-center ">
+                                            <div class="row">
+                                                <div class="d-flex mb-1">
+                                                    <button class="btn b" [disabled]="btns"
+                                                        (click)="disabledbutton()">3MM"</button>
+                                                    <button class="btn b">5mm"</button>
+                                                    <button class="btn b">8mm"</button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-4 ">
+        <div class="row">
             <div class="text-center p-1 fs-7">
                 <h6>By uploading an image you agree to our Terms of Service.</h6>
             </div>
@@ -40,94 +135,8 @@
                         <button class="btn  fw-bold">How?</button>
                     </div>
                 </div>
-            </div>
+            </div><br>
             <div class="row">
-                <div class="col-sm-5 m-auto">
-                    <div class="card">
-                        <div class="card-header">
-                            <p class="text-center fw-bold fs-6 mb-0 pb-0">Available Shapes</p>
-                        </div>
-                        <div class="card-body text-center ">
-                            <div class="row mt-3 ">
-                                <div class="col-sm-1 ms-3">
-                                    <div class="square"></div>
-                                </div>
-                                <div class="col-sm-1 ms-5">
-                                    <div class="circle"></div>
-                                </div>
-                                <div class="col-sm-1 ms-5">
-                                    <div class="hexogonal"></div>
-                                </div>
-                                <div class="col-sm-1 ms-5">
-                                    <div class="rectangle"></div>
-                                </div>
-                                <div class="col-sm-1 ms-5">
-                                    <div class="hexagon"></div>
-                                </div>
-                                <!-- <div class="col-sm-1 ms-5">
-                                    <div class="heart"></div>
-                                </div> -->
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-4 m-auto">
-                        <div class="card">
-                            <div class="card-header">
-                                <p class="text-center">photo quality for 12x19 is <span
-                                        class="text text-success">good</span>
-                                </p>
-                                <p class=" text-center">
-                                    Quick Mount <span class="ab">OMGs® Adhesive Hooks </span>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row ">
-                    <div class="col-sm-6 m-auto">
-                        <div class="">
-                            <div class="row">
-                                <div class="col-sm-3 fw-bold p-4">
-                                    <p class="p-2 mt-4">Size(inch)</p>
-                                </div>
-                                <div class="col-sm-9">
-                                    <div class="card-body">
-                                        <button class="btn btn-primary p-1 m-2 b" [disabled]="btns"
-                                            (click)="disabledbutton()">12x9</button>
-                                        <button class="btn btn-primary p-1 m-2 b">11x11</button>
-                                        <button class="btn btn-primary p-1 m-2 b">16x12</button>
-                                        <button class="btn btn-primary p-1 m-2 b">18x12</button>
-                                        <button class="btn btn-primary p-1 m-2 b">16x16</button>
-                                        <button class="btn btn-primary p-1 m-2 b">21x15</button>
-                                        <button class="btn btn-primary p-1 m-2 b">30x20</button>
-                                        <button class="btn btn-primary p-1 m-2 b">35x23</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="row mb-3">
-                    <div class="col-sm-6 m-auto">
-                        <div class="">
-                            <div class="row">
-                                <div class="col-sm-3 fw-bold ">
-                                    <p class="p-2 mt-3">Thickness(mm)</p>
-                                </div>
-                                <div class="col-sm-9">
-                                    <div class="card-body">
-                                        <button class="btn btn-primary p-1 m-2 b" [disabled]="btns"
-                                            (click)="disablebutton()">3MM</button>
-                                        <button class="p-1 m-2 b">5MM</button>
-                                        <button class="p-1 m-2 b">8MM PREMIUM</button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <hr class="ma">
                 <div class="fw-bold ">
                     <div class="text-center">
@@ -148,8 +157,8 @@
                             <h3>Check Estimated Delivery Date</h3>
                             <div class="input-group mb-3">
                                 <input type="text" class="form-control" placeholder="enter pin code"
-                                    aria-label="Example text with button addon" aria-describedby="button-addon1">
-                                <button class="btn btn-outline-secondary" type="button"
+                                    >
+                                <button class="btn btn-outline-secondary bg-dark" type="button"
                                     id="button-addon1">Pincode</button>
                             </div>
                             <div style="border: 1px solid rgb(160, 149, 149);">
@@ -175,7 +184,7 @@
                                             <div class="s">
 
                                                 Home Décor Gift: Perfect for Home Decor as it's a Beautiful Gift.
-                                                <h1> Why OMGs® Acrylic Photo ?</h1>
+                                                <h1> Why Matha's® Acrylic Photo ?</h1>
                                                 <h3> Fastest processing from <span class="a">Jaipur /
                                                         Bengaluru</span>Facility
                                                 </h3>
@@ -194,25 +203,25 @@
                                                 <h3> <span class="a">Artificial Intelligence</span>Advanced use of</h3>
                                             </div>
                                             <div>
-                                                <img src="assets/images/description/description.jpg" width="auto">
-                                                <img src="assets/images/description/description1.jpg">
+                                                <img src="assets/images/description/description.jpg" width="100%">
+                                                <img src="assets/images/description/description1.jpg" width="100%">
                                                 <h2> Every picture has a story to tell, We Bring your story to life by
                                                     printing it on a super glossy premium Acrylic Picture, preserving it
                                                     as a
                                                     colorful
                                                     memory.</h2>
-                                                <img src="assets/images/description/description2.jpg"> <br>
-                                                <img src="assets/images/description/description3.jpg"> <br>
-                                                <img src="assets/images/description/description4.jpg"> <br>
-                                                <img src="assets/images/description/description5.webp">
-                                                <img src="assets/images/description/description6.webp">
-                                                <img src="assets/images/description/description7.png">
+                                                <img src="assets/images/description/description2.jpg" width="100%"> <br>
+                                                <img src="assets/images/description/description3.jpg" width="100%"> <br>
+                                                <img src="assets/images/description/description4.jpg" width="100%"> <br>
+                                                <img src="assets/images/description/description5.webp" width="100%">
+                                                <img src="assets/images/description/description6.webp" width="100%">
+                                                <img src="assets/images/description/description7.png" width="100%">
                                                 <!-- <img src="assets/images/description8.webp">
                                             <img src="assets/images/description9.webp">
                                             <img src="assets/images/description10.webp">
                                             <img src="assets/images/description11.webp"> -->
                                             </div>
-                                            <img src="assets/images/omg.png" width="80" height="40">
+                                            <img src="assets/images/Matha'.png" width="80" height="40">
 
                                         </div>
                                     </div>
@@ -232,7 +241,7 @@
                                     <div class="accordion-body">
                                         <div class="row">
                                             <div class="col-sm-6">
-                                                <p style="font-size:20px;"> reviews for OMGs® Acrylic Fridge Magnets</p>
+                                                <p style="font-size:20px;"> reviews for Matha's® Acrylic Fridge Magnets</p>
                                                 <div class="row">
                                                     <div class="col-sm-4 ">
                                                         <div>
@@ -337,8 +346,8 @@
     <div class="col-sm-1"></div>
     <div class="col-sm-2 mt-5">
         <h2>NEED HELP?</h2>
-        <img src="assets/images/logo.png" height="50px" width="50px"><br>&nbsp;
-        <h5>Email:support@omgs.in</h5>
+        <img src="assets/images/matha main.jpg" height="150px" width="250px"><br>&nbsp;
+        <h5>Email:support@Matha's.in</h5>
         &nbsp;
         <h5>NEED HELP?</h5>
         &nbsp;
@@ -365,19 +374,15 @@
         <h2>WE PRINT AND SHIP FROM ❤️ INDIA </h2>
         <hr>
         <h3>We Ship from</h3><br>
-        <p>294A, Heera Nagar A, Ajmer Road,
-            Jaipur, 302021, Rajasthan</p>
+        <p>KARIMNAGAR</p>
         <hr>
-        <p>Shed NO. C-1 ANNEX,
-            KSSIDC Industrial Area,
-            Yelahanka, (Opp. Rail Wheel Factory)
-            Bengaluru-560064. KARNATAKA</p>
-        <img src="assets/images/omg.png" height="35px">
+        <p></p>
+        <img src="assets/images/matha main.jpg" height="40px">
     </div>
 </div>
 <div class="row" style="background-color: black;padding:20px;">
     <div class="col-sm-6 ">
-        <p style="color: #fcfcfd;">copyright 2016-2023copy OMGs.in</p>
+        <p style="color: #fcfcfd;">copyright 2016-2024copy Matha's.in</p>
     </div>
     <div class="col-sm-6">
         <img src="">
@@ -385,3 +390,18 @@
 
     </div>
 </div>
+
+
+<!-- <input class="sr-only" type="radio" name="option1"
+                    id="swatch--template--16066155610272__main-product-form-7582742216864-template--16066155610272__main-option1-12-x-14"
+                    form="product-form-7582742216864-template--16066155610272__main" value="12&quot; x 14&quot;">
+                    <label class="block-swatch" for="swatch--template--16066155610272__main-product-form-7582742216864-template--16066155610272__main-option1-12-x-14" data-option-value=""><span>12" x 14"</span>
+                    </label>
+                <label class="block-swatch"
+                    for="swatch--template--16066155610272__main-product-form-7582742216864-template--16066155610272__main-option1-9-x-9"
+                    data-option-value="">
+                    <span>9" x 9"</span>
+                </label>
+                <input class="sr-only" type="radio" name="option1"
+                    id="swatch--template--16066155610272__main-product-form-7582742216864-template--16066155610272__main-option1-12-x-14"
+                    form="product-form-7582742216864-template--16066155610272__main" value="12&quot; x 14&quot;"> -->
