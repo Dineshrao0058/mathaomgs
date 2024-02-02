@@ -3,12 +3,13 @@
 }
 
 .bg-pic {
+  // background-image: url('../../assets/images/leaf.png') ;
   background-repeat: no-repeat;
   background-size: cover;
   margin: auto;
-  height: 400px;
+  height: 600px;
   background-color: rgb(212, 208, 208);
-  width: 70%;
+  width: 100%;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
@@ -70,4 +71,21 @@
 .b {
   border: 1px solid rgb(63, 59, 59);
   margin-right: 5px;
+}
+
+
+.bb {
+  background-color: rgb(162, 168, 80);
+  cursor: pointer;
+}
+.ba {
+  color: green;
+}
+
+.ca {
+  color: red;
+}
+
+.sa {
+  color: green;
 }
