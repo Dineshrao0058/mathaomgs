@@ -1,10 +1,10 @@
 .sidenav-container {
   height: 100%;
-  background-color: white;
 }
 
 .sidenav {
-  width: 250px;
+  width: 260px;
+  background-color: rgb(246, 250, 250);
 }
 
 .sidenav .mat-toolbar {
@@ -15,17 +15,31 @@
   position: sticky;
   top: 0;
   z-index: 1;
-  background: inherit;
+  
 }
-
-.mn {
-  font-size: 14px;
+.mat-drawer-content{
+  overflow: hidden;
 }
-
-.img {
-  width: 20px;
+.head{
+  background-color: rgb(245, 245, 239);
+}
+.a-img{
+  width: 30px;
   height: 40px;
+  padding: 3px;
 }
-.ma{
-  text-align: left;
+hr{
+  padding: 0;
+  margin: 10px;
 }
+
+@media screen and (max-width: 320px) {
+  .hide {
+    display: none;
+  }
+}
+// @media screen and (max-width: 320px) {
+//   .logo{
+//     display: none;
+//   }
+// }
