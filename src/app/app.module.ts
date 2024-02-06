@@ -19,6 +19,8 @@ import { NameplateComponent } from './nameplate/nameplate.component';
 import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { UploadComponent } from './upload/upload.component';
+import { AdminLoginComponent } from './Admin/admin-login/admin-login.component';
+import { AdminDashboardComponent } from './Admin/admin-dashboard/admin-dashboard.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +34,9 @@ import { UploadComponent } from './upload/upload.component';
     NameplateComponent,
     FrameComponent,
     MagnetComponent,
-    UploadComponent
+    UploadComponent,
+    AdminLoginComponent,
+    AdminDashboardComponent
   ],
   imports: [
     BrowserModule,

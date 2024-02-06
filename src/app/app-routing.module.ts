@@ -14,8 +14,7 @@ import { UploadComponent } from './upload/upload.component';
 const routes: Routes = [
   {
     path: '', component: HomeComponent, children: [
-      { path: '', component: MainComponent },
-      { path: '', component: UploadComponent },
+      { path: '', component: FrameComponent },
       { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
