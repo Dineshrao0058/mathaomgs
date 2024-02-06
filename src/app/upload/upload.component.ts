@@ -8,9 +8,9 @@ import { Component, OnInit } from '@angular/core';
 export class UploadComponent implements OnInit {
   ngOnInit(): void {
   }
-  currentShape: string = 'circle'; // Initial shape
+  // currentShape: string = 'circle'; // Initial shape
 
-  changeShape(shape: string): void {
-    this.currentShape = shape;
-  }
+  // changeShape(shape: string): void {
+  //   this.currentShape = shape;
+  // }
 }

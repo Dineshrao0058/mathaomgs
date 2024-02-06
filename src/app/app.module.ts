@@ -11,12 +11,12 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatListModule } from '@angular/material/list';
 import { MainComponent } from './main/main.component';
 import { HomeComponent } from './home/home.component';
+import { FrameComponent } from './frame/frame.component';
 import { DesignComponent } from './design/design.component';
 import { WallclockComponent } from './wallclock/wallclock.component';
 import { TransparentComponent } from './transparent/transparent.component';
 import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
-import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { UploadComponent } from './upload/upload.component';
 import { AdminLoginComponent } from './Admin/admin-login/admin-login.component';
@@ -28,15 +28,15 @@ import { AdminDashboardComponent } from './Admin/admin-dashboard/admin-dashboard
     MainComponent,
     HomeComponent,
     DesignComponent,
+    FrameComponent,
     WallclockComponent,
     TransparentComponent,
     WallphotoComponent,
     NameplateComponent,
-    FrameComponent,
     MagnetComponent,
     UploadComponent,
     AdminLoginComponent,
-    AdminDashboardComponent
+    AdminDashboardComponent,
   ],
   imports: [
     BrowserModule,
