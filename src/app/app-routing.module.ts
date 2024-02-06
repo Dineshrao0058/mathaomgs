@@ -12,7 +12,10 @@ import { NameplateComponent } from './nameplate/nameplate.component';
 import { UploadComponent } from './upload/upload.component';
 
 const routes: Routes = [
+
+
   {
+    
     path: '', component: HomeComponent, children: [
       { path: '', component: FrameComponent },
       { path: 'main', component: MainComponent },
@@ -21,7 +24,6 @@ const routes: Routes = [
       { path: 'transparent', component: TransparentComponent },
       { path: 'wallphoto', component: WallphotoComponent },
       { path: 'nameplate', component: NameplateComponent },
-      { path: 'frame', component: FrameComponent },
       { path: 'magnet', component: MagnetComponent }
     ]
   }
