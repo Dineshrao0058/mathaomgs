@@ -1,30 +1,39 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { FormControl } from '@angular/forms';
+import { FormControl, FormGroup, FormBuilder, Validators } from '@angular/forms';
 
 @Component({
   selector: 'app-admin-login',
   templateUrl: './admin-login.component.html',
-  styleUrls: ['./admin-login.component.scss']
+  styleUrls: ['./admin-login.component.scss'],
 })
 export class AdminLoginComponent implements OnInit {
 
   username!: string;
-  password!: string;
-
-  constructor(private router: Router) {
+  mobileno!: string;
+  loginForm!: FormGroup;
+  constructor(private router: Router, private fb: FormBuilder) {
 
   }
+  ngOnInit(): void {
+    this.loginForm = this.fb.group({
+      username: ['', Validators.required],
+      mobileno: ['', Validators.required]
+    })
+  }
+
 
   login() {
-    if (this.username === 'admin' && this.password === 'admin123') {
+    if (this.username === 'matha' && this.mobileno  ==='8367616146' ) {
       alert("login sucessfull")
-      this.router.navigate(['admin-dashboard'])
+      this.router.navigate(['/admin'])
+      console.log('hello');
+
     } else {
 
       alert('Invalid username or password!');
     }
   }
-  ngOnInit(): void { }
+
 
 }
