@@ -3,12 +3,6 @@
 }
 
 
-.upload-icon {
-  font-size: 100px;
-  text-align: center;
-  padding-top: 150px;
-}
-
 .square {
   height: 40px;
   width: 70px;
@@ -64,19 +58,16 @@
 }
 
 
-
-
-
 .drag-image {
   border: 1px dashed #fff;
-  height: 400px;
+  height: 450px;
   width: 100%;
-  font-weight: 1000;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: #f0efef;
+  background-color:white;
+  border: 1px solid rgb(222, 207, 207);
 }
 
 .drag-image.active {
@@ -137,15 +128,4 @@ input[type="file"] {
   cursor: pointer;
 }
 
-.variations td,
-th {
-  border: 0;
-  letter-spacing: normal;
-  padding: 0.2em 0;
-  text-transform: none;
-  vertical-align: middle;
-}
 
-.table.variations.value {
-  width: 100%;
-}
