@@ -54,8 +54,8 @@
         <div class="container">
           <div class="row">
             <div class="">
-              <div class="card drag-image " [ngClass]="{'hexagon':hexagon1}">
-                <div class="imgs" *ngIf="showImg">
+              <div class="card drag-image " >
+                <div class="imgs" *ngIf="showImg" [ngClass]="{'hexagon1':hexagon1}">
                   <img id="i1" class="image" src="{{ uploadFile }}" />
                 </div>
                 <div class="file" *ngIf="hideFile">
