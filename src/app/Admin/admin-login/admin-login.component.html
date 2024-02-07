@@ -9,17 +9,17 @@
                     <div class="row">
                         <div class="col-sm-6 p-4 m-4">
                             <h2 class=" text-center  text-white login">Admin Login</h2>
-                            <form (ngSubmit)="login()">
+                            <form [formGroup]="loginForm">
                                 <div class="mb-4">
                                     <label class="form-label fl">Username</label>
-                                    <input type="text" class="form-control ip" name="username">
+                                    <input type="text" class="form-control ip" name="username" formControlName="username" >
                                 </div>
                                 <div class="mb-4">
-                                    <label class="form-label fl">Password</label>
-                                    <input type="password" class="form-control ip" name="password">
+                                    <label class="form-label fl">Mobile</label>
+                                    <input type="password" class="form-control ip" name="password" formControlName="mobileno" >
                                 </div>
                                 <div class="mt-4  ">
-                                    <button type="submit" class="btn main-btn w-50">Login</button>
+                                    <button type="submit" (click)="login()" class="btn main-btn w-50">Login</button>
                                 </div>
                             </form>
                         </div>
