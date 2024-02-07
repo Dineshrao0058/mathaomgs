@@ -19,8 +19,6 @@ import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { UploadComponent } from './upload/upload.component';
-import { AdminLoginComponent } from './Admin/admin-login/admin-login.component';
-import { AdminDashboardComponent } from './Admin/admin-dashboard/admin-dashboard.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @NgModule({
@@ -36,8 +34,6 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     NameplateComponent,
     MagnetComponent,
     UploadComponent,
-    AdminLoginComponent,
-    AdminDashboardComponent,
   ],
   imports: [
     BrowserModule,

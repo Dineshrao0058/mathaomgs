@@ -8,7 +8,7 @@
       [mode]="(isHandset$ | async) ? 'over' : 'side'"
     >
       <mat-toolbar class="sticky-top bg-danger text-light">
-        <i class="bi bi-house me-2"></i>Menu</mat-toolbar
+        <a class="nav-link" routerLink="home"><i class="bi bi-house me-2"></i>Home</a></mat-toolbar
       >
       <mat-nav-list class="fs-5">
         <hr />
@@ -108,8 +108,6 @@
       
       <div>
         <router-outlet></router-outlet>
-
-
       </div>
     </mat-sidenav-content>
   </mat-sidenav-container>
