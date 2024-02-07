@@ -10,6 +10,7 @@ import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
 import { UploadComponent } from './upload/upload.component';
+import { SigninSignupComponent } from './signin-signup/signin-signup.component';
 
 const routes: Routes = [
   {
@@ -25,6 +26,7 @@ const routes: Routes = [
       { path: 'wallphoto', component: WallphotoComponent },
       { path: 'nameplate', component: NameplateComponent },
       { path: 'magnet', component: MagnetComponent },
+      { path: 'login', component: SigninSignupComponent },
     ],
   },
 ];

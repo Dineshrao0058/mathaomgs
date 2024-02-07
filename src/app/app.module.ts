@@ -20,6 +20,7 @@ import { NameplateComponent } from './nameplate/nameplate.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { UploadComponent } from './upload/upload.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
+import { SigninSignupComponent } from './signin-signup/signin-signup.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     NameplateComponent,
     MagnetComponent,
     UploadComponent,
+    SigninSignupComponent,
   ],
   imports: [
     BrowserModule,
