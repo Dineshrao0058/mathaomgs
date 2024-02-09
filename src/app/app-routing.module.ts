@@ -12,6 +12,7 @@ import { NameplateComponent } from './nameplate/nameplate.component';
 import { SigninSignupComponent } from './signin-signup/signin-signup.component';
 
 const routes: Routes = [
+  { path: '', component: SigninSignupComponent },
   { path: 'login', component: SigninSignupComponent },
   {
     path: '',

@@ -8,13 +8,25 @@
   background-color: white;
   border: 0px;
 }
+.square1 {
+  height: 450px;
+  width: 100%;
+  background-color: white;
+}
 
 .circle {
   height: 60px;
   width: 60px;
   background-color: white;
-  border-radius: 50%;
+  clip-path: circle(50% at 50% 50%);
   border: 0px;
+}
+.circle1 {
+  height: 450px;
+  width: 68%;
+  background-color: white;
+  clip-path: circle(50% at 50% 50%);
+
 }
 
 .hexogonal {

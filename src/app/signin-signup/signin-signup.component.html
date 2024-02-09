@@ -1,31 +1,84 @@
-<div class="container">
-  <input type="checkbox" id="check">
-  <div class="login form">
-    <header>Login</header>
-    <form action="#">
-      <input type="text" placeholder="Enter your email">
-      <input type="password" placeholder="Enter your password">
-      <a href="#">Forgot password?</a>
-      <input type="button" class="button" value="Login">
-    </form>
-    <div class="signup">
-      <span class="signup">Don't have an account?
-       <label for="check">Signup</label>
-      </span>
+<div class="container-fluid main">
+  <div class="row">
+    <div class="col-sm-3">
+      <img
+        src="assets/images/matha main.jpg"
+        class="logo ms-4 p-1 mt-4"
+        alt=""
+        width="100%"
+        height="100"
+      />
     </div>
   </div>
-  <div class="registration form">
-    <header>Signup</header>
-    <form action="#">
-      <input type="text" placeholder="Enter your email">
-      <input type="password" placeholder="Create a password">
-      <input type="password" placeholder="Confirm your password">
-      <input type="button" class="button" value="Signup">
-    </form>
-    <div class="signup">
-      <span class="signup">Already have an account?
-       <label for="check">Login</label>
-      </span>
+
+  <div class="container">
+    <input type="checkbox" id="check" />
+    <div class="login form">
+      <div class="">
+        <h1 class="mb-1">Signin</h1>
+      </div>
+      <div class="">
+        <form [formGroup]="loginForm">
+          <div>
+            <label class="form-label mb-1">Mobile Number</label>
+            <input
+              type="number"
+              placeholder="Enter your Mobile Number"
+              formControlName="mobileno"
+            />
+          </div>
+          <div>
+            <label class="form-label mb-1">Password</label>
+            <input
+              type="password"
+              placeholder="Enter your password"
+              formControlName="password"
+            />
+          </div>
+          <input type="button" class="button" value="Login" (click)="login()" />
+        </form>
+        <div class="signup">
+          <span class="signup"
+            >Don't have an account?
+            <label for="check" class="text text-primary">Signup</label>
+          </span>
+        </div>
+      </div>
+    </div>
+    <div class="registration form">
+      <div class="">
+        <h1 class="mb-1">Signup</h1>
+      </div>
+      <form  [formGroup]="signupForm">
+        <div>
+          <label class="form-label">Fullname</label>
+          <input type="text" placeholder="Enter your Fullname" formControlName="fullname"/>
+        </div>
+        <div>
+          <label class="form-label">Email id</label>
+          <input type="email" placeholder="Enter your Email id" formControlName="email"/>
+        </div>
+        <div>
+          <label class="form-label">Mobile Number</label>
+          <input type="number" placeholder="Enter your Mobile Number" formControlName="mobileno" />
+        </div>
+        <div>
+          <label class="form-label">Password</label>
+          <input type="password" placeholder="Create a password" formControlName="password" />
+        </div>
+        <div>
+          <label class="form-label">Address</label>
+          <textarea class="form-control" rows="2" formControlName="address"></textarea>
+        </div>
+
+        <input type="button" class="button" value="Signup" (click)="signUp()" />
+      </form>
+      <div class="signup">
+        <span class="signup"
+          >Already have an account?
+          <label for="check" class="text text-primary">Login</label>
+        </span>
+      </div>
     </div>
   </div>
 </div>

@@ -21,6 +21,8 @@ import { MagnetComponent } from './magnet/magnet.component';
 import { UploadComponent } from './upload/upload.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SigninSignupComponent } from './signin-signup/signin-signup.component';
+import { HttpClientModule } from '@angular/common/http';
+import { CartpageComponent } from './cartpage/cartpage.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +38,7 @@ import { SigninSignupComponent } from './signin-signup/signin-signup.component';
     MagnetComponent,
     UploadComponent,
     SigninSignupComponent,
+    CartpageComponent,
   ],
   imports: [
     BrowserModule,
@@ -47,7 +50,8 @@ import { SigninSignupComponent } from './signin-signup/signin-signup.component';
     MatIconModule,
     MatListModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
