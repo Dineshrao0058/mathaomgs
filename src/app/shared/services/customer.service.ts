@@ -24,17 +24,16 @@ export class CustomerService {
     return this.http.post('http://localhost:5000/customer', data);
   }
 
-  fileupload(file: File): Observable<any> {
-    const formdata:FormData = new FormData();
-    formdata.append('file', file);
+  fileupload(data:any): Observable<any> {
+    
     return this.http.post(
       'http://localhost:5000/photo/upload',
-      formdata,
+      data,
       this.jwttoken()
     );
   }
- 
-  addtoCart(data:any){
-    return this.http.post('http://localhost:5000/cart',data, this.jwttoken())
+
+  addtoCart(data: any) {
+    return this.http.post('http://localhost:5000/cart', data, this.jwttoken());
   }
 }
