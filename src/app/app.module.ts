@@ -23,6 +23,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { SigninSignupComponent } from './signin-signup/signin-signup.component';
 import { HttpClientModule } from '@angular/common/http';
 import { CartpageComponent } from './cartpage/cartpage.component';
+import { HeaderComponent } from './header/header.component';
 
 @NgModule({
   declarations: [
@@ -39,6 +40,7 @@ import { CartpageComponent } from './cartpage/cartpage.component';
     UploadComponent,
     SigninSignupComponent,
     CartpageComponent,
+    HeaderComponent,
   ],
   imports: [
     BrowserModule,

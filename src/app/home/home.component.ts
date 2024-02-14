@@ -22,6 +22,10 @@ export class HomeComponent {
 
   constructor(private router: Router) {}
 
+  gotoCart(){
+    this.router.navigate(['/cart']);
+  }
+
   logout() {
     localStorage.removeItem('customer');
     localStorage.removeItem('userToken');

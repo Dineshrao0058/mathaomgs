@@ -104,84 +104,103 @@
             <h4 class="text-center fw-bold">Upload Your Photo</h4>
           </div>
           <div>
-            <form [formGroup]="addcartForm" >
-              <div class="text-center">
-                <button class="btn btn-danger fw-bold">
-                  <i class="fas fa-cloud-upload-alt"></i>
-                  <label for="upload-file" id="i2"
-                    ><i class="bi bi-upload me-2"></i>Select photo</label
-                  >
-                  <input
-                    type="file"
-                    id="upload-file"
-                    formControlName="photo"
-                    accept="image/*"
-                    (change)="viewfile($event)"
-                  />
-                </button>
-              </div>
-              <div class="row">
-                <div class="col-sm-12">
-                  <div class="row bg-light mt-4">
-                    <p class="me-2 mb-1 fw-bold fs-7">
-                      <span
-                        ><i class="bi bi-aspect-ratio me-2 text-dark"></i
-                      ></span>
-                      Size & Thickness
-                    </p>
-                    <div>
-                      <select
-                        class="form-select w-100"
-                        aria-label="Default select example"
-                        formControlName="size"
-                      >
-                        <option selected class="text-center">
-                          --- select size---
-                        </option>
-                        <option value="3 x 3">3 x 3</option>
-                        <option value="3 x 6">3 x 6</option>
-                        <option value="3 x 9">3 x 9</option>
-                      </select>
+            <form [formGroup]="addcartForm">
+              <div>
+                <div class="text-center">
+                  <button class="btn btn-danger fw-bold">
+                    <i class="fas fa-cloud-upload-alt"></i>
+                    <label for="upload-file" id="i2"
+                      ><i class="bi bi-upload me-2"></i>Select photo</label
+                    >
+                    <input
+                      type="file"
+                      id="upload-file"
+                      formControlName="photo"
+                      accept="image/*"
+                      (change)="viewfile($event)"
+                    />
+                  </button>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="row bg-light mt-4">
+                      <p class="me-2 mb-1 fw-bold fs-7">
+                        <span
+                          ><i class="bi bi-aspect-ratio me-2 text-dark"></i
+                        ></span>
+                        size
+                      </p>
+                      <div>
+                        <select
+                          class="form-select w-100"
+                          aria-label="Default select example"
+                          formControlName="size"
+                        >
+                          <option *ngFor="let f of frames" value="{{ f.size }}">
+                            {{ f.size }}
+                          </option>
+                        </select>
+                      </div>
+                      <p class="me-2 mb-1 mt-3 fw-bold fs-7">
+                        <span
+                          ><i class="bi bi-aspect-ratio me-2 text-dark"></i
+                        ></span>
+                        Thickness
+                      </p>
+                      <div>
+                        <select
+                          class="form-select w-100"
+                          aria-label="Default select example"
+                          formControlName="thickness"
+                        >
+                          <option
+                            *ngFor="let f of frames"
+                            value="{{ f.thickness }}"
+                          >
+                            {{ f.thickness }}
+                          </option>
+                        </select>
+                      </div>
                     </div>
                   </div>
                 </div>
-              </div>
-              <div class="row bg-light mt-4">
-                <p class="ms-2 fw-bold fs-7 mb-1">
-                  <span><i class="bi bi-calendar-date me-2"></i></span>
-                  Choose Date
-                </p>
-                <input
-                  type="date"
-                  class="form-control ms-2"
-                  style="width: 95%"
-                  name=""
-                  id=""
-                  formControlName="date"
-                />
-              </div>
-              <div class="row bg-light mt-4">
-                <p class="ms-2 fw-bold fs-7 mb-1">
-                  <span><i class="bi bi-currency-rupee me-2"></i></span>
-                  Price
-                </p>
-                <input
-                  type="number"
-                  class="form-control ms-2"
-                  style="width: 95%"
-                  name=""
-                  id=""
-                  formControlName="price"
-                />
-              </div>
-              <div class="text-center">
-                <h2>₹599 <del>₹1,199</del></h2>
-                <i class=""> Current Processing Time 5 hours</i><br />
-                <div class="row">
-                  <div class="mt-1">
-                    <button class="btn btn-success" (click)="addCart()">
-                      Add to Cart
-                    </button>
+                <div class="row bg-light mt-4">
+                  <p class="ms-2 fw-bold fs-7 mb-1">
+                    <span><i class="bi bi-calendar-date me-2"></i></span>
+                    Choose Date
+                  </p>
+                  <input
+                    type="date"
+                    class="form-control ms-2"
+                    style="width: 95%"
+                    name=""
+                    id=""
+                    formControlName="date"
+                  />
+                </div>
+                <div class="row bg-light mt-4">
+                  <p class="ms-2 fw-bold fs-7 mb-1">
+                    <span><i class="bi bi-currency-rupee me-2"></i></span>
+                    Price
+                  </p>
+                  <input
+                    type="number"
+                    class="form-control ms-2"
+                    style="width: 95%"
+                    name=""
+                    id=""
+                    formControlName="price"
+                  />
+                </div>
+                <div class="text-center">
+                  <h2>₹599 <del>₹1,199</del></h2>
+                  <i class=""> Current Processing Time 5 hours</i><br />
+                  <div class="row">
+                    <div class="mt-1">
+                      <button class="btn btn-success" (click)="addCart()">
+                        Add to Cart
+                      </button>
+                    </div>
                   </div>
                 </div>
               </div>

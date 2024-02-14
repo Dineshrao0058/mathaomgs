@@ -24,16 +24,20 @@ export class CustomerService {
     return this.http.post('http://localhost:5000/customer', data);
   }
 
-  fileupload(data:any): Observable<any> {
-    
-    return this.http.post(
-      'http://localhost:5000/photo/upload',
-      data,
+  addtoCart(data: any) {
+    return this.http.post('http://localhost:5000/cart', data, this.jwttoken());
+  }
+  cartItems(id: any) {
+    return this.http.get(
+      'http://localhost:5000/cart/getcartBy/' + id,
       this.jwttoken()
     );
   }
 
-  addtoCart(data: any) {
-    return this.http.post('http://localhost:5000/cart', data, this.jwttoken());
+  getFrames() {
+    return this.http.get(
+      'http://localhost:5000/frames/getframes',
+      this.jwttoken()
+    );
   }
 }
