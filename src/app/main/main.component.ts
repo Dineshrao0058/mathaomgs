@@ -12,19 +12,31 @@ import { Router } from '@angular/router';
 export class MainComponent implements OnInit {
   addcartForm!: FormGroup;
   uploadFile: any;
+
   showImg: boolean = false;
   hideFile: boolean = true;
 
   hexagon1: boolean = false;
   square1: boolean = false;
   circle1: boolean = false;
+
   uToken: any;
   cartItem: any;
   sphoto: any;
   selectedFile!: File;
   cartId: any;
   uid: any;
-  frames: any;
+
+  sizes: any;
+  thickness: any;
+  prices: any;
+
+  photoSize: any;
+  photoThickness: any;
+
+  totalPrice = 0;
+  qty = 0;
+  total = 0;
   constructor(
     private api: CustomerService,
     private fb: FormBuilder,
@@ -41,15 +53,19 @@ export class MainComponent implements OnInit {
       cartId: this.uid,
       size: ['', Validators.required],
       thickness: ['', Validators.required],
-      date: ['', Validators.required],
+      quantity: ['', Validators.required],
       photo: ['', Validators.required],
       price: ['', Validators.required],
     });
-    
 
-    this.api.getFrames().subscribe((res: any) => {
-      console.log(res, 'frames with sizes');
-      this.frames = res;
+    this.api.getSizes().subscribe((res: any) => {
+      this.sizes = res;
+      // console.log(this.sizes, 'frames with sizes');
+    });
+
+    this.api.getThickness().subscribe((res: any) => {
+      this.thickness = res;
+      // console.log(this.thickness, 'frames with thickness');
     });
   }
 
@@ -76,13 +92,46 @@ export class MainComponent implements OnInit {
     this.circle1 = true;
   }
 
-  addCart() {
+  selectedSize(event: any) {
+    this.photoSize = event.target.value;
+    this.photoThickness = '';
+    console.log(this.photoSize);
+  }
+
+  selectedThickness(event: any) {
+    this.photoThickness = event.target.value;
+    console.log(this.photoThickness);
+    this.api
+      .getPrices(this.photoSize, this.photoThickness)
+      .subscribe((res: any) => {
+        this.prices = res;
+        console.log(this.prices, 'frames with prices');
+        let tp = this.prices.map((p: any) => p.price);
+        this.totalPrice = Number(tp);
+        console.log(this.totalPrice, 'total price 1');
+        this.addcartForm.patchValue({
+          price: this.totalPrice,
+        });
+      });
+  }
+
+  selectQuantity(event: any) {
+    this.qty = event.target.value;
+    console.log(Number(this.qty));
+    this.total = this.totalPrice * this.qty;
+    console.log(this.totalPrice, 'price with quantity');
+    this.addcartForm.patchValue({
+      price: this.total,
+    });
+  }
+
+  buyNow() {
     let formData = new FormData();
     formData.append('file', this.selectedFile);
-    formData.append('date', this.addcartForm.value.date);
-    formData.append('thickness', this.addcartForm.value.thickness);
-    formData.append('price', this.addcartForm.value.price);
     formData.append('size', this.addcartForm.value.size);
+    formData.append('thickness', this.addcartForm.value.thickness);
+    formData.append('quantity', this.addcartForm.value.quantity);
+    formData.append('price', this.addcartForm.value.price);
     formData.append('cartId', this.uid);
 
     console.log(formData, 'formdata');

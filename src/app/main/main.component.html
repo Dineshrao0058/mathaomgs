@@ -50,7 +50,7 @@
         </div>
       </div>
 
-      <div class="col-sm-8">
+      <div class="col-sm-9">
         <h2
           class="text-center mb-4 fs-3"
           style="
@@ -98,7 +98,7 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-3 mt-4">
+      <div class="col-sm-2">
         <div class="row">
           <div class="mt-4">
             <h4 class="text-center fw-bold">Upload Your Photo</h4>
@@ -124,80 +124,80 @@
                 <div class="row">
                   <div class="col-sm-12">
                     <div class="row bg-light mt-4">
-                      <p class="me-2 mb-1 fw-bold fs-7">
-                        <span
-                          ><i class="bi bi-aspect-ratio me-2 text-dark"></i
-                        ></span>
-                        size
-                      </p>
+                      <p class="me-2 mb-1 fw-bold fs-7">size</p>
                       <div>
                         <select
                           class="form-select w-100"
                           aria-label="Default select example"
                           formControlName="size"
+                          (change)="selectedSize($event)"
                         >
-                          <option *ngFor="let f of frames" value="{{ f.size }}">
-                            {{ f.size }}
+                          <option value="" selected>--- select ---</option>
+                          <option *ngFor="let s of sizes" value="{{ s._id }}">
+                            {{ s.size }}
                           </option>
                         </select>
                       </div>
-                      <p class="me-2 mb-1 mt-3 fw-bold fs-7">
-                        <span
-                          ><i class="bi bi-aspect-ratio me-2 text-dark"></i
-                        ></span>
-                        Thickness
-                      </p>
+                      <p class="me-2 mb-1 mt-3 fw-bold fs-7">Thickness</p>
                       <div>
                         <select
                           class="form-select w-100"
                           aria-label="Default select example"
                           formControlName="thickness"
+                          (change)="selectedThickness($event)"
                         >
+                          <option value="" selected>--- select ---</option>
                           <option
-                            *ngFor="let f of frames"
-                            value="{{ f.thickness }}"
+                            *ngFor="let t of thickness"
+                            value="{{ t._id }}"
                           >
-                            {{ f.thickness }}
+                            {{ t.thickness }}
                           </option>
                         </select>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class="row bg-light mt-4">
-                  <p class="ms-2 fw-bold fs-7 mb-1">
-                    <span><i class="bi bi-calendar-date me-2"></i></span>
-                    Choose Date
-                  </p>
-                  <input
-                    type="date"
-                    class="form-control ms-2"
-                    style="width: 95%"
-                    name=""
-                    id=""
-                    formControlName="date"
-                  />
+                <p class="me-2 mb-1 mt-3 fw-bold fs-7">Quantity</p>
+                <div>
+                  <select
+                    class="form-select w-100"
+                    aria-label="Default select example"
+                    formControlName="quantity"
+                    (change)="selectQuantity($event)"
+                  >
+                    <option value="" selected>--- select ---</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <!-- <option *ngFor="let i = index" value="{{ i+1 }}">
+                      {{ i+1 }}
+                    </option> -->
+                  </select>
                 </div>
+                <!-- <div class="mt-2">
+                  <p>{{ this.totalPrice }}+{{ this.qty }} = {{this.total}}</p>
+                </div> -->
                 <div class="row bg-light mt-4">
-                  <p class="ms-2 fw-bold fs-7 mb-1">
-                    <span><i class="bi bi-currency-rupee me-2"></i></span>
-                    Price
-                  </p>
+                  <p class="ms-2 fw-bold fs-7 mb-1">Price</p>
                   <input
                     type="number"
-                    class="form-control ms-2"
-                    style="width: 95%"
+                    class="form-control ms-2 border-0 text-primary fw-bold"
+                    style="width: 95%; background-color: whitesmoke"
                     name=""
                     id=""
                     formControlName="price"
+                    readonly
                   />
                 </div>
                 <div class="text-center">
-                  <h2>₹599 <del>₹1,199</del></h2>
-                  <i class=""> Current Processing Time 5 hours</i><br />
+                  <h3>{{ this.totalPrice }}/ <em>Per item</em></h3>
+
                   <div class="row">
                     <div class="mt-1">
-                      <button class="btn btn-success" (click)="addCart()">
+                      <button class="btn btn-success w-75" (click)="buyNow()">
                         Add to Cart
                       </button>
                     </div>

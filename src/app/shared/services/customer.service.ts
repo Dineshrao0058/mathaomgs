@@ -34,9 +34,26 @@ export class CustomerService {
     );
   }
 
-  getFrames() {
+  getSizes() {
     return this.http.get(
-      'http://localhost:5000/frames/getframes',
+      'http://localhost:5000/size/getsizes',
+      this.jwttoken()
+    );
+  }
+  getThickness() {
+    return this.http.get(
+      'http://localhost:5000/thickness/getAllthickness',
+      this.jwttoken()
+    );
+  }
+
+  getPrices(sid:any, tid:any) {
+    let data ={
+      "sizeId":sid,
+      "thicknessId":tid
+    }
+    return this.http.post(
+      'http://localhost:5000/price/getprices',data,
       this.jwttoken()
     );
   }
