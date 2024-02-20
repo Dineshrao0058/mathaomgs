@@ -27,11 +27,12 @@ export class CustomerService {
   addtoCart(data: any) {
     return this.http.post('http://localhost:5000/cart', data, this.jwttoken());
   }
-  cartItems(id: any) {
-    return this.http.get(
-      'http://localhost:5000/cart/getcartBy/' + id,
-      this.jwttoken()
-    );
+  cartItems() {
+    return this.http.get('http://localhost:5000/cart/getcart', this.jwttoken());
+  }
+
+  editCartItems(data:any){
+    return this.http.put('http://localhost:5000/cart/updatecart/'+data.id,data, this.jwttoken());
   }
 
   getSizes() {
@@ -47,14 +48,21 @@ export class CustomerService {
     );
   }
 
-  getPrices(sid:any, tid:any) {
-    let data ={
-      "sizeId":sid,
-      "thicknessId":tid
-    }
+  getPrices(sid: any, tid: any) {
+    let data = {
+      sizeId: sid,
+      thicknessId: tid,
+    };
     return this.http.post(
-      'http://localhost:5000/price/getprices',data,
+      'http://localhost:5000/price/getprices',
+      data,
       this.jwttoken()
     );
   }
+  // getCart() {
+  //   return this.http.get(
+  //     'http://localhost:5000/price/getframes',
+  //     this.jwttoken()
+  //   );
+  // }
 }

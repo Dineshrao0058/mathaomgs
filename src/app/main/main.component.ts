@@ -51,8 +51,8 @@ export class MainComponent implements OnInit {
 
     this.addcartForm = this.fb.group({
       cartId: this.uid,
-      size: ['', Validators.required],
-      thickness: ['', Validators.required],
+      sizeId: ['', Validators.required],
+      thicknessId: ['', Validators.required],
       quantity: ['', Validators.required],
       photo: ['', Validators.required],
       price: ['', Validators.required],
@@ -128,8 +128,8 @@ export class MainComponent implements OnInit {
   buyNow() {
     let formData = new FormData();
     formData.append('file', this.selectedFile);
-    formData.append('size', this.addcartForm.value.size);
-    formData.append('thickness', this.addcartForm.value.thickness);
+    formData.append('sizeId', this.addcartForm.value.sizeId);
+    formData.append('thicknessId', this.addcartForm.value.thicknessId);
     formData.append('quantity', this.addcartForm.value.quantity);
     formData.append('price', this.addcartForm.value.price);
     formData.append('cartId', this.uid);

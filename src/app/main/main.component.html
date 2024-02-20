@@ -129,7 +129,7 @@
                         <select
                           class="form-select w-100"
                           aria-label="Default select example"
-                          formControlName="size"
+                          formControlName="sizeId"
                           (change)="selectedSize($event)"
                         >
                           <option value="" selected>--- select ---</option>
@@ -143,13 +143,13 @@
                         <select
                           class="form-select w-100"
                           aria-label="Default select example"
-                          formControlName="thickness"
+                          formControlName="thicknessId"
                           (change)="selectedThickness($event)"
                         >
                           <option value="" selected>--- select ---</option>
                           <option
                             *ngFor="let t of thickness"
-                            value="{{ t._id }}"
+                            value="{{ t._id}}"
                           >
                             {{ t.thickness }}
                           </option>

@@ -11,6 +11,7 @@ import { MagnetComponent } from './magnet/magnet.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
 import { SigninSignupComponent } from './signin-signup/signin-signup.component';
 import { CartpageComponent } from './cartpage/cartpage.component';
+import { CheckoutComponent } from './checkout/checkout.component';
 
 const routes: Routes = [
   { path: '', component: SigninSignupComponent },
@@ -29,6 +30,7 @@ const routes: Routes = [
       { path: 'nameplate', component: NameplateComponent },
       { path: 'magnet', component: MagnetComponent },
       { path: 'cart', component: CartpageComponent },
+      { path: 'checkout', component: CheckoutComponent },
     ],
   },
 ];
