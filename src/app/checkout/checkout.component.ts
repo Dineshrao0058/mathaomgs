@@ -20,7 +20,7 @@ export class CheckoutComponent implements OnInit {
   addressForm!: FormGroup;
   customers: any;
   deliveryAddress: any;
-  
+
   constructor(
     private api: CustomerService,
     private router: Router,
@@ -86,7 +86,7 @@ export class CheckoutComponent implements OnInit {
     this.api.addAddresses(this.addressForm.value).subscribe((res: any) => {
       console.log(res, 'addresses');
     });
-    // window.location.reload();
+    window.location.reload();
   }
   payment() {}
 }
