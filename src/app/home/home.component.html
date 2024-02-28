@@ -1,17 +1,9 @@
 <div class="container-fluid g-0">
   <mat-sidenav-container class="sidenav-container">
-    <mat-sidenav
-      #drawer
-      class="sidenav"
-      fixedInViewport
-      [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
-      [mode]="(isHandset$ | async) ? 'over' : 'side'"
-    >
+    <mat-sidenav #drawer class="sidenav" fixedInViewport [attr.role]="(isHandset$ | async) ? 'dialog' : 'navigation'"
+      [mode]="(isHandset$ | async) ? 'over' : 'side'">
       <mat-toolbar class="sticky-top bg-danger text-light">
-        <a class="nav-link" routerLink="home"
-          ><i class="bi bi-house me-2"></i>Home</a
-        ></mat-toolbar
-      >
+        <a class="nav-link" routerLink="home"><i class="bi bi-house me-2"></i>Home</a></mat-toolbar>
       <mat-nav-list class="fs-5">
         <hr />
         <a mat-list-item routerLink="main">
@@ -23,44 +15,25 @@
         <hr />
         <a mat-list-item routerLink="design">
           <span>
-            <img src="assets/images/menuimgs/m2.png " class="a-img" /> </span
-          >Acryilic with Design</a
-        >
+            <img src="assets/images/menuimgs/m2.png " class="a-img" /> </span>Acryilic with Design</a>
         <hr />
-        <a class="mn" mat-list-item routerLink="clock"
-          ><span
-            ><img src="assets/images/menuimgs/m3.png " class="a-img" /></span
-          >Acryilic Wall Clock</a
-        >
+        <a class="mn" mat-list-item routerLink="clock"><span><img src="assets/images/menuimgs/m3.png "
+              class="a-img" /></span>Acryilic Wall Clock</a>
         <hr />
-        <a mat-list-item routerLink="transparent"
-          ><span
-            ><img src="assets/images/menuimgs/m4.png" class="a-img"
-          /></span>
+        <a mat-list-item routerLink="transparent"><span><img src="assets/images/menuimgs/m4.png" class="a-img" /></span>
           Acryilic Transparent
         </a>
         <hr />
-        <a mat-list-item routerLink="wallphoto"
-          ><span
-            ><img src="assets/images/menuimgs/m5.png" class="a-img"
-          /></span>
-          Acryilic Wall Photo</a
-        >
+        <a mat-list-item routerLink="wallphoto"><span><img src="assets/images/menuimgs/m5.png" class="a-img" /></span>
+          Acryilic Wall Photo</a>
         <hr />
-        <a mat-list-item routerLink="magnet"
-          ><span><img src="assets/images/menuimgs/m6.png" class="a-img" /></span
-          >Acryilic Fridge Magnet</a
-        >
+        <a mat-list-item routerLink="magnet"><span><img src="assets/images/menuimgs/m6.png"
+              class="a-img" /></span>Acryilic Fridge Magnet</a>
         <hr />
-        <a mat-list-item
-          ><span><img src="assets/images/menuimgs/m7.png" class="a-img" /></span
-          >Acryilic Car Photo</a
-        >
+        <a mat-list-item><span><img src="assets/images/menuimgs/m7.png" class="a-img" /></span>Acryilic Car Photo</a>
         <hr />
-        <a mat-list-item routerLink="nameplate"
-          ><span><img src="assets/images/menuimgs/m8.png" class="a-img" /></span
-          >Acrylic Name Plate</a
-        >
+        <a mat-list-item routerLink="nameplate"><span><img src="assets/images/menuimgs/m8.png"
+              class="a-img" /></span>Acrylic Name Plate</a>
         <hr />
       </mat-nav-list>
     </mat-sidenav>
@@ -69,35 +42,20 @@
         <div class="row head">
           <div class="col-sm-3">
             <div class="d-flex">
-              <button
-                class="mt-2 ms-2"
-                type="button"
-                mat-icon-button
-                (click)="drawer.toggle()"
-              >
+              <button class="mt-2 ms-2" type="button" mat-icon-button (click)="drawer.toggle()">
                 <mat-icon aria-label="Side nav toggle icon">menu</mat-icon>
               </button>
 
               <a routerLink="home">
-                <img
-                  src="assets/images/matha main.jpg"
-                  class="logo ms-4 p-1"
-                  alt=""
-                  width="100%"
-                  height="70"
-                  style="border-radius: 10px"
-                />
+                <img src="assets/images/matha main.jpg" class="logo ms-4 p-1" alt="" width="100%" height="70"
+                  style="border-radius: 10px" />
               </a>
             </div>
           </div>
           <div class="col-sm-7">
             <div class="mt-3">
-              <h4
-                behavior=""
-                direction=""
-                class="fw-bold fs-5 mt-2 hide text-center"
-                style="font-family: Verdana, Geneva, Tahoma, sans-serif"
-              >
+              <h4 behavior="" direction="" class="fw-bold fs-5 mt-2 hide text-center"
+                style="font-family: Verdana, Geneva, Tahoma, sans-serif">
                 Welcome to
                 <span class="text text-danger"> <em>Matha</em> </span> Digital
                 Color Lab
@@ -107,17 +65,10 @@
           <div class="col-sm-2">
             <div class="d-flex">
               <div class="mt-3">
-                <i
-                  class="bi bi-cart"
-                  style="font-size: 35px; cursor: pointer"
-                  (click)="gotoCart()"
-                ></i>
+                <i class="bi bi-cart" style="font-size: 35px; cursor: pointer" (click)="gotoCart()"></i>
               </div>
               <div class="mt-3">
-                <button
-                  class="btn btn-outline-danger ms-4 fw-bold"
-                  (click)="logout()"
-                >
+                <button class="btn btn-outline-danger ms-4 fw-bold" (click)="logout()">
                   Logout <i class="bi bi-box-arrow-right ms-1"></i>
                 </button>
               </div>
