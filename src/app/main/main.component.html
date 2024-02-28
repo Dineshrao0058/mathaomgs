@@ -12,6 +12,7 @@
     </div>
 
     <div class="row mt-2">
+      <div class="col-sm-1"></div>
       <div class="col-sm-1 mt-4">
         <div class="mt-4">
           <h4 class="fw-bold text-dark mb-0">Frames</h4>
@@ -19,29 +20,38 @@
         <div class="mt-1 text-center">
           <div class="row shape-bg d-flex">
             <div class="mt-2">
-              <button class="btn btn-outline-secondary mb-3 square"></button>
+              <button
+                class="btn btn-outline-secondary mb-3 square"
+                (click)="squareShape()"
+              ></button>
             </div>
 
             <div class="">
-              <button class="btn btn-outline-secondary mb-3 circle"></button>
+              <button
+                class="btn btn-outline-secondary mb-3 circle"
+                (click)="circleShape()"
+              ></button>
             </div>
 
-            <div class="">
+            <!-- <div class="">
               <button class="btn btn-outline-secondary mb-3 hexogonal"></button>
             </div>
 
             <div class="">
               <button class="btn btn-outline-secondary mb-3 rectangle"></button>
-            </div>
+            </div> -->
 
             <div class="">
-              <button class="btn btn-outline-secondary mb-3 hexagon" (click)="hexagonShape()"> </button>
+              <button
+                class="btn btn-outline-secondary mb-3 hexagon"
+                (click)="hexagonShape()"
+              ></button>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="col-sm-8">
+      <div class="col-sm-7">
         <h2
           class="text-center mb-4 fs-3"
           style="
@@ -51,12 +61,24 @@
         >
           Customised Premium MATHA's Acrylic Picture
         </h2>
-        <div class="container">
+        <div class="">
           <div class="row">
             <div class="">
-              <div class="card drag-image " >
-                <div class="imgs" *ngIf="showImg" [ngClass]="{'hexagon1':hexagon1}">
-                  <img id="i1" class="image" src="{{ uploadFile }}" />
+              <div class="card drag-image">
+                <div
+                  class="imgs"
+                  *ngIf="showImg"
+                  [ngClass]="{
+                    hexagon1: hexagon1,
+                    square1: square1,
+                    circle1: circle1
+                  }"
+                >
+                  <div>
+                    <div class="image-container" ngxPinchZoom cdkDrag>
+                      <img #imageElement [src]="getImageUrl()" alt="Image" />
+                    </div>
+                  </div>
                 </div>
                 <div class="file" *ngIf="hideFile">
                   <div class="">
@@ -65,100 +87,134 @@
                   <label for="upload-file" id="i2"
                     ><i class="bi bi-upload upload"></i
                   ></label>
-                  <input
-                    type="file"
-                    id="upload-file"
-                    accept="image/*"
-                    (change)="viewfile($event)"
-                  />
+                  <input type="file" (change)="viewfile($event)" />
                 </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>
-      <div class="col-sm-3 mt-4">
-        <div class="row">
-          <div class="mt-4">
-            <h4 class="text-center fw-bold">Upload Your Photo</h4>
-          </div>
-          <div class="text-center">
-            <button class="btn btn-danger fw-bold">
-              <i class="fas fa-cloud-upload-alt"></i>
-              <label for="upload-file" id="i2"
-                ><i class="bi bi-upload me-2"></i>Select photo</label
-              >
-              <input
-                type="file"
-                id="upload-file"
-                accept="image/*"
-                (change)="viewfile($event)"
-              />
+          <!-- image drag and drop -->
+          <div class="text-center p-2">
+            <button class="btn btn-secondary btn-sm me-4" (click)="zoomIn()">
+              <i class="bi bi-zoom-in"></i>
+            </button>
+            <button class="btn btn-secondary btn-sm ms-4" (click)="zoomOut()">
+              <i class="bi bi-zoom-out"></i>
             </button>
           </div>
         </div>
+      </div>
+      <div class="col-sm-2">
         <div class="row">
-          <div class="col-sm-8">
-            <div class="row bg-light mt-4">
-              <p class="me-2 mb-1 fw-bold fs-7">
-                <span><i class="bi bi-aspect-ratio me-2 text-dark"></i></span>
-                Size & Thickness
-              </p>
+          <div class="mt-4">
+            <h4 class="text-center fw-bold">Upload Photo</h4>
+          </div>
+          <div>
+            <form [formGroup]="addcartForm">
               <div>
-                <select
-                  class="form-select w-100"
-                  aria-label="Default select example"
-                >
-                  <option selected class="text-center">
-                    --- select size---
-                  </option>
-                  <option value="1">One</option>
-                  <option value="2">Two</option>
-                  <option value="3">Three</option>
-                </select>
+                <div class="text-center">
+                  <button class="btn btn-danger fw-bold">
+                    <i class="fas fa-cloud-upload-alt"></i>
+                    <label for="upload-file" id="i2"
+                      ><i class="bi bi-upload me-2"></i>Select photo</label
+                    >
+                    <input
+                      type="file"
+                      id="upload-file"
+                      formControlName="photo"
+                      accept="image/*"
+                      (change)="viewfile($event)"
+                    />
+                  </button>
+                </div>
+                <div class="row">
+                  <div class="col-sm-12">
+                    <div class="row bg-light mt-4">
+                      <p class="me-2 mb-1 fw-bold fs-7">size</p>
+                      <div>
+                        <select
+                          class="form-select w-100"
+                          aria-label="Default select example"
+                          formControlName="sizeId"
+                          (change)="selectedSize($event)"
+                        >
+                          <option value="" selected>--- select ---</option>
+                          <option *ngFor="let s of sizes" value="{{ s._id }}">
+                            {{ s.size }}
+                          </option>
+                        </select>
+                      </div>
+                      <p class="me-2 mb-1 mt-3 fw-bold fs-7">Thickness</p>
+                      <div>
+                        <select
+                          class="form-select w-100"
+                          aria-label="Default select example"
+                          formControlName="thicknessId"
+                          (change)="selectedThickness($event)"
+                        >
+                          <option value="" selected>--- select ---</option>
+                          <option
+                            *ngFor="let t of thickness"
+                            value="{{ t._id }}"
+                          >
+                            {{ t.thickness }}
+                          </option>
+                        </select>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <p class="me-2 mb-1 mt-3 fw-bold fs-7">Quantity</p>
+                <div>
+                  <select
+                    class="form-select w-100"
+                    aria-label="Default select example"
+                    formControlName="quantity"
+                    (change)="selectQuantity($event)"
+                  >
+                    <option value="" selected>--- select ---</option>
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <!-- <option *ngFor="let i = index" value="{{ i+1 }}">
+                      {{ i+1 }}
+                    </option> -->
+                  </select>
+                </div>
+                <!-- <div class="mt-2">
+                  <p>{{ this.totalPrice }}+{{ this.qty }} = {{this.total}}</p>
+                </div> -->
+                <div class="row bg-light mt-4">
+                  <p class="ms-2 fw-bold fs-7 mb-1">Price</p>
+                  <input
+                    type="number"
+                    class="form-control ms-2 border-0 text-primary fw-bold"
+                    style="width: 95%; background-color: whitesmoke"
+                    name=""
+                    id=""
+                    formControlName="price"
+                    readonly
+                  />
+                </div>
+                <div class="text-center">
+                  <h3>{{ this.totalPrice }}/ <em>Per item</em></h3>
+
+                  <div class="row">
+                    <div class="mt-1">
+                      <button class="btn btn-success w-100" (click)="buyNow()">
+                        Add to Cart
+                      </button>
+                    </div>
+                    
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div class="col-sm-4 mt-1">
-            <div class="mt-2">
-              <p class="mb-2 mt-3 fw-bold fs-7">Quantity</p>
-              <input
-                type="number"
-                class="form-control"
-                id="quantity"
-                name="quantity"
-                min="1"
-                max="5"
-              />
-            </div>
-          </div>
+            </form>
+           
         </div>
 
-        <div class="row bg-light mt-4">
-          <p class="ms-2 fw-bold fs-6 mb-1">
-            <span><i class="bi bi-currency-rupee me-2"></i></span>
-            Price
-          </p>
-          <input
-            type="number"
-            class="form-control ms-2"
-            style="width: 95%"
-            name=""
-            id=""
-          />
-        </div>
-        <div>
-          <div class="text-center">
-            <h2>₹599 <del>₹1,199</del></h2>
-            <i class=""> Current Processing Time 5 hours</i><br />
-            <div class="row">
-              <div class="mt-1">
-                <button class="btn btn-success btn-block w-100">
-                  BUY IT NOW
-                </button>
-              </div>
-            </div>
-          </div>
+        <!-- <div>
           <br />
           <div class="row mb-4">
             <h3 class="mb-1">Check Estimated Delivery Date</h3>
@@ -173,7 +229,7 @@
               </button>
             </div>
           </div>
-        </div>
+        </div> -->
       </div>
     </div>
 
@@ -288,11 +344,6 @@
                                             <img src="assets/images/description10.webp">
                                             <img src="assets/images/description11.webp"> -->
                     </div>
-                    <img
-                      src="assets/images/Matha'.png"
-                      width="80"
-                      height="40"
-                    />
                   </div>
                 </div>
               </div>

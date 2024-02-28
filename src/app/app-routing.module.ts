@@ -9,10 +9,13 @@ import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
-import { UploadComponent } from './upload/upload.component';
 import { SigninSignupComponent } from './signin-signup/signin-signup.component';
+import { CartpageComponent } from './cartpage/cartpage.component';
+import { CheckoutComponent } from './checkout/checkout.component';
 
 const routes: Routes = [
+  { path: '', component: SigninSignupComponent },
+  { path: 'login', component: SigninSignupComponent },
   {
     path: '',
     component: HomeComponent,
@@ -26,7 +29,8 @@ const routes: Routes = [
       { path: 'wallphoto', component: WallphotoComponent },
       { path: 'nameplate', component: NameplateComponent },
       { path: 'magnet', component: MagnetComponent },
-      { path: 'login', component: SigninSignupComponent },
+      { path: 'cart', component: CartpageComponent },
+      { path: 'checkout', component: CheckoutComponent },
     ],
   },
 ];

@@ -4,17 +4,28 @@
 
 .square {
   height: 40px;
-  width: 70px;
+  width: 60px;
   background-color: white;
   border: 0px;
 }
-
+.square1 {
+  height: 350px; 
+  width: 100%;
+  background-color: rgb(252, 247, 247);
+  border-radius: 30px;
+}
 .circle {
   height: 60px;
   width: 60px;
   background-color: white;
-  border-radius: 50%;
+  clip-path: circle(50% at 50% 50%);
   border: 0px;
+}
+.circle1 {
+  height: 350px;
+  width: 54%;
+  background-color: rgb(252, 249, 249);
+  clip-path: circle(50% at 50% 50%);
 }
 
 .hexogonal {
@@ -64,7 +75,7 @@
 
 .drag-image {
   border: 1px dashed #fff;
-  height: 450px;
+  height: 350px;
   width: 100%;
   display: flex;
   align-items: center;
@@ -116,7 +127,7 @@
 }
 
 .image {
-  height: 450px;
+  height: 400px;
   width: 100%;
 }
 
@@ -130,4 +141,13 @@ input[type="file"] {
   font-size: 100px;
   color: black;
   cursor: pointer;
+}
+
+.image-container {
+  overflow: hidden;
+}
+
+.image-container img {
+  width: 100%; /* Ensure image fills container */
+  height: 350px; /* Maintain aspect ratio */
 }
