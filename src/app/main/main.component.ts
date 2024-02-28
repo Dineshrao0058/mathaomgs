@@ -1,5 +1,11 @@
 import { style } from '@angular/animations';
-import { Component, OnInit } from '@angular/core';
+import {
+  Component,
+  ElementRef,
+  OnInit,
+  Renderer2,
+  ViewChild,
+} from '@angular/core';
 import { CustomerService } from '../shared/services/customer.service';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Router } from '@angular/router';
@@ -37,10 +43,14 @@ export class MainComponent implements OnInit {
   totalPrice = 0;
   qty = 0;
   total = 0;
+
+  @ViewChild('imageElement')
+  imageElement!: ElementRef;
   constructor(
     private api: CustomerService,
     private fb: FormBuilder,
-    private router: Router
+    private router: Router,
+    private renderer: Renderer2
   ) {}
 
   ngOnInit(): void {
@@ -94,7 +104,6 @@ export class MainComponent implements OnInit {
 
   selectedSize(event: any) {
     this.photoSize = event.target.value;
-    this.photoThickness = '';
     console.log(this.photoSize);
   }
 
@@ -121,7 +130,7 @@ export class MainComponent implements OnInit {
     this.total = this.totalPrice * this.qty;
     console.log(this.totalPrice, 'price with quantity');
     this.addcartForm.patchValue({
-      price: this.total,
+      price: this.totalPrice,
     });
   }
 
@@ -140,5 +149,25 @@ export class MainComponent implements OnInit {
       console.log(res, 'cart item added');
       this.router.navigate(['/cart']);
     });
+  }
+
+  zoomIn() {
+    const img = this.imageElement.nativeElement;
+    const currentWidth = img.clientWidth;
+    const currentHeight = img.clientHeight;
+    const newWidth = currentWidth * 1.1; // Increase size by 10%
+    const newHeight = currentHeight * 1.1;
+    this.renderer.setStyle(img, 'width', `${newWidth}px`);
+    this.renderer.setStyle(img, 'height', `${newHeight}px`);
+  }
+
+  zoomOut() {
+    const img = this.imageElement.nativeElement;
+    const currentWidth = img.clientWidth;
+    const currentHeight = img.clientHeight;
+    const newWidth = currentWidth * 0.9; // Decrease size by 10%
+    const newHeight = currentHeight * 0.9;
+    this.renderer.setStyle(img, 'width', `${newWidth}px`);
+    this.renderer.setStyle(img, 'height', `${newHeight}px`);
   }
 }

@@ -28,7 +28,6 @@ export class SigninSignupComponent implements OnInit {
       email: ['', Validators.required],
       mobileno: ['', Validators.required],
       password: ['', Validators.required],
-      address: ['', Validators.required],
     });
   }
 

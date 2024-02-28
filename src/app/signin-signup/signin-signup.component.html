@@ -49,26 +49,38 @@
       <div class="">
         <h1 class="mb-1">Signup</h1>
       </div>
-      <form  [formGroup]="signupForm">
+      <form [formGroup]="signupForm">
         <div>
           <label class="form-label">Fullname</label>
-          <input type="text" placeholder="Enter your Fullname" formControlName="fullname"/>
+          <input
+            type="text"
+            placeholder="Enter your Fullname"
+            formControlName="fullname"
+          />
         </div>
         <div>
           <label class="form-label">Email id</label>
-          <input type="email" placeholder="Enter your Email id" formControlName="email"/>
+          <input
+            type="email"
+            placeholder="Enter your Email id"
+            formControlName="email"
+          />
         </div>
         <div>
           <label class="form-label">Mobile Number</label>
-          <input type="number" placeholder="Enter your Mobile Number" formControlName="mobileno" />
+          <input
+            type="number"
+            placeholder="Enter your Mobile Number"
+            formControlName="mobileno"
+          />
         </div>
         <div>
           <label class="form-label">Password</label>
-          <input type="password" placeholder="Create a password" formControlName="password" />
-        </div>
-        <div>
-          <label class="form-label">Address</label>
-          <textarea class="form-control" rows="2" formControlName="address"></textarea>
+          <input
+            type="password"
+            placeholder="Create a password"
+            formControlName="password"
+          />
         </div>
 
         <input type="button" class="button" value="Signup" (click)="signUp()" />

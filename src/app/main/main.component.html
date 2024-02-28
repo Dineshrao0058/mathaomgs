@@ -12,6 +12,7 @@
     </div>
 
     <div class="row mt-2">
+      <div class="col-sm-1"></div>
       <div class="col-sm-1 mt-4">
         <div class="mt-4">
           <h4 class="fw-bold text-dark mb-0">Frames</h4>
@@ -32,13 +33,13 @@
               ></button>
             </div>
 
-            <div class="">
+            <!-- <div class="">
               <button class="btn btn-outline-secondary mb-3 hexogonal"></button>
             </div>
 
             <div class="">
               <button class="btn btn-outline-secondary mb-3 rectangle"></button>
-            </div>
+            </div> -->
 
             <div class="">
               <button
@@ -50,7 +51,7 @@
         </div>
       </div>
 
-      <div class="col-sm-9">
+      <div class="col-sm-7">
         <h2
           class="text-center mb-4 fs-3"
           style="
@@ -60,7 +61,7 @@
         >
           Customised Premium MATHA's Acrylic Picture
         </h2>
-        <div class="container">
+        <div class="">
           <div class="row">
             <div class="">
               <div class="card drag-image">
@@ -73,16 +74,11 @@
                     circle1: circle1
                   }"
                 >
-                  <img
-                    id="i1"
-                    class="image"
-                    [src]="getImageUrl()"
-                    [ngClass]="{
-                      hexagon1: hexagon1,
-                      square1: square1,
-                      circle1: circle1
-                    }"
-                  />
+                  <div>
+                    <div class="image-container" ngxPinchZoom cdkDrag>
+                      <img #imageElement [src]="getImageUrl()" alt="Image" />
+                    </div>
+                  </div>
                 </div>
                 <div class="file" *ngIf="hideFile">
                   <div class="">
@@ -96,12 +92,21 @@
               </div>
             </div>
           </div>
+          <!-- image drag and drop -->
+          <div class="text-center p-2">
+            <button class="btn btn-secondary btn-sm me-4" (click)="zoomIn()">
+              <i class="bi bi-zoom-in"></i>
+            </button>
+            <button class="btn btn-secondary btn-sm ms-4" (click)="zoomOut()">
+              <i class="bi bi-zoom-out"></i>
+            </button>
+          </div>
         </div>
       </div>
       <div class="col-sm-2">
         <div class="row">
           <div class="mt-4">
-            <h4 class="text-center fw-bold">Upload Your Photo</h4>
+            <h4 class="text-center fw-bold">Upload Photo</h4>
           </div>
           <div>
             <form [formGroup]="addcartForm">
@@ -149,7 +154,7 @@
                           <option value="" selected>--- select ---</option>
                           <option
                             *ngFor="let t of thickness"
-                            value="{{ t._id}}"
+                            value="{{ t._id }}"
                           >
                             {{ t.thickness }}
                           </option>
@@ -197,15 +202,16 @@
 
                   <div class="row">
                     <div class="mt-1">
-                      <button class="btn btn-success w-75" (click)="buyNow()">
+                      <button class="btn btn-success w-100" (click)="buyNow()">
                         Add to Cart
                       </button>
                     </div>
+                    
                   </div>
                 </div>
               </div>
             </form>
-          </div>
+           
         </div>
 
         <!-- <div>

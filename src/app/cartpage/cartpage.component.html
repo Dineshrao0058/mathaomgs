@@ -50,22 +50,25 @@
                     </td>
                     <td >
                       <!-- <p>{{ c.quantity }}</p> -->
-                      <form [formGroup]="quatityForm">
-                        <select formControlName="quantity" class="form-control">
-                          <option selected >{{ c.quantity }}</option>
-                          <option value="1">1</option>
-                          <option value="2">2</option>
-                          <option value="3">3</option>
-                          <option value="4">4</option>
-                          <option value="5">5</option>
-                        </select>
-                        <button
-                          class="btn btn-success btn-sm"
-                          (click)="increseQuantity(c)"
-                        >
-                          Add
-                        </button>
-                      </form>
+                      <div class="">
+                        <form [formGroup]="quatityForm" class="d-flex">
+                          <select formControlName="quantity" class="form-control">
+                            <option selected>{{ c.quantity }}</option>
+                            <option value="1">1</option>
+                            <option value="2">2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                          </select>
+                          <button
+                            class="btn btn-success btn-sm ms-1"
+                            (click)="increseQuantity(c)"
+                          >
+                            Add
+                          </button>
+                        </form>
+                      </div>
+                     
                     </td>
                     <td>
                       <p>{{ c.createdAt | date }}</p>
@@ -78,7 +81,7 @@
                 <div class="mt-5">
                   <b class="ms-3">Price</b>
                   <p class="ms-3 mt-3">
-                    {{ c.price | currency : "INR" : "symbol-narrow" }}
+                    {{ c.price * c.quantity | currency : "INR" : "symbol-narrow" }}
                   </p>
                 </div>
               </div>

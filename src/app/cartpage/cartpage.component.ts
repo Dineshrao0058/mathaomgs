@@ -20,6 +20,8 @@ export class CartpageComponent implements OnInit {
   subtotal: any;
   itemCount: any;
   cid: any;
+  pprice: any;
+  gtotal: any;
   constructor(
     private api: CustomerService,
     private router: Router,
@@ -36,11 +38,12 @@ export class CartpageComponent implements OnInit {
       console.log(res, 'cart items');
       this.cartList = res.filter((u: any) => u.cartId === this.uid);
 
-      let gtotal = this.cartList.map((i: any) => i.price);
-      console.log(gtotal);
+      this.gtotal = this.cartList.map((i: any) => i.price * i.quantity);
+      console.log(this.gtotal);
 
-      this.grandTotal = gtotal.reduce((a: any, b: any) => a + b, 0);
-      console.log(gtotal, this.grandTotal, 'total price');
+    
+      this.grandTotal = this.gtotal.reduce((a: any, b: any) => a + b, 0);
+      console.log(this.gtotal, this.grandTotal, 'total price');
 
       let items = this.cartList.map((i: any) => i.quantity);
       console.log(items, 'quantity');
@@ -71,8 +74,11 @@ export class CartpageComponent implements OnInit {
       quantity: this.quatityForm.value.quantity,
       id: c._id,
     };
+    console.log(d, 'ddd');
+
     this.api.editCartItems(d).subscribe((res: any) => {
       console.log(res);
     });
+    window.location.reload();
   }
 }
