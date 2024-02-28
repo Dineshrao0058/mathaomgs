@@ -9,29 +9,34 @@ import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { FrameComponent } from './frame/frame.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
-import { UploadComponent } from './upload/upload.component';
-import { AdminLoginComponent } from './Admin/admin-login/admin-login.component';
-import { AdminDashboardComponent } from './Admin/admin-dashboard/admin-dashboard.component';
+import { SigninSignupComponent } from './signin-signup/signin-signup.component';
+import { CartpageComponent } from './cartpage/cartpage.component';
+import { CheckoutComponent } from './checkout/checkout.component';
 
 const routes: Routes = [
-  { path: 'admin-login', component: AdminLoginComponent },
-  { path: 'admin', component: AdminDashboardComponent },
+  { path: '', component: SigninSignupComponent },
+  { path: 'login', component: SigninSignupComponent },
   {
-    path: '', component: HomeComponent, children: [
+    path: '',
+    component: HomeComponent,
+    children: [
       { path: '', component: FrameComponent },
+      { path: 'home', component: FrameComponent },
       { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
       { path: 'transparent', component: TransparentComponent },
       { path: 'wallphoto', component: WallphotoComponent },
       { path: 'nameplate', component: NameplateComponent },
-      { path: 'magnet', component: MagnetComponent }
-    ]
-  }
+      { path: 'magnet', component: MagnetComponent },
+      { path: 'cart', component: CartpageComponent },
+      { path: 'checkout', component: CheckoutComponent },
+    ],
+  },
 ];
 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
-  exports: [RouterModule]
+  exports: [RouterModule],
 })
-export class AppRoutingModule { }
+export class AppRoutingModule {}

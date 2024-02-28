@@ -1,0 +1,318 @@
+<div class="container">
+  <div class="card p-4 border-0">
+    <div class="row">
+      <div class="col-sm-8">
+        <div>
+          <button class="btn btn-outline-primary" (click)="toggleVisibility()">
+            <i class="bi bi-plus-lg"></i> Add Address
+          </button>
+        </div>
+
+        <ng-container
+          *ngIf="isVisible; then contentTemplate; else placeholderTemplate"
+        ></ng-container>
+
+        <ng-template #contentTemplate>
+          <div class="card mt-4 border-0">
+            <div class="card-header">
+              <h3 class="ads">Billing Information & Delivery Address</h3>
+            </div>
+            <div class="card-body">
+              <div class="row">
+                <div class="col-sm-6" *ngFor="let a of deliveryAddress">
+                  <div class="card">
+                    <div class="card-body">
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Full Name</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.fullname }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Email Id</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.email }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Mobile</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.mobileno }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Alternate Mobile </p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.altmobileno }}</p>
+                        </div>
+                      </div>
+
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>H.No</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.houseno }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Area / Street</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.landmark }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Village</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.village }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>City</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.city }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>State</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.state }}</p>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-sm-6">
+                          <p>Pincode</p>
+                        </div>
+                        <div class="col-sm-6">
+                          <p>{{ a.pincode }}</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ng-template>
+
+        <ng-template #placeholderTemplate>
+          <div class="card mt-4">
+            <div class="card-header">
+              <h3 class="ads">Billing Information & Delivery Address</h3>
+            </div>
+            <div class="card-body">
+              <div>
+                <form [formGroup]="addressForm">
+                  <div class="row mb-4">
+                    <div class="col-sm-6">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Fullname</label>
+                        <input
+                          type="text"
+                          class="form-control form-control-sm"
+                          id="fullname"
+                          formControlName="fullname"
+                          aria-describedby="emailHelp"
+                        />
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="form-group">
+                        <label for="exampleInputEmail1">Email address</label>
+                        <input
+                          type="email"
+                          class="form-control form-control-sm"
+                          id="emailid"
+                          formControlName="email"
+                          aria-describedby="emailHelp"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row mb-4">
+                    <div class="col-sm-6">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">Mobile Number</label>
+                        <input
+                          type="number"
+                          class="form-control form-control-sm"
+                          id="mobile"
+                          formControlName="mobileno"
+                        />
+                      </div>
+                    </div>
+                    <div class="col-sm-6">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1"
+                          >Alternate Mobile Number</label
+                        >
+                        <input
+                          type="number"
+                          class="form-control form-control-sm"
+                          id="altmobile"
+                          formControlName="altmobileno"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row mb-4">
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">House Number</label>
+                        <input
+                          type="text"
+                          class="form-control form-control-sm"
+                          id="hno"
+                          formControlName="houseno"
+                        />
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1"
+                          >Area / Landmark</label
+                        >
+                        <input
+                          type="text"
+                          class="form-control form-control-sm"
+                          id="landmark"
+                          formControlName="landmark"
+                        />
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">Village</label>
+                        <input
+                          type="text"
+                          class="form-control form-control-sm"
+                          id="village"
+                          formControlName="village"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row mb-4">
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">Town / City</label>
+                        <input
+                          type="text"
+                          class="form-control form-control-sm"
+                          id="city"
+                          formControlName="city"
+                        />
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">State</label>
+                        <input
+                          type="text"
+                          class="form-control form-control-sm"
+                          id="state"
+                          formControlName="state"
+                        />
+                      </div>
+                    </div>
+                    <div class="col-sm-4">
+                      <div class="form-group">
+                        <label for="exampleInputPassword1">Pincode</label>
+                        <input
+                          type="number"
+                          class="form-control form-control-sm"
+                          id="pincode"
+                          formControlName="pincode"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="text-center">
+                      <button
+                        type="submit"
+                        class="btn btn-primary w-50"
+                        (click)="addAddress()"
+                      >
+                        Submit
+                      </button>
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </ng-template>
+        <div></div>
+      </div>
+      <div class="col-sm-4 p-4">
+        <div class="row">
+          <div class="">
+            <hr />
+            <h3 class="ads">Order Summary</h3>
+            <div class="">
+              <div class="row mb-2">
+                <div class="col-sm-6">Total Items</div>
+                <div class="col-sm-6">
+                  <p class="text-end">{{ itemCount }}</p>
+                </div>
+              </div>
+              <div class="row mb-2">
+                <div class="col-sm-6">Delivery Charge</div>
+                <div class="col-sm-6">
+                  <p class="text-end">
+                    <i class="bi bi-currency-rupee"></i>100
+                  </p>
+                </div>
+              </div>
+              <div class="row mb-2">
+                <div class="col-sm-6">Price</div>
+                <div class="col-sm-6">
+                  <p class="text-end">
+                    {{ grandTotal | currency : "INR" : "symbol-narrow" }}
+                  </p>
+                </div>
+              </div>
+              <div class="row mb-2">
+                <div class="col-sm-6"><p>Promotion Applied</p></div>
+                <div class="col-sm-6">
+                  <p class="text-end">
+                    - <i class="bi bi-currency-rupee"></i>100
+                  </p>
+                </div>
+              </div>
+              <hr />
+              <h2 class="">
+                <p class="text-center">
+                  <span class="text-muted">Total</span> &nbsp; &nbsp; &nbsp;
+                  {{ grandTotal | currency : "INR" : "symbol-narrow" }}
+                </p>
+              </h2>
+            </div>
+            <div class="text-center">
+              <button class="btn btn-warning w-50" (click)="payment()">
+                Payment
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

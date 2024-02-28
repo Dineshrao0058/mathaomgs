@@ -19,10 +19,14 @@ import { WallphotoComponent } from './wallphoto/wallphoto.component';
 import { NameplateComponent } from './nameplate/nameplate.component';
 import { MagnetComponent } from './magnet/magnet.component';
 import { UploadComponent } from './upload/upload.component';
-import { AdminLoginComponent } from './Admin/admin-login/admin-login.component';
-import { AdminDashboardComponent } from './Admin/admin-dashboard/admin-dashboard.component';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-
+import { SigninSignupComponent } from './signin-signup/signin-signup.component';
+import { HttpClientModule } from '@angular/common/http';
+import { CartpageComponent } from './cartpage/cartpage.component';
+import { HeaderComponent } from './header/header.component';
+import { CheckoutComponent } from './checkout/checkout.component';
+import { NgxImageZoomModule } from 'ngx-image-zoom';
+import { DragDropModule } from '@angular/cdk/drag-drop';
 @NgModule({
   declarations: [
     AppComponent,
@@ -36,8 +40,10 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     NameplateComponent,
     MagnetComponent,
     UploadComponent,
-    AdminLoginComponent,
-    AdminDashboardComponent,
+    SigninSignupComponent,
+    CartpageComponent,
+    HeaderComponent,
+    CheckoutComponent,
   ],
   imports: [
     BrowserModule,
@@ -49,9 +55,12 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
     MatIconModule,
     MatListModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    HttpClientModule,
+    NgxImageZoomModule,
+    DragDropModule,
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}

@@ -2,26 +2,30 @@
   background-color: #f5fcfbc4;
 }
 
-
-.upload-icon {
-  font-size: 100px;
-  text-align: center;
-  padding-top: 150px;
-}
-
 .square {
   height: 40px;
-  width: 70px;
+  width: 60px;
   background-color: white;
   border: 0px;
 }
-
+.square1 {
+  height: 350px; 
+  width: 100%;
+  background-color: rgb(252, 247, 247);
+  border-radius: 30px;
+}
 .circle {
   height: 60px;
   width: 60px;
   background-color: white;
-  border-radius: 50%;
+  clip-path: circle(50% at 50% 50%);
   border: 0px;
+}
+.circle1 {
+  height: 350px;
+  width: 54%;
+  background-color: rgb(252, 249, 249);
+  clip-path: circle(50% at 50% 50%);
 }
 
 .hexogonal {
@@ -58,25 +62,27 @@
   clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
   border: 0px;
 }
-
-.shape-bg{
-    background-color: rgb(214, 167, 79);
+.hexagon1 {
+  height: 450px;
+  width: 100%;
+  background-color: white;
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
 
-
-
-
+.shape-bg {
+  background-color: rgb(214, 167, 79);
+}
 
 .drag-image {
   border: 1px dashed #fff;
-  height: 400px;
+  height: 350px;
   width: 100%;
-  font-weight: 1000;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: #f0efef;
+  background-color: white;
+  border: 1px solid rgb(222, 207, 207);
 }
 
 .drag-image.active {
@@ -121,8 +127,8 @@
 }
 
 .image {
-  height: 350px;
-  width: 600px;
+  height: 400px;
+  width: 100%;
 }
 
 input[type="file"] {
@@ -137,15 +143,11 @@ input[type="file"] {
   cursor: pointer;
 }
 
-.variations td,
-th {
-  border: 0;
-  letter-spacing: normal;
-  padding: 0.2em 0;
-  text-transform: none;
-  vertical-align: middle;
+.image-container {
+  overflow: hidden;
 }
 
-.table.variations.value {
-  width: 100%;
+.image-container img {
+  width: 100%; /* Ensure image fills container */
+  height: 350px; /* Maintain aspect ratio */
 }
