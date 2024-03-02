@@ -1,6 +1,5 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-import { Observable } from 'rxjs';
 
 @Injectable({
   providedIn: 'root',
@@ -78,7 +77,10 @@ export class CustomerService {
     );
   }
 
-  getAddress(id:any) {
-    return this.http.get('http://localhost:5000/cart/viewCheckoutbyId/'+id, this.jwttoken());
+  getAddress(id: any) {
+    return this.http.get(
+      'http://localhost:5000/cart/viewCheckoutbyId/' + id,
+      this.jwttoken()
+    );
   }
 }
