@@ -85,8 +85,9 @@ export class CheckoutComponent implements OnInit {
   addAddress() {
     this.api.addAddresses(this.addressForm.value).subscribe((res: any) => {
       console.log(res, 'addresses');
+      this.router.navigate(['checkout']);
     });
-    window.location.reload();
+    
   }
   payment() {}
 }
