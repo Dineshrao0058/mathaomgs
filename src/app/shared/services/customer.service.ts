@@ -1,10 +1,16 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable } from '@angular/core';
-
+import { CONSTANTS } from '../../server/constants';
 @Injectable({
   providedIn: 'root',
 })
 export class CustomerService {
+  serverUrl = CONSTANTS.serverUrl
+  customerUrl = CONSTANTS.customerUrl
+  cartUrl = CONSTANTS.cartUrl
+  sizeUrl = CONSTANTS.sizeUrl
+  thicknessUrl = CONSTANTS.thicknessUrl
+  priceUrl = CONSTANTS.priceUrl
   jwttoken(): any {
     const header = {
       headers: new HttpHeaders({
@@ -14,25 +20,27 @@ export class CustomerService {
     return header;
   }
 
-  constructor(private http: HttpClient) {}
+
+  constructor(private http: HttpClient) { }
 
   customerLogin(data: any) {
-    return this.http.post('http://localhost:5000/customer/login', data);
+    return this.http.post(this.serverUrl + '/customer/login', data);
+
   }
   customerRegister(data: any) {
-    return this.http.post('http://localhost:5000/customer', data);
+    return this.http.post(this.customerUrl, data);
   }
 
   addtoCart(data: any) {
-    return this.http.post('http://localhost:5000/cart', data, this.jwttoken());
+    return this.http.post(this.cartUrl, data, this.jwttoken());
   }
   cartItems() {
-    return this.http.get('http://localhost:5000/cart/getcart', this.jwttoken());
+    return this.http.get(this.cartUrl + '/getcart', this.jwttoken());
   }
 
   editCartItems(data: any) {
     return this.http.put(
-      'http://localhost:5000/cart/updatecart/' + data.id,
+      this.cartUrl + '/updatecart/' + data.id,
       data,
       this.jwttoken()
     );
@@ -40,13 +48,13 @@ export class CustomerService {
 
   getSizes() {
     return this.http.get(
-      'http://localhost:5000/size/getsizes',
+      this.sizeUrl,
       this.jwttoken()
     );
   }
   getThickness() {
     return this.http.get(
-      'http://localhost:5000/thickness/getAllthickness',
+      this.thicknessUrl,
       this.jwttoken()
     );
   }
@@ -57,7 +65,7 @@ export class CustomerService {
       thicknessId: tid,
     };
     return this.http.post(
-      'http://localhost:5000/price/getpricesWithid',
+      this.priceUrl,
       data,
       this.jwttoken()
     );
@@ -71,7 +79,7 @@ export class CustomerService {
 
   addAddresses(data: any) {
     return this.http.post(
-      'http://localhost:5000/cart/addcheckout',
+      this.cartUrl + '/addcheckout',
       data,
       this.jwttoken()
     );
@@ -79,7 +87,7 @@ export class CustomerService {
 
   getAddress(id: any) {
     return this.http.get(
-      'http://localhost:5000/cart/viewCheckoutbyId/' + id,
+      this.cartUrl + '/viewCheckoutbyId/' + id,
       this.jwttoken()
     );
   }
