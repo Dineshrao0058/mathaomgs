@@ -43,10 +43,15 @@ export class WallphotoComponent implements OnInit {
   qty = 0;
   total = 0;
 
-
+  
  
   selectedBackgroundImage: string | null = null;
-  backgroundImages: string[] = ['src/assets/images/clock/wall-clock2.jpg', 'image2.jpg', 'image3.jpg'];
+  // BackgroundImage:any
+  // backgroundImages: BackgroundImage[] = [
+  //   { name: 'Image 1', path: 'assets/images/image1.jpg' },
+  //   { name: 'Image 2', path: 'assets/images/image2.jpg' },
+  //   { name: 'Image 3', path: 'assets/images/image3.jpg' }
+  // ];
   
   @ViewChild('imageElement')
   imageElement!: ElementRef;
@@ -178,18 +183,14 @@ export class WallphotoComponent implements OnInit {
   }
 
  
-  toggleBackground(backgroundImage: string | null): void {
-    if (backgroundImage === this.selectedBackgroundImage) {
-      // If the clicked image is already selected, remove the background
-      this.selectedBackgroundImage = null;
-    } else {
-      // Otherwise, set the clicked image as the background
-      this.selectedBackgroundImage = backgroundImage;
-    }
-  }
-
- 
- 
-  
+  // toggleBackground(backgroundImage: BackgroundImage): void {
+  //   if (backgroundImage === this.selectedBackgroundImage) {
+  //     // If the clicked image is already selected, remove the background
+  //     this.selectedBackgroundImage = null;
+  //   } else {
+  //     // Otherwise, set the clicked image as the background
+  //     this.selectedBackgroundImage = backgroundImage;
+  //   }
+  // }
 
 }

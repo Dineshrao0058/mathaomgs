@@ -95,11 +95,13 @@
 
             <!-- <div>
               <h3>Select Background Image</h3>
-              <div *ngFor="let backgroundImage of backgroundImages">
-                <button (click)="toggleBackground(backgroundImage)">
-                  {{ selectedBackgroundImage === backgroundImage ? 'Remove' : 'Select' }} {{ backgroundImage }}
-                </button>
-              </div>
+              <ul>
+                <li *ngFor="let b of backgroundImages">
+                  <button (click)="toggleBackground(b)">
+                    {{ b.name }}
+                  </button>
+                </li>
+              </ul>
             </div> -->
             <!-- image drag and drop -->
             <div class="text-center p-3">
