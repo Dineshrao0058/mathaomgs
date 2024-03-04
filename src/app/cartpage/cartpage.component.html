@@ -29,7 +29,7 @@
               </div>
               <div class="col-sm-2">
                 <div>
-                  <img src="{{ this.imgs }}" alt="" width="100%" height="120" />
+                  <img src="{{ serverUrl }}/uploads/{{ c.photo }}" alt="" width="100%" height="120" />
                 </div>
               </div>
               <div class="col-sm-7">
@@ -48,7 +48,7 @@
                     <td>
                       <p>{{ c.thicknes_details[0]?.thickness }}</p>
                     </td>
-                    <td >
+                    <td>
                       <!-- <p>{{ c.quantity }}</p> -->
                       <div class="">
                         <form [formGroup]="quatityForm" class="d-flex">
@@ -60,15 +60,12 @@
                             <option value="4">4</option>
                             <option value="5">5</option>
                           </select>
-                          <button
-                            class="btn btn-success btn-sm ms-1"
-                            (click)="increseQuantity(c)"
-                          >
+                          <button class="btn btn-success btn-sm ms-1" (click)="increseQuantity(c)">
                             Add
                           </button>
                         </form>
                       </div>
-                     
+
                     </td>
                     <td>
                       <p>{{ c.createdAt | date }}</p>
@@ -104,9 +101,7 @@
         <div class="row mt-4">
           <div class="mt-4">
             <p class="mt-4">
-              <span class="text text-success fs-6 fw-bold"
-                >Your order qualifies for FREE Delivery.</span
-              >
+              <span class="text text-success fs-6 fw-bold">Your order qualifies for FREE Delivery.</span>
             </p>
             <p>Select this option at checkout.</p>
             <div class="">
