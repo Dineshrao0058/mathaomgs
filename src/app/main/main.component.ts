@@ -88,6 +88,8 @@ export class MainComponent implements OnInit {
 
   viewfile(event: any) {
     this.selectedFile = event.target.files[0] as File;
+    console.log(this.selectedFile, 'file selected');
+    
     this.showImg = true;
     this.hideFile = false;
   }
@@ -143,7 +145,7 @@ export class MainComponent implements OnInit {
     formData.append('price', this.addcartForm.value.price);
     formData.append('cartId', this.uid);
 
-    console.log(formData, 'formdata');
+    console.log(formData, 'formdata'); 
 
     this.api.addtoCart(formData).subscribe((res: any) => {
       console.log(res, 'cart item added');

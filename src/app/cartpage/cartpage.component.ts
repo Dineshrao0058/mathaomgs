@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { CustomerService } from '../shared/services/customer.service';
 import { Router } from '@angular/router';
 import { FormBuilder, FormGroup } from '@angular/forms';
+import { CONSTANTS } from '../server/constants';
 
 @Component({
   selector: 'app-cartpage',
@@ -22,6 +23,9 @@ export class CartpageComponent implements OnInit {
   cid: any;
   pprice: any;
   gtotal: any;
+
+  serverUrl = CONSTANTS.serverUrl
+
   constructor(
     private api: CustomerService,
     private router: Router,
@@ -78,7 +82,7 @@ export class CartpageComponent implements OnInit {
 
     this.api.editCartItems(d).subscribe((res: any) => {
       console.log(res);
+      this.router.navigate(['/cart']);
     });
-    window.location.reload();
   }
 }
