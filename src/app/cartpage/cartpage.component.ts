@@ -30,7 +30,7 @@ export class CartpageComponent implements OnInit {
     private api: CustomerService,
     private router: Router,
     private fb: FormBuilder
-  ) {}
+  ) { }
   ngOnInit(): void {
     this.imgs = '../../assets/images/adminmain.jpg';
     this.cartId = localStorage.getItem('customer');
@@ -45,7 +45,7 @@ export class CartpageComponent implements OnInit {
       this.gtotal = this.cartList.map((i: any) => i.price * i.quantity);
       console.log(this.gtotal);
 
-    
+
       this.grandTotal = this.gtotal.reduce((a: any, b: any) => a + b, 0);
       console.log(this.gtotal, this.grandTotal, 'total price');
 
@@ -82,7 +82,13 @@ export class CartpageComponent implements OnInit {
 
     this.api.editCartItems(d).subscribe((res: any) => {
       console.log(res);
-      this.router.navigate(['/cart']);
+      // this.router.navigate(['/cart']);
+      this.reloadPage()
+    });
+  }
+  reloadPage() {
+    this.router.navigateByUrl('/cart', { skipLocationChange: true }).then(() => {
+      this.router.navigate([this.router.url]);
     });
   }
 }
