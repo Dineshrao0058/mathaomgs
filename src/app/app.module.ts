@@ -25,7 +25,6 @@ import { HttpClientModule } from '@angular/common/http';
 import { CartpageComponent } from './cartpage/cartpage.component';
 import { HeaderComponent } from './header/header.component';
 import { CheckoutComponent } from './checkout/checkout.component';
-import { NgxImageZoomModule } from 'ngx-image-zoom';
 import { DragDropModule } from '@angular/cdk/drag-drop';
 @NgModule({
   declarations: [
@@ -57,7 +56,6 @@ import { DragDropModule } from '@angular/cdk/drag-drop';
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
-    NgxImageZoomModule,
     DragDropModule,
   ],
   providers: [],
