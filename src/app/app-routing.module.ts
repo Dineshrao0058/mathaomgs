@@ -14,14 +14,15 @@ import { CartpageComponent } from './cartpage/cartpage.component';
 import { CheckoutComponent } from './checkout/checkout.component';
 
 const routes: Routes = [
-  { path: '', component: SigninSignupComponent },
+  { path: '', component: FrameComponent },
+  { path: 'frame', component: FrameComponent },
+  { path: 'signup', component: SigninSignupComponent },
   { path: 'login', component: SigninSignupComponent },
   {
-    path: '',
+    path: 'home',
     component: HomeComponent,
     children: [
-      { path: '', component: FrameComponent },
-      { path: 'home', component: FrameComponent },
+      { path: '', component: MainComponent },
       { path: 'main', component: MainComponent },
       { path: 'design', component: DesignComponent },
       { path: 'clock', component: WallclockComponent },
@@ -39,4 +40,4 @@ const routes: Routes = [
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule],
 })
-export class AppRoutingModule {}
+export class AppRoutingModule { }
