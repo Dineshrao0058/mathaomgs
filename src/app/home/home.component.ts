@@ -23,12 +23,12 @@ export class HomeComponent {
   constructor(private router: Router) {}
 
   gotoCart(){
-    this.router.navigate(['/cart']);
+    this.router.navigate(['home/cart']);
   }
 
   logout() {
     localStorage.removeItem('customer');
     localStorage.removeItem('userToken');
-    this.router.navigate(['/login']);
+    this.router.navigate(['/']);
   }
 }
