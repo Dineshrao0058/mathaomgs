@@ -1,5 +1,3 @@
-
-
 export const CONSTANTS = {
     serverUrl: 'https://78.142.47.247:8000',
     customerUrl: 'https://78.142.47.247:8000/customer',

@@ -70,12 +70,6 @@ export class CustomerService {
       this.jwttoken()
     );
   }
-  // getCart() {
-  //   return this.http.get(
-  //     'http://localhost:5000/price/getframes',
-  //     this.jwttoken()
-  //   );
-  // }
 
   addAddresses(data: any) {
     return this.http.post(
