@@ -70,7 +70,7 @@ export class CartpageComponent implements OnInit {
   }
 
   checkout() {
-    this.router.navigate(['/checkout']);
+    this.router.navigate(['/home/checkout']);
   }
 
   increseQuantity(c: any) {

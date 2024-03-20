@@ -149,7 +149,7 @@ export class MainComponent implements OnInit {
 
     this.api.addtoCart(formData).subscribe((res: any) => {
       console.log(res, 'cart item added');
-      this.router.navigate(['/cart']);
+      this.router.navigate(['/home/cart']);
     });
   }
 
